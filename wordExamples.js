@@ -60,6 +60,13 @@ zzz: [
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
 ],
+verhöhnen: [  
+	'<strong>verhöhnen</strong>: taunt, jeer at, ridicule, mock, scorn'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verhoehnen"target="target1">verhöhnen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verh%C3%B6hnen"target="target2">verhöhnen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verh%C3%B6hnen&id=verb%3Averho3hnen"target="target3">verhöhnen</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/verh%C3%B6hnen"target="target4">verhöhnen</a>',
+	'<u>Der stumme Tod</u>',
+	'Die Nazis hatten eine Art Staatsbegräbnis daraus gemacht, und die Kommunisten hatten den Trauerzug von Anfang an mit provozierenden Parolen gestört, das Mordopfer immer wieder als Zuhälter <strong>verhöhnt</strong>. Selbst wenn das der Wahrheit nahekommen sollte, dachte Rath, die feine englische Art war es nicht gerade. (<i>Der stumme Tod</i>, 236)',	
+],
 ausloben: [  
 	'<strong>ausloben</strong>: offer an award'+  
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ausloben"target="target1">ausloben</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausloben"target="target2">ausloben</a>'+
@@ -1626,8 +1633,9 @@ vorbauen: [
 	'Jedenfalls hörte er (<i>Rath</i>) einen starken süddeutschen Akzent, als einer der Männer einer jungen Frau, die gerade vorüberging und <strong>schüchtern</strong> zur Seite blickte, ein unsittliches Angebot machte. "Lern erst mal Deutsch, wennde willst, dass dich eene entjungfert", gab die Frau zurück, die plöztlich gar nicht mehr <strong>schüchtern</strong> wirkte. (<i>Der nasse Fisch</i>, 93)',
 	'<u>Der stumme Tod</u>',
 	'Ein Wachmann stand in der Tür und schob einen <strong>verschüchterten</strong>, blassen Mann in den Raum.. Rath ließ den Uniformierten draußen warten und betrachtete den Mann (<i>Glaser</i>), den man ihm gebracht hatte. (<i>Der stumme Tod</i>, 54)',	
+	'<i>Voss</i>: "Entschuldigung, Herr Kommissar, aber - ich..." "Ihr Glück, dass Sie sonst pünktlich sind", sagte Rath. Wieder sinkte sie ihren Blick, eine <strong>schüchterne</strong> Geste, die überhaupt nicht zu ihrem Berliner Görengesicht passen wollte... (<i>Der stumme Tod</i>, 237-38)',
 	'<u>Märzgefallene</u>',    
-	'Der Lesesaal der Universitätsbibliothek war groß wie eine Bahnhofshalle, nur war es hier viel, viel leiser. Das Einzige, was Rath ab und an hörte, war ein <strong>schüchternes Husten</strong>. (<i>Märzgefallene</i>, 374)',
+	'Der Lesesaal der Universitätsbibliothek war groß wie eine Bahnhofshalle, nur war es hier viel, viel leiser. Das Einzige, was Rath ab und an hörte, war ein <strong>schüchternes</strong> Husten. (<i>Märzgefallene</i>, 374)',
 	'<u>Lunapark</u>',   
 	'"Tut mir leid", sagte Charly und hängte ihre Handtasche über den Stuhl. "Hat etwas länger gedauert. Musste dem Jungen noch bei den Hausaufgaben helfen." "Kein Problem." Die Rothaarige zeigte ein <strong>schüchternes</strong>, aber auch irgendwie erleichtertes Lächeln. Es sah ein bisschen so aus, als habe Alexandra Reinhold nicht hundertprozentig damit gerechnet, dass Charly ihre Verabredung einhalten würde. (<i>Lunapark</i>, 63)',
 	'<u>Marlow</u>',  
@@ -1645,8 +1653,9 @@ vorbauen: [
 	'Jedenfalls hörte er (<i>Rath</i>) einen starken süddeutschen Akzent, als einer der Männer einer jungen Frau, die gerade vorüberging und <strong>schüchtern</strong> zur Seite blickte, ein unsittliches Angebot machte. "Lern erst mal Deutsch, wennde willst, dass dich eene entjungfert", gab die Frau zurück, die plöztlich gar nicht mehr <strong>schüchtern</strong> wirkte. (<i>Der nasse Fisch</i>, 93)',
 	'<u>Der stumme Tod</u>',
 	'Ein Wachmann stand in der Tür und schob einen <strong>verschüchterten</strong>, blassen Mann in den Raum.. Rath ließ den Uniformierten draußen warten und betrachtete den Mann (<i>Glaser</i>), den man ihm gebracht hatte. (<i>Der stumme Tod</i>, 54)',	
+	'<i>Voss</i>: "Entschuldigung, Herr Kommissar, aber - ich..." "Ihr Glück, dass Sie sonst pünktlich sind", sagte Rath. Wieder sinkte sie ihren Blick, eine <strong>schüchterne</strong> Geste, die überhaupt nicht zu ihrem Berliner Görengesicht passen wollte... (<i>Der stumme Tod</i>, 237-38)',
 	'<u>Märzgefallene</u>',    
-	'Der Lesesaal der Universitätsbibliothek war groß wie eine Bahnhofshalle, nur war es hier viel, viel leiser. Das Einzige, was Rath ab und an hörte, war ein <strong>schüchternes Husten</strong>. (<i>Märzgefallene</i>, 374)',
+	'Der Lesesaal der Universitätsbibliothek war groß wie eine Bahnhofshalle, nur war es hier viel, viel leiser. Das Einzige, was Rath ab und an hörte, war ein <strong>schüchternes</strong> Husten. (<i>Märzgefallene</i>, 374)',
 	'<u>Lunapark</u>',   
 	'"Tut mir leid", sagte Charly und hängte ihre Handtasche über den Stuhl. "Hat etwas länger gedauert. Musste dem Jungen noch bei den Hausaufgaben helfen." "Kein Problem." Die Rothaarige zeigte ein <strong>schüchternes</strong>, aber auch irgendwie erleichtertes Lächeln. Es sah ein bisschen so aus, als habe Alexandra Reinhold nicht hundertprozentig damit gerechnet, dass Charly ihre Verabredung einhalten würde. (<i>Lunapark</i>, 63)',
 	'<u>Marlow</u>',  
@@ -3293,12 +3302,14 @@ ungezogen: [
 	'Rath erinnerte sich daran, wie er es bei Böhm abgeliefert hatte. Der Oberkommissar hatte ihn und seine Lieferung mit keinem Blick gewürdigt und die Papiere auf dem Schreibtisch liegen lassen.. Dennoch waren sie in der Ermittlungsakte gelandet, allerdings lieblos <strong>abgeheftet</strong>, ohne jedes System. (<i>Der nasse Fisch</i>, 514)',
 	'<u>Der stumme Tod</u>', 
 	'Rath schaute auf die Uhr und packte alle <strong>Hefter</strong> wieder zusammen, stauchte sie akkurat zusammen und legte sie zurück an ihren Platz. Zeit zu gehen. (<i>Der stumme Tod</i>, 125)',
-	'Erika Voss erwartete ihn schon. "Da sind Sie ja! Herr Kommissar, Sie glauben gar nicht, was hier los ist! Oberkomissar Böhm..." <i>Rath</i>: "Dann rufen Sie Böhm an und sagen Sie ihm, dass ich hier bin. Das heiß: Warten Sie noch damit, ich muss erst ein paar Dinge <strong>abheften</strong>." [...] "Vor allem könnten Sie mir das hier schön säuberlich <strong>abheften</strong>." Er holte den Bericht aus der Tasche, den er gestern in Weinerts Maschine getippt hatte. Sie nickte brav, suchte einen neuen <strong>Hefter</strong> aus der Schublade und zog den großen schwarzen Locher zu sich herüber. (<i>Der stumme Tod</i>, 196)',
+	'Erika Voss erwartete ihn schon. "Da sind Sie ja! Herr Kommissar, Sie glauben gar nicht, was hier los ist! Oberkomissar Böhm..." <i>Rath</i>: "Dann rufen Sie Böhm an und sagen Sie ihm, dass ich hier bin. Das heiß: Warten Sie noch damit, ich muss erst ein paar Dinge <strong>abheften</strong>." ... "Vor allem könnten Sie mir das hier schön säuberlich <strong>abheften</strong>." Er holte den Bericht aus der Tasche, den er gestern in Weinerts Maschine getippt hatte. Sie nickte brav, suchte einen neuen <strong>Hefter</strong> aus der Schublade und zog den großen schwarzen Locher zu sich herüber. (<i>Der stumme Tod</i>, 196)',
 	'Rath nahm den <strong>Hefter</strong> entgegen, der einen ganz manierlichen Eindruck machte, und steckte ihn zurück in die braune Ledertasche. (<i>Der stumme Tod</i>, 197)',
 	'"Guten Mogen, liebe Kollegen", sagte er, als er am Podest angekommen war, "guten Morgen, Herr Oberkommissar." Rath hielt den <strong>Hefter</strong> in die Höhe. "Ich habe mir erlaubt", fuhr er fort, "meine bisherigen Ergebnisse in einem Bericht zusammenzufassen, den ich ..." <i>Böhm</i>: "Kein Geplänkel! Kommen Sie bitte zur Sache!" (<i>Der stumme Tod</i>, 198-99)',
 	'"Sie können mir Ihren Bericht geben", sagte Böhm, "und dann sind Sie vorerst von der Mitarbeit am Fall Winter befreit." Rath hatte einen Protest auf den Lippen, aber er biss sich auf die Zunge. Würde ja doch nichts ändern. Er reichte Böhm den <strong>Hefter</strong>. (<i>Der stumme Tod</i>, 200)',
 	'Böhm hatte ausdrücklich - und schriftlich - vermerkt, dass Rath auch einen Bericht von der Wessel-Beisetzung zu den Akten <strong>heften</strong> solle, einen Bericht, den nur Gräf schreiben konnte, denn der war am Samstag auf dem Friedhof gewesen. (<i>Der stumme Tod</i>, 201)',
 	'Der Kriminalsekretär (<i>Gräf</i>) zog einen großen braunen Umschlag aus dem Jackett. "Mein Bericht zur Wessel-Beisetzung. Kannst du (<i>Rath</i>) morgen zu den Akten <strong>heften</strong>..." (<i>Der stumme Tod</i>, 227)',
+	'Rath machte sich gleich an die Arbeit, holte Gräfs Bericht aus dem Umschlag und <strong>heftete</strong> die zwölf Seiten zu den übrigen Berichten von der Wessel-Beisetzung... (<i>Der stumme Tod</i>, 236)',
+	'Rath brauchte keine Stunde, bis er alles <strong>abgeheftet</strong> hatte, doch er verspürte keine große Lust, mit den fertigen Wessel-Akten jetzt schon zu Böhm zu rennen. (<i>Der stumme Tod</i>, 237)',
 	'<u>Märzgefallene</u>',  
 	'<i>Gräf</i>: "Es war kein Unfall. Die Kollegen haben Hannah Singer vor der brennenden Baracke aufgegriffen; die Streichhölzer, mit denen sie das Feuer entfacht hat, lagen noch zu ihren Füßen..." <i>Böhm</i>: "Und warum hat sie das getan?" "Wenn wir das wüssten." Gräf zuckte die Achseln und zeigte auf die Akte. "Hier sind sämtliche Verhöre <strong>abgeheftet</strong>, denen Hannah Singer damals unterzogen wurde. Elf an der Zahl. Und in keinem hat sie auch nur ein einziges Wort gesagt." (<i>Märzgefallene</i>, 27)',	
 	'<i>Voss</i>: "Was ist das?", fragte sie und wies auf das Manuskript auf Raths Schreibtisch.... <i>Rath</i>: "Märzgefallene. Der Roman unseres Freiherrn. Da stehen seine Kriegserlebnisse drin." "Heißt das, ich hätte mir das Mitstenographieren sparen können?" Erika Voss präsentierte eine sauber <strong>geheftete</strong> Aktenmappe. "Das Protokoll. Fertig getippt." (<i>Märzgefallene</i>, 147)',
@@ -4942,6 +4953,7 @@ Schrebergarten: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/schrebergarten"target="target3">Schrebergarten</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/schrebergarten"target="target4">Schrebergarten</a>',
 	'<u>Der stumme Tod</u>',
 	'<i>Rath zu Gräf</i>: "Ich will nur wissen, wie es weitergeht. Das war unser Fall, und wir waren schon ganz schön weit, bis Böhm uns die Butter vom Brot genommen hat. Und jetzt? Lässt er dich im Grunewald <strong>Schrebergärten</strong> abklappern?" (<i>Der stumme Tod</i>, 228)',     
+	'<i>Weinert zu Rath</i>: ".. Sitzt er (<i>Krempin</i>) wirklich in einem <strong>Schrebergarten</strong> irgendwo im Grunewald?" (<i>Der stumme Tod</i>, 236)',  
 	'<u>Lunapark</u>',
 	'Der Pfarrer von Sankt Norbert besaß einen <strong>Schrebergarten</strong> in der Laubenkolonie. Dort hatte er vor einigen Jahren (<i>im Roman <u>Goldstein</u></i>) schon einmal einem Mann, der von der Polizei gesucht wurde, Asyl gewährt. (<i>Lunapark</i>, 416)',   
 	'Nein, er (<i>Rath</i>) konnte heute nicht im Büro sitzen, er musste raus auf die Straße, musste zurück zur Laubenkolonie. Würde er eben jeden einzelnen <strong>Schrebergarten</strong> betreten, in dem keine Leute saßen, würde höflich an jede Tür klopfen, würde im Zweifel seine Sperrhaken benutzen und hoffen, dass man ihn nicht erwischte. (<i>Lunapark</i>, 468)',
@@ -9366,6 +9378,8 @@ bloßstellen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/blossstellen"target="target3">bloßstellen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=blo%C3%9Fstellen"target="target4">bloßstellen</a>',
 	'<u>Der nasse Fisch</u>', 
 	'Böhm sollte andere herumschubsen, wenn ihm das Spaß machte, mit Gereon Rath konnte er solche Spiele nicht treiben. Wenn er (<i>Rath</i>) an den selbstherrlichen Mordermittler dachte, freute Rath sich immer mehr auf den Tag, an dem er ihn mit dem Fall <i>Wassermann</i> <strong>bloßstellen</strong> konnte. (<i>Der nasse Fisch</i>, 330)',
+	'<u>Der stumme Tod</u>',
+	'Er (<i>Rath</i>) machte sich an den Bericht, den Weiß eingefordert hatte. Gar nicht so einfach, den Hergang seiner Auseinandersetzung mit Brenner in Worte zu fassen, wie er merkte, als er nach möglichst unverfänglichen Formulierungen suchte... Er schrieb die Sätze dennoch hin. Wenigstens konnte er darauf aufbauen, so weit umformulieren und weglassen, bis sein Bericht der Wahrheit entsprach und Charly gleichwohl nicht <strong>bloßstellte</strong>. (<i>Der stumme Tod</i>, 237)', 
 	'<u>Märzgefallene</u>',
 	'"Aber Sie (<i>Rath</i>) haben recht", fuhr Böhm fort, "Sie sollten unter keinen Umständen riskieren, den Polizeipräsidenten <strong>bloßzustellen</strong>. So etwas war früher schon nicht empfehlenswert, aber heutzutage, so fürchte ich, kann es Sie mehr als nur Ihre Stelle kosten." (<i>Märzgefallene</i>, 493)',
 	'"Manche Leute merken gar nicht, was sie so anrichten." Rath musste an Böhms Worte denken. Welche Folgen es heutzutage nach sich ziehen konnte, den Polizeipräsidenten <strong>bloßzustellen</strong>. (<i>Märzgefallene</i>, 508)',
@@ -12635,6 +12649,8 @@ gluckern: [
 	'das <strong>Gör</strong>,-<strong>en</strong> oder die <strong>Göre</strong>,-<strong>n</strong>: brat, guttersnipe gal'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Goer"target="target1">Gör</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/G%C3%B6r"target="target2">Gör</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gor_2"target="target3">Gör</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=G%C3%B6r"target="target4">Gör</a>',
+	'<u>Der stumme Tod</u>',
+	'<i>Voss</i>: "Entschuldigung, Herr Kommissar, aber - ich..." "Ihr Glück, dass Sie sonst pünktlich sind", sagte Rath. Wieder sinkte sie ihren Blick, eine schüchterne Geste, die überhaupt nicht zu ihrem Berliner <strong>Gören</strong>gesicht passen wollte... (<i>Der stumme Tod</i>, 237-38)',
 	'<u>Märzgefallene</u>',
 	'So schnell sie konnte, rannte Hannah zur Tür, Huckebein humpelte mit einem wütenden Schrei hinter ihr her...."Dich mach ich fertig, du blödes <strong>Gör</strong>!" (<i>Märzgefallene</i>, 69)',
 	'"Hier ist es", sagte Oberschwester Ingeborg überflüssigerweise und schenkte Charly einen abschätzigen Blick. <i>Deinetwegen ist das <strong>Gör</strong> ausgerückt</i>, sagte dieser Blick, <i>wärest du nicht gekommen und hättest unseren Frieden gestört, hätten wir den ganzen Ärger nicht</i>! (<i>Märzgefallene</i>, 80)',
@@ -14654,6 +14670,7 @@ knurren: [
 	'Er war gerade dabei sich das Hemd in die neue Hose zu stopfen als das Telefon auf seinem Schreibtisch klingelte. "Rath, Kriminalpolizei." "Hier ebenfalls." So meldete sich nur einer: Kriminaldirektor Engelbert Rath.. "Oh, was für eine Überraschung", <strong>knurrte</strong> Gereon in den Hörer. (<i>Der nasse Fisch</i>, 236)',
 	'<u>Der stumme Tod</u>',
 	'Er hat gewusst, wann die Küche leer und der Ausflug ungefährlich war. Er hat mit <strong>knurrendem</strong> Magen vor all den Köstlichkeiten gestanden und doch nur zaghaft probiert, von den Dingen, die er nicht essen durfte. (<i>Der stumme Tod</i>, 67)',
+	'Keine fünf Minuten später klopfte es. Rath reagierte unwirsch. "Was ist denn?", <strong>knurrte</strong> er. (<i>Der stumme Tod</i>, 238)',
 	'<u>Märzgefallene</u>',
 	'Essenszeit. In den Gängen der Wittenauer Heilstätten roch es nach Kohl und Bratwurst, und ihr Magen  <strong>knurrte</strong>. Sie (<i>Charly</i>) eilte den blankgebohnerten Flur entlang, im Bemühen, mit Oberschwester Ingeborg Schritt zu halten. (<i>Märzgefallene</i>, 78)',
 	'<u>Lunapark</u>',
@@ -16351,12 +16368,17 @@ Pappenstiel: [
 	'<u>Märzgefallene</u>',
 	'<i>Fritze</i>: "Was springt denn dabei raus für mich?" "Hundert." "Zweihundert wäre besser." "Hundert." Der Junge tat so, als müsse er überlegen, ob sich das noch für ihn lohne, doch stand ihm ins Gesicht geschrieben, dass er das Geld brauchte. Und hundert Mark waren kein <strong>Pappenstiel</strong>.... "Gut, Hundert." Der Junge war nicht gut im Feilschen. (<i>Märzgefallene</i>, 380)',
 ],
-pöbeln: [
+'pöbeln, Pöbel': [
 	'<strong>pöbeln</strong>: swear, slander'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/poebeln"target="target1">pöbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pöbeln"target="target2">pöbeln</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/pobeln?q=p%C3%B6beln"target="target3">pöbeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=p%C3%B6beln"target="target4">pöbeln</a>',
+	'<br>der <strong>Pöbel</strong>,-: mob, rabble riffraff'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/poebeln"target="target1">pöbeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/P%C3%B6bel"target="target2">Pöbel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pobeln"target="target3">pöbeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=P%C3%B6bel&id=substantiv%3APo3bel"target="target4">Pöbel</a>',
 	'<u>Der nasse Fisch</u>',
 	'"Halt, stehen bleiben! Polizei!", rief Rath. Sein Ruf wirkte auf Wilhelm zwo wie ein Startschuss. Der Mann richtete sich auf und schoss nach vorn, quer über die Fahrbahn zum Bürgersteig, auf dem er sich rüde an ein paar Passanten vorbei<strong>pöbelte</strong>. (<i>Der nasse Fisch</i>, 22)',
+	'<u>Der stumme Tod</u>',
+	'Aus Gräfs Bericht meinte er sogar ein gewisses Verständnis für die Wut der Völkischen herauszulesen, sich vom roten <strong>Pöbel</strong> so beschimpfen lassen zu müssen. Die Nazis sprachen ihren Toten als Märtyrer heilig, die Roten beschimpften ihn als Luden - gelogen war beides. (<i>Der stumme Tod</i>, 237)',
+	'<u>Märzgefallene</u>',
+	'<i>Rath zu seinem Vater</i>: "Adenauer ist abgesetzt, habe ich gehört." <i>Engelbert Rath</i>: "Was heißt abgesetzt? Gauleiter Grohe hat ihn für abgesetzt erklärt. Der braune <strong>Pöbel</strong> hat heute Morgen das Rathaus gestürmt." (<i>Märzgefallene</i>, 310)', 
 	'<u>Lunapark</u>', 
 	'Wo es ihr (<i>Charly</i>) eben möglich war, versuchte sie, die Begegnung mit der SA zu vermeiden. Die jungen Männer in den braunen Uniformen <strong>pöbelten</strong> einfach zu gerne. (<i>Lunapark</i>, 115)',
 ],
@@ -20583,6 +20605,8 @@ unwirsch: [
 	'"Lassen wir die Spekulationen. Sammeln wir Anhaltspunkte." Böhms Stimme klang <strong>unwirsch</strong>, wieder ganz so, wie Rath es von ihm gewöhnt war. (<i>Der nasse Fisch</i>, 324)',
 	'<i>Rath</i>: "..Einiges von dem, was ich Ihnen soeben erzählt habe, vor allem die Sachen über die <i>Rote Festung</i> und das Sorokin-Gold, das wird heute noch im <i>Abendblatt</i> stehen.. Deswegen hielt ich es für meine Pflicht, den Herrn Polizeipräsidenten umgehend zu informieren." "Ja, Sie haben ja recht.." Zörgiebel wedelte <strong>unwirsch</strong> mit seinen dicken Händen durch die Luft. (<i>Der nasse Fisch</i>, 363)',
 	'"Was ist denn überhaupt passiert?", fragte Rath <strong>unwirsch</strong>. "Erzählen Sie doch mal von vorne!" (<i>Der nasse Fisch</i>, 433)',
+	'<u>Der stumme Tod</u>',
+	'Keine fünf Minuten später klopfte es. Rath reagierte <strong>unwirsch</strong>. "Was ist denn?", knurrte er. (<i>Der stumme Tod</i>, 238)',
 	'<u>Märzgefallene</u>',
 	'Das Foto zeigte Gereon im Einsatz, im leicht zerknitterten Anzug, die Hände in den Manteltaschen, wie er eher <strong>unwirsch</strong> in die Kamera schaute. (<i>Märzgefallene</i>, 28)',
 	'"Dann wollen wir uns mal einen Vernehmungsraum suchen", sagte Zientek (<i>Nazi Kriminalsekretär</i>) und ging zur Tür. Es klang ein wenig <strong>unwirsch</strong>. (<i>Märzgefallene</i>, 217)',
@@ -21639,6 +21663,8 @@ verunzieren: [
 	'Die Einsamkeit in Roeders Büro empfing ihn (<i>Rath</i>) wie einen alten Freund. Eine Schreibmaschine gab es nur im Vorzimmer. Also setzte sich Rath an den <strong>verwaisten</strong> Sekretärinnenschreibtisch, spannte ein Blatt Papier ein und überlegte. (<i>Der nasse Fisch</i>, 306)',  
 	'Roeders altes Büro war das eines Einzelkämpfers, bei ihren morgendlichen Besprechungen mit Henning und Czerwinske hatte einer immer auf der Schreibtischkannte Platz nehmen müssen, und das, obwohl sie schon ein Stuhl aus dem <strong>verwaisten</strong> Vorzimmer hereingeholt hatten. (<i>Der nasse Fisch</i>, 327-28)',  
 	'Plisch und Plum brauchten keine zehn Minuten. Auch das <strong>verwaiste</strong> Büro von Erika Voss hatten sie durchsucht. (<i>Der nasse Fisch</i>, 397)',
+	'<u>Der stumme Tod</u>',
+	'Erst gegen neun betrat er (<i>Rath</i>) die Burg. Das Büro war <strong>verwaist</strong>, hatte Böhm ihm auch noch die Voss abgezogen? (<i>Der stumme Tod</i>, 236)', 
 	'<u>Märzgefallene</u>',
 	'Weinert stieg über die Schläuche und ging kurz entschlossen hinein, vorbei an der <strong>verwaisten</strong> Pförtnerloge und hinauf ins Hauptgeschoss.  (<i>Märzgefallene</i>, 56)' ,
 	'Ein grauer wolkenschwerer Himmel lastete auf der Stadt. Rath saß in seinem Büro, die Tür zum Vorzimmer geschlossen, schaute über den <strong>verwaisten</strong> Schreibtisch von Reinhold Gräf hinweg aus dem Fenster und spielte mit einem Bleistift.  (<i>Märzgefallene</i>, 535)',

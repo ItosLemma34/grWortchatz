@@ -54,6 +54,7 @@ const p = [
    'postieren', // postieren: 
    'prallen, auf-, ab-',   
   // 'präparieren' ,
+   'Prämisse',  // Prämisse:
    'prangen', // prangen: 
    'Pranke',  // Pranke: 
    'Präsent, präsent',   

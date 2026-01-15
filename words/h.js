@@ -19,6 +19,7 @@ const h = [
    'handzahm, zahm', //  duplicated 
    'hanebüchen',  // hanebüchen: 
    'hangeln',  // hangeln:
+   'hantieren',  // hantieren:
    'hapern',  // hapern: 
    'Happen, Häppchen',     
    'harren',  // harren: 

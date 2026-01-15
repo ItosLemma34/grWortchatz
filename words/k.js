@@ -70,7 +70,7 @@ const k = [
    'klimpern', // klimpern: 
    'Klinge, über die K. springen', //  duplicated 
    'Klippe', //  Klippe: 
-   'klirren, Geklirr', // duplicated
+   'klirren, an-, Geklirr', // duplicated
    'klitzeklein', // klitzeklein: 
    'klobig',  // klobig:
    'Kloschüssel, Schüssel', // duplicate 

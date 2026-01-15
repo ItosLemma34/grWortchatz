@@ -27,7 +27,7 @@ const g = [
    'geigen (die Meinung geigen)',
    'geizen',   // geizen:
    'Gekicher, kichern',  // duplicated
-   'Geklirr, klirren',  //duplicated
+   'Geklirr, klirren, an-',  //duplicated
    'geknickt',  // geknickt:  
    'Gekrächz',  // Gekrächz:   
    'Gelände',   // Gelände:  

@@ -64,6 +64,7 @@ const b = [
     'blinzeln',  // blinzeln:  
     'Blöße, sich keine B. geben',    
     'bloßstellen', // bloßstellen: 
+    'blümerant',  // blümerant:
     'blutrünstig', // blutrünstig: 
     'bockig' ,  // bockig: 
     'Bodensatz',  // Bodensatz:  

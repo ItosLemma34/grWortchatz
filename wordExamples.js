@@ -946,7 +946,7 @@ reihern: [
 	'Friedrichsen hatte keine Empfangsdame und auch kein Ladenlokal. Er öffnete persönlich, als Rath an der Werkstattür klopfte. Der Mann hatte ein Gesicht, das so <strong>zerknittert</strong> war, dass Rath ihn auf mindestens siebzig schätzte. (<i>Lunapark</i>, 136)',
 	'<u>Marlow</u>',
 	'Und da saß er (<i>Rath</i>) nun. Saß in einer ruhigen Ecke am Parkrand in seinem Auto und starrte auf den <strong>zerknitterten</strong>, aufgerissenen Umschlag auf seinem Schoß. (<i>Marlow</i>, 38)',
-//  more!
+	'Greta fummelte eine <strong>zerknitterte</strong> grüne Pappschachtel aus ihrem Morgenmantel, klaubte eine Eckstein (<i>eine Zigarette</i>) heraus und zündete sie an. (<i>Marlow</i>, 215)',
 ],
 'verknittern, zerknittern': [
 	'<strong>zerknittern</strong> = <strong>verknittern</strong>: crease, crumble, wrinkle'+
@@ -968,6 +968,7 @@ reihern: [
 	'Friedrichsen hatte keine Empfangsdame und auch kein Ladenlokal. Er öffnete persönlich, als Rath an der Werkstattür klopfte. Der Mann hatte ein Gesicht, das so <strong>zerknittert</strong> war, dass Rath ihn auf mindestens siebzig schätzte. (<i>Lunapark</i>, 136)',
 	'<u>Marlow</u>',
 	'Und da saß er (<i>Rath</i>) nun. Saß in einer ruhigen Ecke am Parkrand in seinem Auto und starrte auf den <strong>zerknitterten</strong>, aufgerissenen Umschlag auf seinem Schoß. (<i>Marlow</i>, 38)',
+	'Greta fummelte eine <strong>zerknitterte</strong> grüne Pappschachtel aus ihrem Morgenmantel, klaubte eine Eckstein (<i>eine Zigarette</i>) heraus und zündete sie an. (<i>Marlow</i>, 215)',
 ],
 knutschen: [  
 	'<strong>knutschen</strong>: neck, smooch, kiss, make out'+
@@ -1361,8 +1362,8 @@ Schwall: [
 	'Er (<i>Rath</i>) hatte zwei Bier und zwei Kurze vorgelegt, als Gräf endlich durch die Tür kam. Die Luft im Nassen Dreieck war schon zum Schneiden dick, daran änderte auch der <strong>Schwall</strong> Frischluft nichts, der mit dem Kiminalsekretär in die Kneipe wehte. (<i>Der stumme Tod</i>, 227)',
 	'<u>Märzgefallene</u>',    
 	'Er (<i>Grimberg</i>) wollte etwas sagen, doch das Einzige was aus seinen Lungen kam, war ein <strong>Schwall</strong> Blut. (<i>Märzgefallene</i>, 573)',
-//	'<u>Marlow</u>',
-	// pg 215  
+	'<u>Marlow</u>',
+	'"Es geht tatsächlich um Charly", sagte er (<i>Rath</i>).. "..Ich mache mir Sorgen." Greta, die gerade den nächsten <strong>Schwall</strong> kochendes Wasser in den Porzellanfilter goss, zog die Augenbrauen hoch. (<i>Marlow</i>, 215)',  
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 radieren: [  
@@ -4460,6 +4461,8 @@ Kanne: [
 	'Gräf nahm den Telefonhörer von der Gabel und drückte einen Knopf. "Mettmann? Bringen Sie doch bitte eine <strong>Kanne</strong> Kaffee und zwei Tassen in mein Büro." (<i>Lunapark</i>, 53)',
 	'Helmut Reinhold füllte den Kaffee in den Filter und setzte ihn auf die <strong>Kanne</strong>. (<i>Lunapark</i>, 101)',
 	'Er (<i>Rath</i>) zog sich frische Kleidung an, wählte den dunkelsten Anzug, den er hatte, und begann die Sachen zusammenusuchen, die er für seine Nachtwache brauchte. Eine Fasche Wasser, ein paar Flaschen Afri-Cola, eine Thermos<strong>kanne</strong> Kaffee, eine Taschenlampe. (<i>Lunapark</i>, 487)', 
+	'<u>Marlow</u>', 
+	'"Es geht tatsächlich um Charly", sagte er (<i>Rath</i>).. "..Ich mache mir Sorgen." Greta, die gerade den nächsten Schwall kochendes Wasser in den Porzellanfilter goss, zog die Augenbrauen hoch. "Sie erzählt so wenig", fuhr Rath fort. "Von früher. Von ihrem Vater. Wie er gestorben ist." Greta kam mit der <strong>Kanne</strong> an den Tisch und schenkte ein. (<i>Marlow</i>, 215)',  
 ],
 rülpsen: [  
 	'<strong>rülpsen</strong>: burb, belch'+
@@ -6695,6 +6698,8 @@ klauben: [
 	'<u>Lunapark</u>',
 	'Gräf <strong>klaubte</strong> die Fotos vom Schreibtisch, stauchte sie zu einem Stapel zusammen und legte sie dann einzeln auf die Tischplatte zurück. (<i>Lunapark</i>, 60)',
 	'Der alte Herr hatte seinen Homburg inzwiscen von der Straße <strong>geklaubt</strong> und klopfte den Staub von dem ehemals guten Stück, obwohl das nicht mehr nötig war. Einen Hut konnte man den verbeulten, zerrissenen und verdreckten Fetzen Filz nicht mehr nennen. (<i>Lunapark</i>, 117)',
+	'<u>Marlow</u>',   
+	'Greta fummelte eine zerknitterte grüne Pappschachtel aus ihrem Morgenmantel, <strong>klaubte</strong> eine Eckstein (<i>eine Zigarette</i>) <strong>heraus</strong> und zündete sie an. (<i>Marlow</i>, 215)',
 ],
 Eintänzer: [
 	'<strong>Eintänzer</strong>: professional male dancing partner'+
@@ -11274,6 +11279,7 @@ fummeln: [
 	'Rath überlegte kurz, dann holte er sein Portemonnaie aus der Manteltasche und <strong>fummelte</strong> das Foto heraus, das er immer bei sich trug... (<i>Lunapark</i>, 291)',
 	'<u>Marlow</u>',
 	'Auf dem Weg nach unten begegnete ihm (<i>Rath</i>) eine Frau, die gerade ihre Einkaufstüten vor der Wohnungstür abstellte und einen Schlüssel aus der Manteltasche <strong>fummelte</strong>. (<i>Marlow</i>, 100)',
+	'Greta <strong>fummelte</strong> eine zerknitterte grüne Pappschachtel aus ihrem Morgenmantel, klaubte eine Eckstein (<i>eine Zigarette</i>) heraus und zündete sie an. (<i>Marlow</i>, 215)',
 ],
 'Fall der Fälle': [
 	'<strong>Fall der Fälle</strong>: worst-case scenario; just in case'+
@@ -16484,7 +16490,8 @@ postieren: [
 ],
 'Pappe, pappen, Papp-': [ 
 	'die <strong>Pappe</strong>,-<strong>n</strong>: cardboard, pasteboard; posters'+
-	'<br>der <strong>Pappkarton</strong>: cardboard box'+
+	'<br>der <strong>Pappkarton</strong>,-<strong>s</strong>: cardboard box'+
+	'<br>die <strong>Pappschachtel</strong>,-<strong>n</strong>: (small) cardboard box, often with a lid'+
 	'<br><strong>pappen</strong>: paste, stick'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Pappe"target="target1">Pappe</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/pappen"target="target2">pappen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/pappe"target="target3">Pappe</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=pappen"target="target4">pappen</a>',
@@ -16520,6 +16527,7 @@ postieren: [
 	'Schwarzgraues Verdeck, dunkelgrünes Chassis, schwarz-weiße Karostreifen - ohne Frage eine Kraftdroschke (<i>Taxi</i>). Von dem Wagen war allerdings nur das Heck zu sehen, die vordere Hälfte schien in der Mauer verschwunden zu sein. Als sie die Unfallstelle passierten, konnte Rath erkennen, dass die Kühlerhaube zusammengeschoben worden war, als sei sie aus <strong>Pappe</strong>. (<i>Marlow</i>, 26)',
 	'Er (<i>Rath</i>) erkannte die Akte Lehmann, die vor Sowa auf dem Schreibtisch lag, auf dem <strong>Papp</strong>deckel prangte die Handschrift der Voss. (<i>Marlow</i>, 121)',
 	'"Wie Sie meinen", meinte der Beamte (<i>in der Ermittlungsaktenregistratur</i>).., und verschwand im Labyrinth der Regale. Keine zwei Minuten später kehrte er mit zwei dicken Aktenmappen zurück... "Nur zwei?", fragte Rath. "Waren doch drei Aktenzeichen." Der Beamte pustete den restlichen Staub von der <strong>Pappe</strong>. "Die Preußen haben schon immer gespart", sagte er und zeigte auf den Aktendeckel.. "Da hat der Kolleje Böhm dem Staatsanwalt gleich zwei Ermittlungen rinjeheftet (<i>reingeheftet</i>). Hängen wohl auch zusammen." (<i>Marlow</i>, 190)',
+	'Greta fummelte eine zerknitterte grüne <strong>Pappschachtel</strong> aus ihrem Morgenmantel, klaubte eine Eckstein (<i>eine Zigarette</i>) heraus und zündete sie an. (<i>Marlow</i>, 215)',
 ],
 // '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
@@ -18344,6 +18352,7 @@ Spalier: [
 	'<u>Marlow</u>',
 	'Rat zog die Kette der Toiletten<strong>spülung</strong>, steckte sich die Umschläge wieder unter den Mantel, während das Wasser rauschte, und verließ die Kabine. (<i>Marlow</i>, 40)',
 	'Die Witwe (<i>Frau Lehmann</i>) führte ihn (<i>Rath</i>) in eine Wohnküche. Im <strong>Spülstein</strong> stapelten sich schmutzige Töpfe und Teller, auf dem Tisch stand ein Korb schmutziger Wäsche. (<i>Marlow</i>, 48)',
+	'Sie (<i>Greta</i>) stellte die fleckigen Weingläser in den <strong>Spülstein</strong> und ersetzte sie durch saubere Kaffeetassen. (<i>Marlow</i>, 215)',
 ],
 Schlüpfer: [
 	'der <strong>Schlüpfer</strong>,-: briefs, underpants'+

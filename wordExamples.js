@@ -16,7 +16,8 @@ export const wordExamples = {
 // kess Der stumme Tod 283
 // vermengen  Marlow 410
 // dolle Der stumme Tod  218  appears in verschachteln  can't find definition
-//Fluter = Scheinwerfer (spotlight)  
+//Fluter = Scheinwerfer (spotlight) 
+// Walzer Marlow pg 445
 /* finish later:
 patzig: [
 	'<strong>patzig</strong>: &nbsp;cheeky, insolent, impudent <br>Deutsche Definition:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/patzig" target="target1" >patzig</a> ' ,
@@ -59,6 +60,42 @@ zzz: [
 	'<u>Lunapark</u>',   
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
+],
+'ruckeln, Geruckel': [ 
+	'<strong>ruckeln</strong>: jerk, jolt, shake'+
+	'<br>das <strong>Geruckel</strong>: jerking, jolting'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruckeln"target="target1">ruckeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geruckel"target="target2">Geruckel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ruckeln"target="target3">ruckeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Geruckel"target="target4">Geruckel</a>',  
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 273)',	
+	'<u>Märzgefallene</u>',    
+	'Thelens Beschreibung: <i>Ein Stein under der Kellertreppe, dort hat er die Sachen versteckt, bevor wir zur Inspektion aufgebrochen sind.</i> Rath räumte den Balken beiseite und noch mehr Schutt, der sich hier angesammelt hatte, bis er das Mauerwerk unter der Treppe erreichen konnte. Er <strong>ruckelte</strong> an jedem Stein, un einer ließ sich schileßlich, beinah ohne Mühe, bewegen. (<i>Märzgefallene</i>, 602)',
+	'<u>Lunapark</u>',   
+	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im <strong>Geruckel</strong> des Anfahrens, schien der Hund sich noch einmal zu bewegen, schaukelte für ein paar Sekunden hin und her. (<i>Lunapark</i>, 363)',  
+	'<u>Marlow</u>',  
+	'Während die Fotos trockneten, tippte sie (<i>Charly</i>) ihren Bericht in Böhms Schreibmaschine.. Als sie das Blatt aus der Walze nahm, fiel ihr Blick auf die Schreibtischschublade. Auf die obere. Sie <strong>ruckelte</strong> ein wenig daran, aber die Schublade war abgeschlossen. (<i>Marlow</i>, 221)',
+],
+'Geruckel, ruckeln': [ 
+	'<strong>ruckeln</strong>: jerk, jolt, shake'+
+	'<br>das <strong>Geruckel</strong>: jerking, jolting'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/ruckeln"target="target1">ruckeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geruckel"target="target2">Geruckel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=ruckeln"target="target3">ruckeln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Geruckel"target="target4">Geruckel</a>',  
+//	'<u>Der stumme Tod</u>',
+//	'   (<i>Der stumme Tod</i>, 273)',	
+	'<u>Märzgefallene</u>',    
+	'Thelens Beschreibung: <i>Ein Stein under der Kellertreppe, dort hat er die Sachen versteckt, bevor wir zur Inspektion aufgebrochen sind.</i> Rath räumte den Balken beiseite und noch mehr Schutt, der sich hier angesammelt hatte, bis er das Mauerwerk unter der Treppe erreichen konnte. Er <strong>ruckelte</strong> an jedem Stein, un einer ließ sich schileßlich, beinah ohne Mühe, bewegen. (<i>Märzgefallene</i>, 602)',
+	'<u>Lunapark</u>',   
+	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im <strong>Geruckel</strong> des Anfahrens, schien der Hund sich noch einmal zu bewegen, schaukelte für ein paar Sekunden hin und her. (<i>Lunapark</i>, 363)',  
+	'<u>Marlow</u>',  
+	'Während die Fotos trockneten, tippte sie (<i>Charly</i>) ihren Bericht in Böhms Schreibmaschine.. Als sie das Blatt aus der Walze nahm, fiel ihr Blick auf die Schreibtischschublade. Auf die obere. Sie <strong>ruckelte</strong> ein wenig daran, aber die Schublade war abgeschlossen. (<i>Marlow</i>, 221)',
+],
+Walze: [  
+	'die <strong>Walze</strong>,-<strong>n</strong>: drum, barrel; roll, cylinder'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Walze"target="target1">Walze</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Walze"target="target2">Walze</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/walze?q=Walze"target="target3">Walze</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Walze&id=substantiv%3AWalze"target="target4">Walze</a>',
+	'<u>Marlow</u>',  
+	'Während die Fotos trockneten, tippte sie (<i>Charly</i>) ihren Bericht in Böhms Schreibmaschine.. Als sie das Blatt aus der <strong>Walze</strong> nahm, fiel ihr Blick auf die Schreibtischschublade.    (<i>Marlow</i>, 221)',
+	//Marlow pg 445
 ],
 hantieren: [  
 	'<strong>hantieren</strong>: handle, be  busy with sth.'+  
@@ -5615,16 +5652,6 @@ patzig: [
 	'<i>Charly</i>: "Aber das geht doch nicht! Einen Hund totfahren und dann einfach wegfahren." <i>Gereon</i>: "Natürlich geht das nicht." Er zuckte die Achseln. "Aber was hätte das schon geändert, wenn der Mann angehalten hätte? Den Hund hätte das auch nicht wieder lebendig gemacht!" "Ein Mann? Du hast einen Mann gesehen?" "Ich habe niemanden gesehen. Ich gehe nur davon aus, dass ein Mann hinter dem Steuer gesessen hat.." Jetzt klang er nicht mehr traurig und bedrückt, sondern <strong>patzig</strong> und gereizt.  (<i>Lunapark</i>, 367)',  
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 ],
-Geruckel: [
-	'<strong>ruckeln</strong>: jerk, jolt'+
-	'<br>das <strong>Geruckel</strong>: jerking, jolting'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geruckel"target="target1">Geruckel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geruckel"target="target2">Geruckel</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geruckel"target="target3">Geruckel</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/Geruckel"target="target4">Geruckel</a>',
-//	'<u>Der nasse Fisch</u>',   
-//	'<u>Märzgefallene</u>',    
-	'<u>Lunapark</u>', 
-	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im <strong>Geruckel</strong> des Anfahrens, schien der Hund sich noch einmal zu bewegen, schaukelte für ein paar Sekunden hin und her. (<i>Lunapark</i>, 363)',  
-],
 Flittchen: [
 	'das <strong>Flittchen</strong>,-: floozie, slut, tart'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Flittchen"target="target1">Flittchen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Flittchen"target="target2">Flittchen</a>'+
@@ -8640,6 +8667,7 @@ Anwesen: [
 	'Nun stand sie (<i>Charly</i>) vor der Adresse, die Landauer ihr gegeben hatte, stand dort mit ihrem Köfferchen, als sei sie die neue Köchin. Denn auch das Haus in der Victoriastraße war kein Haus, sondern ein <strong>Anwesen</strong>, wenn auch nicht ganz so eindrucksvoll wie das schlossähnliche in Freienwalde. (<i>Lunapark</i>, 478)',
 	'<u>Marlow</u>',
 	'Ihr (<i>Charly</i>) hatte er (<i>Gereon</i>) einfach erklärt, dass das kleine Vermögen, das sein Lieblingsonkel ihm vererbt habe, langsam zur Neige gehe. Und nicht, das er nach Pankow gefahren war, um den letzten Geldumschlag, den Johann Marlow ihm hatte zukommen lassen, über den Zaun des Marlow\'schen <strong>Anwesens</strong> zu werfen. Zurück an den Absender. (<i>Marlow</i>, 45)',
+	'Als er das Haus der Witwe passierte, bog der Hundebesitzer,.. auf den Fußweg, der zur Herta Rinkes Haustür führte, bückte sich kurz, steckte zwei Flaschen Milch in die Manteltaschen, nahm die anderen zwei in die Hand und ging, als sei nichts weiter geschehen, die restlichen Meter zu seinem Haus - ein in allen Belangen stattlicheres <strong>Anwesen</strong> als das von Herta Rinke - und verchwand mit seiner Beute in der Haustür, ohne sich noch einmal umzudrehen. (<i>Marlow</i>, 220)',
 ],
 //'<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>',      
 // <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <strong>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
@@ -8939,9 +8967,9 @@ auflauern: [
 	'<u>Märzgefallene</u>',
 	'Draußen im Park fuhr der Wind durch die Bäume und ließ die kahlen Kronen <strong>schaukeln</strong>. (<i>Märzgefallene</i>, 39)',
 	'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam <strong>aufschaukelte</strong>... (<i>Märzgefallene</i>, 46)',
-	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im Geruckel des Anfahrens, schien der Hund sich noch einmal zu bewegen, <strong>schaukelte</strong> für ein paar Sekunden hin und her.  (<i>Lunapark</i>, 363)',  
 	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>? (<i>Märzgefallene</i>, 387)',
 	'<u>Lunapark</u>',
+	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im Geruckel des Anfahrens, schien der Hund sich noch einmal zu bewegen, <strong>schaukelte</strong> für ein paar Sekunden hin und her. (<i>Lunapark</i>, 363)',  
 	'Elisabeth Spindler saß am Bett ihres Sohnes, hielt dessen Hand und summte ein leises Lied. Womöglich das Schlaflied, das sie Robert schon als Kleinkind gesungen hatte... Sie summte und <strong>schaukelte</strong> dabei mit dem Oberkörper kaum merklich vor und zurück... Elisabeth Spindler summte und <strong>schaukelte</strong>. Auf dem Gesicht ihres Sohnes zeichnete sich so etwas wie ein seliges Lächeln ab. Und das ließ auch die Mutter lächeln. (<i>Lunapark</i>, 437)',
 	'<u>Marlow</u>',
 	'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer wucherten, seine Schwestern spielten mit dem Wäschekorb. Die Kleine saß in dem mittlerweile leeren Korb, den die große Schwester auf den Boden gestellt hatte und hin und her <strong>schaukelte</strong>... (<i>Marlow</i>, 51)',
@@ -8963,9 +8991,9 @@ auflauern: [
 	'<u>Märzgefallene</u>',
 	'Draußen im Park fuhr der Wind durch die Bäume und ließ die kahlen Kronen <strong>schaukeln</strong>. (<i>Märzgefallene</i>, 39)',
 	'Charly glaubte, ein leichtes Zittern zu beobachten, ein kaum merkliches, wie Bäume, die im Wind zitterten, ohne zu schwanken.... Das Zittern wurde stärker, es wirkte wie ein Erdbeben, das sich langsam <strong>aufschaukelte</strong>... (<i>Märzgefallene</i>, 46)',
-	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im Geruckel des Anfahrens, schien der Hund sich noch einmal zu bewegen, <strong>schaukelte</strong> für ein paar Sekunden hin und her.  (<i>Lunapark</i>, 363)',  
 	'Aber dann hatte Doktor M. ihm (<i>Leo</i>) gesagt, wann der diesen Kommissar (<i>Rath</i>) beauftragt hatte. Eine halbe Woche, bevor Katsche ihm das Auge aus dem Kopf gesaugt hatte. Eine halbe Woche! Was hatte der Bulle in all den Tagen getan? Seine <strong>Eier geschaukelt</strong>? (<i>Märzgefallene</i>, 387)',
 	'<u>Lunapark</u>',
+	'Er (<i>Gereon</i>) trug den Hund die Treppen hinunter und auf den Bahnsteig, trug ihn in die Bahn und suchte sich einen Sitzplatz.. Einen Moment, im Geruckel des Anfahrens, schien der Hund sich noch einmal zu bewegen, <strong>schaukelte</strong> für ein paar Sekunden hin und her. (<i>Lunapark</i>, 363)',  
 	'Elisabeth Spindler saß am Bett ihres Sohnes, hielt dessen Hand und summte ein leises Lied. Womöglich das Schlaflied, das sie Robert schon als Kleinkind gesungen hatte... Sie summte und <strong>schaukelte</strong> dabei mit dem Oberkörper kaum merklich vor und zurück... Elisabeth Spindler summte und <strong>schaukelte</strong>. Auf dem Gesicht ihres Sohnes zeichnete sich so etwas wie ein seliges Lächeln ab. Und das ließ auch die Mutter lächeln. (<i>Lunapark</i>, 437)',
 	'<u>Marlow</u>',
 	'Bubi schlug mit einem Stock auf die Brennnesseln (<i>nettle</i> [<i>bot</i>.]) ein, die im Schatten der Brandmauer wucherten, seine Schwestern spielten mit dem Wäschekorb. Die Kleine saß in dem mittlerweile leeren Korb, den die große Schwester auf den Boden gestellt hatte und hin und her <strong>schaukelte</strong>... (<i>Marlow</i>, 51)',
@@ -13056,6 +13084,8 @@ herumlungern: [
 	'Als Rath im (Hotel) Central aus dem Aufzug trat, <strong>lungerte</strong> vor der Suite des geheimnisvollen Herrn Rubens (<i>von Roddeck</i>) bereits eine Handvoll Journalisten <strong>herum</strong>, die auf Einlass warteten. Rath zündete sich eine Zigarette an und reihte sich ein. (<i>Märzgefallene</i>, 329)',
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) war froh, Erich Rambow an ihrer Seite zu haben, wo sie den Hund (<i>Kirie</i>) in der Kanzlei gelassen hatte. Der Fleischergeselle war zwar nicht gerade redselig, aber er würde die Kerle, die an der Theke <strong>herumlungerten</strong> und sie anstarrten, davon abhalten, handgreiflich zu werden. (<i>Lunapark</i>, 224)',
+	'<u>Marlow</u>',
+	'Deswegen hatte Charly diesen Auftrag übernommen: Weil eine Pkw-Observierung nötig war. Sich um diese Uhrzeit in ein Café zu setzen war unmöglich, und wenn man auf der Straße vor irgendwelchen Schaufenstern <strong>herumlungerte</strong>, machte man sich nur verdächtig. (<i>Marlow</i>, 219)',
 ],
 Häkchen: [
 	'das <strong>Häkchen</strong>,-: check (mark), tick; hooklet'+
@@ -15751,7 +15781,7 @@ Machwerk: [
 	'<u>Lunapark</u>',
 	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den denselben Trott fallen wollen wie seinerzeit mit Reinhold Gräf, mit dem er viel zu oft im Nassen Dreieck versackt war. Gräf, mit dem er sich duzte... Gräf, der jetzt mit der Staaspolizei im Rücken <strong>den dicken Max markierte</strong>. (<i>Lunapark</i>, 69-70)',
 ],
-// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
+// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>', Er suchte in seinem Portemonnaie nach Kleingeld
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 meckern: [
 	'<strong>meckern</strong>: gripe, bellyache, bitch about'+
@@ -15768,13 +15798,14 @@ meckern: [
 	'Der Kriminalsekretär (<i>Zientek</i>) guckte misstrauisch. "Suchen Sie (<i>Rath</i>) denn einen bestimmten? Dann können wir eine Anfrage stellen an die SA-Führung. Normalerweise kriegen wir die Leute dann einen Tag später frei Haus." Wieder ließ er sein <strong>meckerndes</strong> Lachen hören. "Manchmal allerdings etwas lädiert. Was für eine Befragung wiederum nicht das Verkehrteste ist." (<i>Märzgefallene</i>, 218)',
 	'<u>Lunapark</u>',
 	'<i>Gereon</i>: "Die Nazis regieren uns schon seit über einem Jahr... Irgendwann muss man sich mit den Gegebenheiten auch mal abfinden. Oder willst du (<i>Charly</i>) so lange weiter<strong>meckern</strong>, bis wir eine neue Regierung haben." (<i>Lunapark</i>, 77)',
-	'Er (<i>Gereon</i>) suchte in seinem Portemonnaie nach Kleingeld und ging hinüber zur Telefonzelle am Steinplatz. Lieber hier einen Groschen einwerfen, als zu Charly in die Wohnung zurückzukehren. Sie würde Fragen stellen. Würde ihm raten, Anzeige zu erstatten. Würde wieder <strong>mechern</strong>. Die Telefonzelle nicht. (<i>Lunapark</i>, 77)',
+	'Er (<i>Gereon</i>) suchte in seinem Portemonnaie nach Kleingeld und ging hinüber zur Telefonzelle am Steinplatz. Lieber hier einen Groschen einwerfen, als zu Charly in die Wohnung zurückzukehren. Sie würde Fragen stellen. Würde ihm raten, Anzeige zu erstatten. Würde wieder <strong>mechern</strong>. Die Telefonzelle nicht. (<i>Lunapark</i>, 280)',
 	'Sie (<i>Fritz, Atze und dessen Vater</i>) fuhren in einem nagelneuen BMW 303, einer Limousine, die deutlich großer war als Gereons amerikanisches Auto, das nicht einmal eine Rückbank besaß, sodass Fritze immer auf dem Notsitz Platz nehmen musste, wenn sie zu dritt irgendwohin fuhren. Auch Charly hatte schon öfter <strong>gemeckert</strong>, das Auto sei zu klein... (<i>Lunapark</i>, 457-58)',
 	'<u>Marlow</u>',
 	'Für Rath waren Überstunden, seit Gennat ihn in der Kriminalgruppe M am ausgestreckten Arm verhungern ließ, so selten wie Schnee im August. Und für Charly waren sie die Regel, seit sie für Wilhelm Böhm arbeitete. Natürlich passte Rath das nicht, doch er konnte nicht <strong>meckern</strong>, sie brauchten das Geld. (<i>Marlow</i>, 45)',
 	'Und zuhause <strong>meckerte</strong> sie (<i>Charly</i>) fast jedesmal rum, wenn er (<i>Fritze</i>) die Uniform trug, dass er nach den Gruppenabenden so oft es ging bei den Rademanns und seinem Freund Atze übernachtete stat zuhause in der Carmerstraße. (<i>Marlow</i>, 54)',
 	'In Charly hatte er (<i>Fritze</i>) gehofft, eine neue Mutter gefunden zu haben, jedenfals eine Frau, die sich um ihn kümmerte und der er nicht völlig gleichgültig war. Keine Pflegemutter, die nur so tat, als wolle sie einen aus der Gosse holen und einen am Ende doch im Stich ließ und nur rum<strong>meckerte</strong>, bei allem, was er tat. (<i>Marlow</i>, 54)',
 	'Er (<i>Rath</i>).. betrachtete die Akte Lehmann neben sich auf der Holzbank. Gennat würde nichts zu <strong>meckern</strong> haben, der Staatsanwalt ebensowenig, aber wenn Rath ehrlich zu sich war, musste er sich eingestehen, dass viele Dinge in dieser Akte noch nicht geklärt waren. (<i>Marlow</i>, 142)',
+	'Gereon hatte ein bisschen <strong>gemecktert</strong>, als er ihr (<i>Charly</i>) schon wieder den Wagen geben sollte. "Kann Böhm nicht mal einen Firmenwagen anschaffen?", hatte er gemault. (<i>Marlow</i>, 219)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm  (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'meucheln, Meuchelmord': [ 
@@ -20262,6 +20293,7 @@ Tropf: [
 	'Rath hatte mit Andreas Lange noch nie nach der Arbeit zusammengesessen. Und gar nicht war er auf die Idee gekommen, mit dem Mann ein Bier trinken zu gehen. Vielleicht hatte er nicht in den denselben <strong>Trott</strong> fallen wollen wie seinerzeit mit Reinhold Gräf, mit dem er viel zu oft im Nassen Dreieck versackt war. (<i>Lunapark</i>, 69-70)',
 	'<u>Marlow</u>',   
 	'Der Bestatter warf dem Scupo einen missmutigen Blick zu. Dann <strong>trottete</strong> er mit seinem Kollegen zum Leichenwagen. Die Männer öffneten die Hecktür und holten einen Zinksarg heraus. (<i>Marlow</i>, 37)',
+	'Ein älterer Herr mit weißem Bart, der einen großen schwarzen Hund an der Leine führte, verließ das Nachbargrundstück von Herta Rinke und wandte sich nach links, der Hund <strong>trottete</strong> brav hinterher. (<i>Marlow</i>, 219)',
 ],
 Trottel: [
 	'der <strong>Trottel</strong>,-: fool, idiot, know-nothing'+
@@ -21377,6 +21409,8 @@ verhexen: [
 	'"Hätten Sie eine Idee, was der Scharführer (<i>Dewald</i>) in diesem Haus gesucht hat?", fragte Rath. <i>Fritsch, Chef des SA-Feldjägerkorps</i>: "Warum soll er hier etwas gesucht haben?" <i>Eine Zeugin hat gesehen, dass Dewald die Haustür öffnen wollte, bevor er dort erschlagen wurde.</i> Rath <strong>verkniff sich</strong> den Satz. Das ging die SA nichts an. (<i>Lunapark</i>, 175)',
 	'Er (<i>Fritze</i>) wusste doch, auch wenn sie (<i>Charly</i>) <strong>sich</strong> wirklich spitze Bemerkungen und allzu böse Witze in seiner Gegenwart <strong>verkniffen</strong> hatte, dass sie die Nazis nicht leiden mochte. (<i>Lunapark</i>, 295)',
 	'Er (<i>Rath</i>) war todmüde. Hatte die ganze Nacht in der Hütte gehockt, bis ihm alle Knochen wehtaten.. Hatte <strong>sich</strong> das Rauchen <strong>verkniffen</strong>, weil es ihn hätte verraten können. (<i>Lunapark</i>, 495)',
+	'<u>Marlow</u>',
+	'Die meisten Leute nahmen seltsamerwise gar nicht wahr, wenn in einem parkenden Auto jemand saß. Nur rauchen durfte man nicht, das sah jeder sofort, den Rauch, die Glut. Also <strong>verkniff sich</strong> Charly seit einer halben Stunde schon die Juno, auf die sie solch große Lust verspürte. (<i>Marlow</i>, 219)',
 ],
 verknicken: [
 	'<strong>verknicken</strong>: get bent, creased'+

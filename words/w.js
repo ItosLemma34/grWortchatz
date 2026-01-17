@@ -4,7 +4,8 @@ const w = [
    'wacker', // wacker:  
    'Wade' ,  // Wade: 
    'waghalsig', // waghalsig: 
-   'wähnen',  // wähnen:  
+   'wähnen',  // wähnen: 
+   'Walze',  // Walze: 
    'wälzen',  // wälzen: 
    'Wampe', // Wampe: 
    'Wanst',  // Wanst:  

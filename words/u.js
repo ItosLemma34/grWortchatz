@@ -3,7 +3,8 @@ const u = [
    'über Kreuz sein/liegen', // duplicated 
    'über den Haufen',  
    'über den Tisch ziehen',  
-   'über die Bühne gehen',   
+   'über die Bühne gehen', 
+   'über die Klinge springen, Klinge',  // duplicated  
    'über die Runden kommen',  
    'über die Stränge schlagen',  // duplicated
    'überquellen, quellen',  // duplicated 

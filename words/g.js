@@ -19,13 +19,13 @@ const g = [
    'gefügig', // gefügig:
    'gegen den Strich gehen', // duplicated 
    'Gehabe',  // Gehabe: 
-   'Geheimniskrämerei, Geheimniskrämer',   
+   'Geheimniskrämerei, Geheimniskrämer',
    'Geheiß', // Geheiß:   
    'gehetzt, hetzen', //  duplicated  
    'Gehirnerschütterung', // Gehirnerschütterung: 
    'Geier',  //  Geier:
    'geigen (die Meinung geigen)',
-   'geizen',   // geizen:
+   'geizen, geizig',
    'Gekicher, kichern',  // duplicated
    'Geklirr, klirren, an-',  //duplicated
    'geknickt',  // geknickt:  
@@ -90,22 +90,22 @@ const g = [
    'giggeln',  // giggeln:  
    'Gips',   // Gips:
    'Gitter-, Metal- rost; Lauf- gitter, steg',  // duplicated 
-   'gleißen, gleißend',     
+   'gleißen, gleißend',
    'glimpflich',  // glimpflich:  
    'glimmen, aufglimmen', //  duplicated 
-   'glotzen, an-',    
+   'glotzen, an-',
    'gluckern', // gluckern:  
-   'goldene Nase (sich verdienen)',   
-   'Gör, Göre',    
+   'goldene Nase (sich verdienen)',
+   'Gör, Göre',
    'Gosse',  // Gosse:  
    'grämen',  // grämen:
-   'Granit (auf G. beißen)',  
+   'Granit (auf G. beißen)',
    'grapschen',  // grapschen: 
    'grauen',  // grauen: 
-   'Griesgram, griesgrämig',   
+   'Griesgram, griesgrämig',
    'Grimm, grimmig', // 
    'grölen', // grölen:  
-   'große Stücke auf jmdn. halten',  
+   'große Stücke auf jmdn. halten',
    'Großmut',  // Großmut:  
    'Grünschnabel', // Grünschnabel:  
    'grunzen',   // grunzen:  
@@ -113,8 +113,8 @@ const g = [
    'Gully',  // Gully:  
    'gurren',  // gurren:  
    'Gurt',   // Gurt:      
-//   'gut in Schuss',  //    rework this
+   //   'gut in Schuss',  //    rework this
    'guten Mutes sein', //   
- ];
+];
 
 export default g;

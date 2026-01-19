@@ -21,6 +21,7 @@ const w = [
    'Wehwehchen',  // Wehwehchen:  
    'weichklopfen',  // weichklopfen: 
    'weichkochen', // weichkochen: 
+   'weihen, ein-, todgeweiht',  // duplicated
    'Weihrauch, Weihrauchschwenker', // 
    'wellen, Welle',  // 
    'werkeln', // werkeln: 

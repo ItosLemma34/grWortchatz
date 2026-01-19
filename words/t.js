@@ -10,7 +10,7 @@ const t = [
    'Teufel tun',  //  
    'Theke',  // Theke:  
    'toben' , // toben:
-   'todgeweiht',  // todgeweiht: 
+   'todgeweiht, weihen, ein-', // duplicated
    'tollen', // tollen: 
    'tollpatschig, Tollpatschigkeit', //  
    'tönen',  // tönen: 

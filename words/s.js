@@ -94,13 +94,13 @@ const s = [
    'Schmonzette', // Schmonzette: 
    'schmoren' , // schmoren:  
    'schmökern', // schmökern: 
-   'Schmuck, schmuck', // 
-   'Schmuddel, -wetter, schmuddelig', // 
-   'Schmunzeln, schmunzeln' , // 
+   'Schmuck, schmuck',  
+   'Schmuddel, -wetter, schmuddelig',  
+   'Schmunzeln, schmunzeln',  
    'Schmutzfink',  // Schmutzfink:  
-   'Schnalle, schnallen', //  
-   'Schnapsidee' ,  // Schnapsidee:  
-   'schnarchen' ,  // schnarchen:  
+   'Schnalle, schnallen',   
+   'Schnapsidee',  // Schnapsidee:  
+   'schnarchen',  // schnarchen:  
    'schnarren',  // schnarren:  
    'schnattern',  // schnattern: 
    'schnauben', // schnauben: 

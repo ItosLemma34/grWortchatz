@@ -29,9 +29,10 @@ const g = [
    'Gekicher, kichern',  // duplicated
    'Geklirr, klirren, an-',  //duplicated
    'geknickt',  // geknickt:  
-   'Gekrächz',  // Gekrächz:   
+   'Gekrächz',  // Gekrächz: 
    'Gelände',   // Gelände:  
    'Geländer',  // Geländer:  
+   'Geleit',  // Geleit:  
    'gelinde',   // gelinde:  
    'Gemächt',  // Gemächt: 
    'Gemetzel', // Gemetzel: 

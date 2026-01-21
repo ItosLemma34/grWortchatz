@@ -51,8 +51,8 @@ const h = [
    'herumdrucksen, drucksen', // duplicated 
    'herumfuhrwerken',  // herumfuhrwerken: 
    'herumlungern', // herumlungern:  
-   'hetzen, gehetzt',  //  duplicated *
-   'heucheln, vorheucheln', // duplicated 
+   'hetzen, gehetzt',  //  duplicated 
+   'heucheln, vor-', 
    'heulen, aus-, ver-, voll-',  
    'Heulsuse', // Heulsuse:  
    'hieven',  // hieven: 

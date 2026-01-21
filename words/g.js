@@ -103,6 +103,7 @@ const g = [
    'Granit (auf G. beißen)',
    'grapschen',  // grapschen: 
    'grauen',  // grauen: 
+   'grienen, an-',
    'Griesgram, griesgrämig',
    'Grimm, grimmig', // 
    'grölen', // grölen:  

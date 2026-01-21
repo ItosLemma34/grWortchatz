@@ -64,7 +64,6 @@ const a = [
 	'angeben, Angeber',    
 	'angeschickert', // angeschickert: 
 	'angiften, giften', // duplicated
-	'angrienen',  // angrienen:
 	'anherrschen',  // anherrschen:
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln: 

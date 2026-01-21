@@ -25,7 +25,7 @@ const p = [
    'Pfau',  // Pfau: 
    'pfeffern, gepfeffert',  //  duplicated 
    'Pfeiler',  // Pfeiler:  
-   'pferchen, einpferchen', //  duplicated  
+   'pferchen, ein-',   
    'pfiffig',  // pfiffig: 
    'Pfropfen',  // Pfropfen: 
    'pfuschen, ins Handwerk p.', //  duplicated 

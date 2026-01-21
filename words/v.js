@@ -147,7 +147,6 @@ const v = [
    'vorgaukeln',  // vorgaukeln:  
    'Vorgeplänkel, Geplänkel',  // duplicated 
    'Vorhängeschloss',  // Vorhängeschloss: 
-   'vorheucheln, heucheln',  // duplicate 
    'vorknöpfen',  // vorknöpfen:    
    'vorliebnehmen',  // vorliebnehmen: 
    'Vornehm/Nobel geht die Welt zugrunde', // duplicated 

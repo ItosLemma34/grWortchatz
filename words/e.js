@@ -32,7 +32,6 @@ const e = [
    'einnebeln',  // einnebeln: 
    'einnicken',  // einnicken:  
    'Einöde, öde',   // duplicated  
-   'einpferchen, pferchen', //  duplicated 
    'einrasten',  // einrasten:  
    'einreißen, niederreißen',  //  duplicated  
    'einrenken', // einrenken:      

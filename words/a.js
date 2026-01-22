@@ -209,7 +209,7 @@ const a = [
 	'ausscheren, scheren, Schere',  // duplicated
 	'ausschlachten', // ausschlachten:  
 	'ausschwärmen',  // ausschwärmen: 
-	'Ausschweifung',  // Ausschweifung: 
+	'Ausschweifung, ausschweifend', 
 	'ausspannen, einspannen',  // duplicated 
 	'ausspucken',   // ausspucken: 
 	'ausstaffieren',  // ausstaffieren:   

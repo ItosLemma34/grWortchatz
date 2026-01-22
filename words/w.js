@@ -32,13 +32,13 @@ const w = [
    'wie am Schnürchen', // duplicated
    'wie aus dem Ei gepellt',  //  duplicated 
    'wie bestellt und nicht abgeholt', // 
-   'wienern' , // wienern: 
+   'wienern', // wienern: 
    'wimmeln, Gewimmel',  //   duplicated 
-   'wimmern' , // wimmern: 
+   'wimmern', // wimmern: 
    'Wimper',   // Wimper:  
    'Wind (durch den W. sein)', //  duplicated  
    'winden, gewunden',  //  duplicated 
-   'Wink mit dem Zaunpfahl' , //  duplicated    
+   'Wink mit dem Zaunpfahl', //  duplicated    
    'Winkel, winkeln, an-' ,  
    'Winkeladvokat',  // Winkeladvokat: 
    'winseln',  // winseln: 

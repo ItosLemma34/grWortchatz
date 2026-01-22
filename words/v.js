@@ -5,7 +5,8 @@ const v = [
    'verbeulen, zerbeulen, Beule, beulen', // triplicated
    'verblassen', // verblassen: 
    'verbocken' , // verbocken: 
-   'verbohrt',  // verbohrt: 
+   'verbohrt',  // verbohrt:
+   'verbrämen',  // verbrämen: 
    'verdampfen',  // verdampfen: 
    'Verdeck',  // Verdeck: 
    'verdenken' ,  // verdenken: 
@@ -108,8 +109,9 @@ const v = [
    'versteifen', //  check for other entries  
    'Verstellung',  // Verstellung:   combine with verstellen if verstellen found
    'verstockt' ,  // verstockt:  
-   'verstohlen',   // verstohlen:  
+   'verstohlen',   // verstohlen: 
    'verstümmeln, Verstümmelung', // 
+   'vertäuen',  // vertäuen: 
    'vertilgen',  // vertilgen: 
    'vertrackt',   // vertrackt:     combine with Vertrackt if found
    'vertreten (sich die Beine)', //  duplicated   

@@ -110,7 +110,7 @@ const a = [
 	'Attest',     //  Attest:  
 	'ätzen, wegätzen',  // duplicated 
 	'auf Biegen und Brechen', 
-	'auf dem Buckel, Buckel, bucklig', // duplicated 
+	'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 
 	'auf dem Kerbholz haben', //  duplicated  
 	'auf dem Kieker haben', //  duplicated 
 	'auf dem Sprung',      //  duplicated  

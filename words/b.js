@@ -99,7 +99,7 @@ const b = [
     'brutzeln',  // brutzeln: 
     'Buche',    // Buche: 
     'Büchse',   // Büchse: 
-    'Buckel, bucklig, auf dem Buckel', //duplicated    
+    'Buckel, buckeln, bucklig, auf dem Buckel', //duplicated    
     'bücken',  // bücken:
     'buddeln, ein-, ver-, aus-',   
     'Bude, Büdchen',   

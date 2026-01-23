@@ -211,7 +211,8 @@ const s = [
    'Stadtstreicher', // Stadtstreicher:  
    'Staffage', // Staffage: 
    'staksen',  // staksen: 
-   'stämmig',  // stämmig: 
+   'stämmig',  // stämmig:
+   'Ständchen',  // Ständchen: 
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
    'Stapel, stapeln',  

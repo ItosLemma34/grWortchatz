@@ -8,7 +8,8 @@ const b = [
     'bärbeißig',  // bärbeißig: 
     'barsch',   // barsch: 
     'Bartstoppel', // Bartstoppel: 
-    'Baskenmütze',  // Baskenmütze:  
+    'Baskenmütze',  // Baskenmütze: 
+    'basteln',  // basteln: 
     'bäuchlings', // bäuchlings: 
     'bauschen, aufbauschen',  //  duplicated 
     'beackern',  // beackern:

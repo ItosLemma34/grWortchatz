@@ -22,7 +22,8 @@ const d = [
    'dösen, eindösen',  //   duplicated 
    'dosieren',  // dosieren: 
    'drall',    // drall:  
-   'drängeln',  // drängeln:  
+   'drängeln',  // drängeln:
+   'drangsalieren',  // drangsalieren:  
    'draufhaben',  // draufhaben: 
    'Dreck am Stecken haben',  
    'Dreh',    // Dreh: 

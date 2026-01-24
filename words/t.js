@@ -18,6 +18,7 @@ const t = [
    'torkeln', // torkeln: 
    'tosen, tosend', // 
    'Tracht Prügel', // 
+   'trachten',  // trachten:
    'traktieren',  // traktieren:
    'tranchieren', // tranchieren: 
    'Trasse',  // Trasse:  

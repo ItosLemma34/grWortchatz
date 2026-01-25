@@ -50,7 +50,6 @@ const d = [
    'durchkämmen',  // durchkämmen: 
    'durchmogeln',  // durchmogeln: 
    'durchnässen',  //  durchnässen: 
-   'durchwühlen, wühlen',  // duplicated 
 ];
 
 export default d;

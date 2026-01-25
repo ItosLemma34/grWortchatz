@@ -107,7 +107,7 @@ const a = [
 	'Arsch (in den A. kriechen)', // duplicated   
 	'Asservat',  // Asservat:  
 	'Ast, Geäst', //  duplicated 
-	'Attest',     //  Attest:  
+	'Attest, attestieren',     
 	'ätzen, wegätzen',  // duplicated 
 	'auf Biegen und Brechen', 
 	'auf dem Buckel, Buckel, buckeln, bucklig', // duplicated 

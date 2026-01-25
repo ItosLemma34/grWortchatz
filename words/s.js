@@ -60,6 +60,7 @@ const s = [
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch:
    'schleichen', 
+   'Schleife',  // Schleife:
    'schleifen, Schleifer',  
    'schlendern' , // schlendern:  
    'Schlendrian', // Schlendrian: 
@@ -157,6 +158,7 @@ const s = [
    'schwängern, geschwängert',  // duplicated
    'Schwanz, S. einziehen/einkneifen',  
    'schwänzen',  // schwänzen:
+   'Schwarte',  // Schwarte:
    'Schwebebahn',  // Schwebebahn: 
    'schweifen, abschweifen',  // duplicated
    'schwelgen', // schwelgen: 

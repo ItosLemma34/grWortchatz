@@ -37,10 +37,10 @@ const t = [
    'Tropen',  // Tropen: 
    'Tropf',  // Tropf:  
    'tröpfeln',  // tröpfeln: 
-   'Tropfen, tropfen', //     
-   'Tross/Troß', // 
+   'Tropfen, tropfen',      
+   'Tross/Troß',  
    'Trost (nicht bei T. sein)',  //   duplicated  
-   'Trott, trotten',  // 
+   'Trott, trotten',   
    'Trottel',  // Trottel: 
    'Trubel',  // Trubel: 
    'trudeln',  // trudeln:

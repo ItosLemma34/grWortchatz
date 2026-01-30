@@ -106,7 +106,7 @@ const s = [
    'schnattern',  // schnattern: 
    'schnauben', // schnauben: 
    'schnaufen',  // schnaufen: 
-   'Schneid abkaufen',   // duplicated as "den Schneid abkaufen";   put as 'Schneid, Schneid abkaufen' if Schneid by itself found
+   'Schneid abkaufen',   
    'schneidig',  // schneidig: 
    'Schneise',  // Schneise:   
    'schnieke',  // schnieke:  
@@ -229,7 +229,7 @@ const s = [
    'Stecknadel im Heuhaufen',  
    'Steg', // Steg: 
    'stibitzen', // stibitzen: 
-//   'Stich, einen S. versetzen',   // revive later
+   'Stich, einen S. versetzen',   // revive later
    'Stiefel, stiefeln',  
    'stieren, anstieren',  // duplicated 
    'stöbern, aufstöbern',  // duplicated   

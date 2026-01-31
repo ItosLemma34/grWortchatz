@@ -51,7 +51,8 @@ const a = [
 	'an den Pranger',  
 	'an der Backe haben',  
 	'an die große Glocke hängen',   
-	'anbändeln',    // anbändeln:  
+	'anbändeln',    // anbändeln: 
+	'anberaumen',  // anberaumen: 
 	'Anbiederung', // Anbiederung:
 	'anbinden, kurz angebunden',   // duplicated  
 	'anblaffen',    // anblaffen:    

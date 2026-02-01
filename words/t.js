@@ -22,6 +22,7 @@ const t = [
    'traktieren',  // traktieren:
    'tranchieren', // tranchieren: 
    'Trasse',  // Trasse:  
+   'Tratsch, tratschen',  
    'Traube, Menschentraube',   // duplicated
    'Trauerkloß',  // Trauerkloß:  
    'Tresen',  // Tresen:  

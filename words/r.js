@@ -24,6 +24,7 @@ const r = [
    'Raufbold', // Raufbold:  
    'Rauflust',  // Rauflust: 
    'raunen',  // raunen:
+   'raunzen, an-',
    'Raureif', // Raureif: 
    'Rechen',  // Rechen: 
    'recken',  // recken:  

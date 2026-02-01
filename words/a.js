@@ -75,7 +75,6 @@ const a = [
 	'anpflaumen',   // anpflaumen:  
 	'anpumpen',     // anpumpen: 
 	'anquatschen',   // anquatschen: 
-	'anraunzen',     // anraunzen:  
 	'anrempeln, rempeln, Rempler',  //  duplicated 
 	'Anrichte',     // Anrichte: 
 	'anrücken, ausrücken, nachrücken', //  triplicated   
@@ -88,7 +87,6 @@ const a = [
 	'ansengen',     // ansengen:  
 	'Ansinnen' ,    // Ansinnen:  
 	'anstandslos',  // anstandslos:  
-	'anstieren, stieren',  //  duplicated 
 	'anstupsen',    // anstupsen: 
 	'antanzen',     // antanzen:   
 	'Anwesen',      // Anwesen: 

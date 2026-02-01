@@ -42,6 +42,7 @@ const b = [
     'Beritt, beritten',     
     'besaitet, zartbesaitet',  // duplicated
     'bescheuert',  // bescheuert: 
+    'beschlagen', // beschlagen:
     'Besen',  // Besen: 
     'bestatten, Bestatter, Bestattung', 
     'Besteck',    // Besteck: 

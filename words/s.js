@@ -231,7 +231,7 @@ const s = [
    'stibitzen', // stibitzen: 
    'Stich, einen S. versetzen',   // revive later
    'Stiefel, stiefeln',  
-   'stieren, anstieren',  // duplicated 
+   'stieren, an-',  
    'stöbern, aufstöbern',  // duplicated   
    'stochern',  // stochern:  
    'stöckeln, Stöckelschuh',  

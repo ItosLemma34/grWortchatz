@@ -193,6 +193,7 @@ const a = [
 	'ausfressen',   // ausfressen:  
 	'ausheben, Aushebung', 
 	'ausklinken, einklinken',  // duplicated 
+	'ausladend',  // ausladend:
 	'ausleiern', // ausleiern: 
 	'ausloben',  //  ausloben:
 	'ausmergeln', // ausmergeln:

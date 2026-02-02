@@ -46,6 +46,7 @@ const s = [
 //   'Schimmer (keinen blassen S.)', // 
    'schimmern, Schimmer, keinen S. haben', 
    'Schinder, schinden, geschunden',  // duplicated 
+   'Schinken',  // Schinken:
    'Schippe (von der S. springen)',  // duplicated
    'schlabbern', // schlabbern: 
    'Schlacke',  // Schlacke: 

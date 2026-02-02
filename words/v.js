@@ -34,6 +34,7 @@ const v = [
    'verhökern',  // verhökern: 
    'verhunzen',  // verhunzen: 
    'verkatert, Kater',  //  duplicated 
+   'verklemmt',  // verklemmt:
    'verkneifen, verkniffen',  // 
    'verknicken',  // verknicken:
    'verknittern, zerknittern',  // duplicated 

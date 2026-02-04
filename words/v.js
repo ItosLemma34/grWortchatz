@@ -78,7 +78,8 @@ const v = [
    'verscherzen',  // verscherzen:  
    'verschieben',  // verschieben:   check for other entries
    'verschimmeln',  // verschimmeln:  
-   'Verschlag',   // Verschlag:  
+   'Verschlag',   // Verschlag:
+   'verschlampen',  // verschlampen:  
    'verschleißen', // verschleißen:  check for other entries
    'verschlingen',  // verschlingen:
    'verschmieren', // verschmieren: 

@@ -39,7 +39,7 @@ const w = [
    'Wind (durch den W. sein)', //  duplicated  
    'winden, gewunden',  //  duplicated 
    'Wink mit dem Zaunpfahl', //  duplicated    
-   'Winkel, winkeln, an-' ,  
+   'Winkel, winkeln, an-',  
    'Winkeladvokat',  // Winkeladvokat: 
    'winseln',  // winseln: 
    'Wipfel',  // Wipfel:  

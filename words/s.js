@@ -125,6 +125,7 @@ const s = [
    'schnurstracks', // schnurstracks: 
    'schnurz­pie­pe, schnurzegal', //    make duplicate if example of "schnurzegal found"
    'Schoppen',  // Schoppen: 
+   'Schott, S. dicht machen',  
    'Schotter', // Schotter: 
    'schraffieren',  // schraffieren:
    'schrammen', // schrammen:  
@@ -148,7 +149,7 @@ const s = [
    'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated 
    'Schüssel, Kloschüssel',  // duplicate 
-   'schütten, aus-, ver-, zu-', //          
+   'schütten, aus-, ver-, zu-',           
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
    'Schütze, Schützengraben',  

@@ -19,6 +19,7 @@ const g = [
    'gefügig', // gefügig:
    'gegen den Strich gehen', // duplicated 
    'Gehabe',  // Gehabe: 
+   'Gehege, ins G. kommen',  // duplicated
    'Geheimniskrämerei, Geheimniskrämer',
    'Geheiß', // Geheiß:   
    'gehetzt, hetzen', //  duplicated  

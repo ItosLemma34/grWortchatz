@@ -71,7 +71,7 @@ const p = [
    'Pulle',  // Pulle: 
    'pumpen', // pumpen: 
    'Puppen (bis in die P.)', // duplicated 
-   'Puste, pusten',  
+   'Puste, pusten, aus-',  
    'Pute',  // Pute: 
    'Putz', // Putz: 
    'Putz (auf den P. hauen)', //  duplicated  

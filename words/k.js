@@ -31,6 +31,7 @@ const k = [
    'keinen S. haben, schimmern, Schimmer', // duplicated
    'keinen Zwang antun',  // duplicated 
    'Kelch',  // Kelch: 
+   'kentern',  // kentern:
    'Kerbholz (auf dem K. haben)',//  duplicated 
    'Kerbe',  // Kerbe: 
    'Kerker', // Kerker:
@@ -122,7 +123,7 @@ const k = [
    'Krake', // Krake: 
    'krakelig/kraklig', // 'krakelig/kraklig':   needs the apostrophes 
    'Kralle, krallen',  
-   'Kram (in den K. passen)', //  duplicated 
+   'Kram, in den Kram passen', //  duplicated 
    'kramen',  // kramen: 
    'Kran',  // Kran: 
    'Kratzbürstigkeit',  // Kratzbürstigkeit: 

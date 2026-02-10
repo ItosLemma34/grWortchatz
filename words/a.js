@@ -59,7 +59,7 @@ const a = [
 	'anbrechen',    // anbrechen:  
 	'andrehen',   // andrehen: 
 	'anecken',      // anecken:  
-	'anfauchen, fauchen', //  duplicated 
+//	'anfauchen, fauchen', //  duplicated 
 	'anflehen, flehen, flehentlich',  // duplicated
 	'anfunkeln',  // anfunkeln: 
 	'angeben, Angeber',    
@@ -70,6 +70,7 @@ const a = [
 	'anhimmeln',    // anhimmeln: 
 	'ankotzen, Kotze, kotzen',  // duplicated   
 	'anleinen',     // anleinen: 
+	'anmotzen',  // anmotzen:
 	'anpeilen',  // anpeilen:   
 	'Anpfiff' ,     // Anpfiff:  
 	'anpflaumen',   // anpflaumen:  
@@ -133,7 +134,8 @@ const a = [
 	'auf die Tube drücken',   //  duplicated 
 	'auf etwas aus sein',   
 	'auf Granit beißen',  
-	'auf Halde legen', 
+	'auf Halde legen',
+	'auf links drehen', 
 	'auf Trab bringen/halten',   
 	'auf Zack sein',     
 	'aufbahren',   // aufbahren:

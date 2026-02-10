@@ -2,7 +2,7 @@ const i = [
    'im Nu', // duplicated  
    'im Schilde führen', // duplicated 
    'in den Arsch kriechen',  // duplicated 
-   'in den Kram passen', // duplicated 
+   'in den Kram passen, Kram', // duplicated 
    'in die Hosen machen/gehen', // duplicated 
    'in die Mangel nehmen', //   duplicated 
    'in die Parade fahren', //  duplicated 
@@ -13,6 +13,7 @@ const i = [
    'in einem fort',  
    'in Schuss sein', //  duplicated 
    'ins Fettnäpfchen treten', //  duplicated 
+   'ins Gehege kommen, Gehege',  // duplicated
    'ins Handwerk pfuschen, pfuschen',  //  duplicated 
    'ins Haus stehen', // 
    'ins Reine', // duplicated 

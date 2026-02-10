@@ -34,6 +34,7 @@ const t = [
    'triftig',  // triftig:
    'trippeln', // trippeln: 
    'Trockenen (auf dem  T. sitzen)', // duplicated 
+   'trödeln',   // trödeln:
    'trollen',   // trollen: 
    'Tropen',  // Tropen: 
    'Tropf',  // Tropf:  

@@ -1,5 +1,6 @@
 const d = [
    'Dachlatte, Zaunlatte', // duplicated  
+   'Dachluke, Luke',  // duplicated
    'dahinraffen, raffen',  // duplicated 
    'dämlich, Dämlichkeit',  
    'Damm',  // Damm: 

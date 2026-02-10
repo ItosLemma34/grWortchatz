@@ -41,6 +41,7 @@ const l = [
    'lotsen',  // lotsen: 
    'Luder',  // Luder: 
    'lugen',  // lugen: 
+   'Luke, Dachluke',  // duplicated
    'Lümmel', // Lümmel:          
    'lumpen lassen (sich nicht)',  
    'Lunte riechen',  

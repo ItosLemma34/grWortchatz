@@ -7,13 +7,14 @@ const m = [
    'Mangel (in die M. nehmen)',  //  duplicated 
    'Männchen machen, Männchenmachen',  
    'Manschettenknopf',  // Manschettenknopf: 
-   'markieren (den dicken Max m.)',  
+   'markieren (den dicken Max m.)',  // duplicated 
    'Marotte',  // Marotte: 
    'Masche, maschig',
    'maßregeln',  // maßregeln:  
    'Matsch',  // Matsch: 
    'mau', // mau: 
    'Maulwurf',  // Maulwurf: 
+   'Max (den dicken Max markieren)', // duplicated
    'meckern',  // meckern:
    'meißeln, Meißel',  
    'Melone',  // Melone: 

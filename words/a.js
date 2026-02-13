@@ -23,7 +23,6 @@ const a = [
 	'abschaben, schaben',  // duplicated 
 	'Abschaum',  // Abschaum: 
 	'abschüssig',  // abschüssig: 
-	'abschweifen, schweifen',   // duplicated
 	'absegnen',  // absegnen: 
 	'abspecken',  // abspecken: 
 	'abspulen',   // abspulen:  

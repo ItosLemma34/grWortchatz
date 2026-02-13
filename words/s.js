@@ -149,6 +149,7 @@ const s = [
    'Schürze',  // Schürze:  
    'Schuss (in S. sein)', //  duplicated 
    'Schüssel, Kloschüssel',  // duplicate 
+   'Schutt',  // Schutt:
    'schütten, aus-, ver-, zu-',           
    'schütter',  // schütter:  
    'Schutzbefohlene',  // Schutzbefohlene:  
@@ -162,7 +163,7 @@ const s = [
    'schwänzen',  // schwänzen:
    'Schwarte',  // Schwarte:
    'Schwebebahn',  // Schwebebahn: 
-   'schweifen, abschweifen',  // duplicated
+   'schweifen, ab-', 
    'schwelgen', // schwelgen: 
    'Schwenker', // Schwenker: 
    'Schwerenöter',  // Schwerenöter: 

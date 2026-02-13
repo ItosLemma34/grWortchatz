@@ -38,7 +38,8 @@ const v = [
    'verkneifen, verkniffen',  // 
    'verknicken',  // verknicken:
    'verknittern, zerknittern',  // duplicated 
-   'verknoten',  // verknoten:  
+   'verknoten',  // verknoten: 
+   'verkohlen, verkohlt', 
    'verkommen',  // verkommen: 
    'verkorkst',   // verkorkst:  
    'verköstigen, beköstigen',  // duplicated  with beköstigen if beköstigen ever appears   

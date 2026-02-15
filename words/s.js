@@ -178,7 +178,7 @@ const s = [
    'sezieren',  // sezieren:
    'Sichtblende', // Sichtblende:  
    'sickern', // sickern: 
-   'Siegel, versiegeln', // duplicated 
+   'Siegel, siegeln, versiegeln', // duplicated 
    'Sims',  //  Sims: 
    'Sippenhaft', // Sippenhaft: 
    'skandieren', // skandieren:  
@@ -186,6 +186,7 @@ const s = [
    'soufflieren',  // soufflieren: 
    'Spalier',  // Spalier:  
    'Span, Späne', // 
+   'Spange',  //  Spange:
    'Spanner', // Spanner:  
    'Spaten',  // Spaten:  
    'speckig', // speckig: 

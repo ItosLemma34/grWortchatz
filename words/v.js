@@ -2,7 +2,6 @@ const v = [
    'Ventil',  // Ventil: 
    'veralbern', // veralbern:  *stopped general check-up;  DWDS not showin
    'Verband' ,  // Verband: 
-   'verbeulen, zerbeulen, Beule, beulen', // triplicated
    'verblassen', // verblassen: 
    'verbocken' , // verbocken: 
    'verbohrt',  // verbohrt:
@@ -104,7 +103,7 @@ const v = [
    'verseuchen', // verseuchen:
    'versickern',  // versickern: 
    'versieben',  // versieben:  check for other entries
-   'versiegeln, Siegel', // duplicated 
+   'versiegeln, siegeln, Siegel', // duplicated 
    'versiegen',   // versiegen: 
    'versifft',  // versifft: 
    'versprengen', // versprengen:   

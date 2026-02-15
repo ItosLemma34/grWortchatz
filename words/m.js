@@ -10,7 +10,8 @@ const m = [
    'markieren (den dicken Max m.)',  // duplicated 
    'Marotte',  // Marotte: 
    'Masche, maschig',
-   'maßregeln',  // maßregeln:  
+   'maßregeln',  // maßregeln:
+   'maßschneidern, maßgeschneidert',  
    'Matsch',  // Matsch: 
    'mau', // mau: 
    'Maulwurf',  // Maulwurf: 

@@ -103,7 +103,8 @@ const g = [
    'Gosse',  // Gosse:  
    'grämen',  // grämen:
    'Granit (auf G. beißen)',
-   'grapschen',  // grapschen: 
+   'grapschen',  // grapschen:
+   'grassieren',  // grassieren: 
    'grauen',  // grauen: 
    'grienen, an-',
    'Griesgram, griesgrämig',

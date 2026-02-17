@@ -60,7 +60,7 @@ const s = [
    'Schlappschwanz',  // Schlappschwanz: 
    'Schlauberger', // Schlauberger: 
    'Schlauch', // Schlauch:
-   'schleichen', 
+   'schleichen, an-, heran-, nach-, herum-, hinaus-', 
    'Schleife',  // Schleife:
    'schleifen, Schleifer',  
    'schlendern' , // schlendern:  
@@ -110,7 +110,8 @@ const s = [
    'Schneid abkaufen',   
    'schneidig',  // schneidig: 
    'Schneise',  // Schneise:   
-   'schnieke',  // schnieke:  
+   'schnieke',  // schnieke: 
+   'schnippeln', // schnippeln: 
    'schnippen',  // schnippen: 
    'schnippisch', // schnippisch:
    'schnöde',  // schnöde:   

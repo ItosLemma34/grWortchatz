@@ -39,7 +39,7 @@ const r = [
    'reinwürgen, Würge, würgen',  // duplicate  
 //   'reißen, -aus, -ab, zusammen-',  
    'reißerisch',  // reißerisch: 
-   'Rempler, rempeln, anrempeln',  // duplicated 
+   'Rempler, rempeln, an-',
    'renitent',  // renitent: 
    'requirieren', // requirieren: 
    'reüssieren',  // reüssieren: 

@@ -15,7 +15,6 @@ const a = [
 	'abkommandieren',  // abkommandieren: 
 	'Ablage',     // Ablage:  
 	'abluchsen',  // abluchsen: 
-	'abmühen, mühen',  // duplicated
 	'Abordnung',  // Abordnung: 
 	'abpassen',   // abpassen: 
 	'abreiben, Abreibung',  
@@ -75,7 +74,6 @@ const a = [
 	'anpflaumen',   // anpflaumen:  
 	'anpumpen',     // anpumpen: 
 	'anquatschen',   // anquatschen: 
-	'anrempeln, rempeln, Rempler',  //  duplicated 
 	'Anrichte',     // Anrichte: 
 	'anrücken, ausrücken, nachrücken', //  triplicated   
 	'ans Bein binden',  //  duplicated 

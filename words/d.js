@@ -24,6 +24,7 @@ const d = [
    'drall',    // drall:  
    'drängeln',  // drängeln:
    'drangsalieren',  // drangsalieren:  
+   'dräuen',  // dräuen:
    'draufhaben',  // draufhaben: 
    'Dreck am Stecken haben',  
    'Dreh',    // Dreh: 

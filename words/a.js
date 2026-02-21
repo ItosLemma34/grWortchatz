@@ -66,7 +66,6 @@ const a = [
 	'anherrschen',  // anherrschen:
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln: 
-	'ankotzen, Kotze, kotzen',  // duplicated   
 	'anleinen',     // anleinen: 
 	'anmotzen',  // anmotzen:
 	'anpeilen',  // anpeilen:   

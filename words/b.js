@@ -36,7 +36,6 @@ const b = [
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
     'bepinseln, pinseln', //  duplicated 
-    'bequemen, herbequemen',   
     'berappen',   // berappen:  
     'beredt',     // beredt:  
     'Beritt, beritten',     
@@ -95,7 +94,7 @@ const b = [
     'Brocken',  // Brocken: 
     'brodeln',  // brodeln:
     'brüllen, Gebrüll', //   duplicated 
-    'brummen, brummig, Brummigkeit',  // 
+    'brummen, brummig, Brummigkeit',   
     'Brüstung',  // Brüstung: 
     'brüten',  // brüten:
     'brutzeln',  // brutzeln: 

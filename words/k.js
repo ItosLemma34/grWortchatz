@@ -107,8 +107,8 @@ const k = [
    'Köder',   // Köder: 
    'Kommode', // Kommode:
    'komplimentieren',  // komplimentieren:
-  // 'Kontor',
    'Konterfei',  // Konterfei: 
+   'Kontor',  // Kontor:
    'Konzept (aus dem K. bringen)', // duplicated  
    'köpfen',  // köpfen: 
    'Korb (einen K. bekommen/geben)',  // duplicated 
@@ -116,7 +116,7 @@ const k = [
    'Kordel',  // Kordel: 
    'Korn (aufs K. nehmen)',  //  duplicated 
    'Kot, koten, Kotflügel',  
-   'Kotze, kotzen, ankotzen', // duplicated 
+   'Kotze, kotzen, an-',  
    'krabbeln',  // krabbeln: 
    'krachen, Krach',  
    'Krähe, krähen',    

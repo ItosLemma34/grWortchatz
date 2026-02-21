@@ -45,6 +45,7 @@ const h = [
    'heiser, Heiserkeit',  
    'Hemd (sich ins H. machen)',
    'Henkelmann',  // Henkelmann:  
+   'herbequemen, bequemen',
    'hereinlegen, reinlegen',  // duplicated 
    'herrisch',  // herrisch: 
    'herumärgern, rumärgern', //  duplicated 

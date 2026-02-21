@@ -16,7 +16,8 @@ const v = [
    'verdutzt',  // verdutzt: 
    'verflachen', // verflachen:  
    'verfilzen' ,  // verfilzen:  
-  // 'verflixt',  open with more examples
+   'verflixt',  //  verflixt:
+   'verfrachten',  // verfrachten
    'vergackeiern',  // vergackeiern:  
    'vergaloppieren', // vergaloppieren:  
    'vergeigen', //  vergeigen: 
@@ -97,7 +98,7 @@ const v = [
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 
    'versehentlich',  // versehentlich:  
-//   'versehren',   need more past examples  
+   'versehren',   // versehren:  
    'versemmeln',  // versemmeln:
    'versengen',  // versengen:  
    'verseuchen', // verseuchen:

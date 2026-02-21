@@ -219,7 +219,8 @@ const s = [
    'Staffage', // Staffage: 
    'staksen',  // staksen: 
    'stämmig',  // stämmig:
-   'Ständchen',  // Ständchen: 
+   'Ständchen',  // Ständchen:
+   'Standesdünkel, Dünkel', 
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
    'Stapel, stapeln',  

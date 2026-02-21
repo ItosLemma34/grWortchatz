@@ -40,6 +40,7 @@ const d = [
    'ducken, wegducken',  // duplicated 
    'dudeln, Gedudel',   // duplicated
    'dumpf',    // dumpf: 
+   'Dünkel, Standesdünkel',
    'Dunst, Dunstkreis',   
    'durch den Wind sein', //  dulicated 
    'durch den Wolf drehen',  //   duplicated 

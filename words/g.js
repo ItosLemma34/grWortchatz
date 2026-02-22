@@ -89,7 +89,7 @@ const g = [
    'gewunden, winden', //    duplicated 
    'Gezwitscher, zwitschern', //  duplicated  
    'Gier, gieren',   // 
-   'giften, angiften',
+   'giften, an-',
    'giggeln',  // giggeln:  
    'Gips',   // Gips:
    'Gitter-, Metal- rost; Lauf- gitter, steg',  // duplicated 

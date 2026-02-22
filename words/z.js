@@ -31,6 +31,7 @@ const z = [
    'zertrampeln',  // zertrampeln:
    'zerwühlen',    // zerwühlen:   
    'zerzausen',    // zerzausen:  
+   'Zeter und Mordio schreien',
    'Zeug (was das Z. hält)', //  duplicated 
    'Zicke, Zicken machen',  // 
    'zickig',  // zickig:  

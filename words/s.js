@@ -26,7 +26,7 @@ const s = [
    'schauern, erschauern',  // duplicated 
    'schaufeln, Schaufel',  // 
    'Schaukasten', // Schaukasten:   
-   'schaukeln, aufschaukeln',   // duplicated  
+   'schaukeln, auf-',     
    'Scheffel (Licht unter den S.)', // duplicated
    'scheiteln, Scheitel', // 
    'Scheiterhaufen',  // Scheiterhaufen: 
@@ -235,10 +235,10 @@ const s = [
    'Stecknadel im Heuhaufen',  
    'Steg', // Steg: 
    'stibitzen', // stibitzen: 
-   'Stich, einen S. versetzen',   // revive later
+   'Stich, einen S. versetzen',   
    'Stiefel, stiefeln',  
    'stieren, an-',  
-   'stöbern, aufstöbern',  // duplicated   
+   'stöbern, auf-',    
    'stochern',  // stochern:  
    'stöckeln, Stöckelschuh',  
    'stöhnen, aufstöhnen', //   duplicated 

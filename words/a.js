@@ -62,7 +62,6 @@ const a = [
 	'anfunkeln',  // anfunkeln: 
 	'angeben, Angeber',    
 	'angeschickert', // angeschickert: 
-	'angiften, giften', // duplicated
 	'anherrschen',  // anherrschen:
 	'anheuern',  // anheuern: 
 	'anhimmeln',    // anhimmeln: 
@@ -161,12 +160,10 @@ const a = [
 	'aufs Auge drücken', // duplicated   
 	'aufs Dach steigen',       
 	'aufs Korn nehmen',  // duplicated 
-	'aufschaukeln, schaukeln', //  duplicated  
 	'aufscheuchen',    // aufscheuchen:   
 	'aufschichten',   // aufschichten: 
 	'aufspießen, spießen, Spieß',  // duplicated 
 	'aufstieben',    // aufstieben:  
-	'aufstöbern, stöbern',    // duplicated  
 	'aufstöhnen, stöhnen', //  duplicated 
 	'aufsummen, summen', //  duplicated 
 	'auftakeln',     // auftakeln: 

@@ -47,6 +47,7 @@ const u = [
    'unverblümt',  // unverblümt:       make duplicate if "verblümt" found
    'unverfänglich', // unverfänglich: 
    'unverfroren',  // unverfroren:  
+   'unverhohlen',  // unverhohlen:
    'unverrichteter Dinge',
    'Unversehrtheit, versehren',  // duplicated
    'unverwandt', // unverwandt:  

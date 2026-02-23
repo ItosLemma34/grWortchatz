@@ -19,7 +19,6 @@ const a = [
 	'abpassen',   // abpassen: 
 	'abreiben, Abreibung',  
 	'absäbeln',  //  absäbeln: 
-	'abschaben, schaben',  // duplicated 
 	'Abschaum',  // Abschaum: 
 	'abschüssig',  // abschüssig: 
 	'absegnen',  // absegnen: 
@@ -138,7 +137,6 @@ const a = [
 	'aufbauschen, bauschen', // duplicated   
 	'aufbrummen', // aufbrummen: 
 	'aufdonnern',  // aufdonnern: 
-	'auffächern, fächern', //  duplicated 
 	'auffliegen',  // auffliegen:  
 	'aufgabeln',   // aufgabeln:
 	'Aufgebot',  // Aufgebot:  
@@ -165,7 +163,6 @@ const a = [
 	'aufspießen, spießen, Spieß',  // duplicated 
 	'aufstieben',    // aufstieben:  
 	'aufstöhnen, stöhnen', //  duplicated 
-	'aufsummen, summen', //  duplicated 
 	'auftakeln',     // auftakeln: 
 	'auftischen',    // auftischen:  
 	'Aufwartung machen',  

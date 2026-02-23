@@ -12,7 +12,7 @@ const s = [
    'Säure, säuerlich',   
    'Sause',  // Sause:  
    'sausen', // sausen:  
-   'schaben, abschaben', // duplicated 
+   'schaben, ab-',  
    'Schablone',  // Schablone:
    'Schachtel',  // Schachtel:   
    'schade (zu schade sein)',   //duplicated 
@@ -223,7 +223,7 @@ const s = [
    'Standesdünkel, Dünkel', 
    'Standpauke',  // Standpauke: 
    'Stange',  // Stange:  
-   'Stapel, stapeln',  
+   'Stapel, stapeln, stapelweise',  
    'stapfen, Fußstapfe',   // duplicated 
    'starren (vor Schmutz starren)', // duplicated (with "vor Schmutz starren") 
    'Statist', // Statist:  
@@ -271,7 +271,7 @@ const s = [
    'stutzig', // stutzig: 
    'Suff',  // Suff:
    'süffisant',  // süffisant: 
-   'summen, aufsummen', //  duplicated  
+   'summen, auf-', //    
    'Sündenbock', // Sündenbock: 
    'Sündenpfuhl', // Sündenpfuhl: 
    'surren',   // surren:  

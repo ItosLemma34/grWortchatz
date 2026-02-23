@@ -41,7 +41,7 @@ const g = [
    'Gemurmel',  // Gemurmel:  
    'gepfeffert, pfeffern', // duplicated  
    'Geplänkel, Vorgeplänkel',  // duplicated  
-   'Geplapper, plappern, nachplappern', // triplicated 
+   'Geplapper, plappern, nach-', // duplicated 
    'gerädert',  // gerädert: 
    'Gerangel', // Gerangel:  
    'Geräuschkulisse', // Geräuschkulisse:  

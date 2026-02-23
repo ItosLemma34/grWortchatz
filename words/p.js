@@ -40,7 +40,7 @@ const p = [
    'Plackerei', // Plackerei:
    'Plane',  // Plane:
    'planschen', // planschen:  
-   'plappern, nachplappern, Geplapper',  // triplicated  
+   'plappern, nach-, Geplapper',  // duplicated  
    'platschen', // platschen: 
    'plätschern', // plätschern: 
    'Platzhirsch', // Platzhirsch: 

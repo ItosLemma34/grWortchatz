@@ -1,5 +1,5 @@
 const f = [
-   'fächern, auffächern', //  duplicated 
+   'fächern, auf-',  
    'fackeln',  // fackeln:  
    'fadenscheinig',  // fadenscheinig: 
    'Fahne (von der F. gehen)',  //  duplicated 

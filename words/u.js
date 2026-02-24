@@ -49,7 +49,7 @@ const u = [
    'unverfroren',  // unverfroren:  
    'unverhohlen',  // unverhohlen:
    'unverrichteter Dinge',
-   'Unversehrtheit, versehren',  // duplicated
+   'Unversehrtheit, unversehrt, versehren',  // duplicated
    'unverwandt', // unverwandt:  
    'unwirsch',  // unwirsch: 
 ];

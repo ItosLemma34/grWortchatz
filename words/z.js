@@ -65,7 +65,7 @@ const z = [
    'Zuspruch',  // Zuspruch: 
    'zuwanken',   // zuwanken: 
    'Zwang (keinen Z. antun)', // duplicated 
-   'zwinkern, -an, zu-',  
+   'zwinkern, an-, zu-',  
    'zwirbeln',  // zwirbeln:  
    'Zwirn',  // Zwirn: 
    'zwitschern, Gezwitscher',  // duplicated 

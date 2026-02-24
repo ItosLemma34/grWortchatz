@@ -117,7 +117,7 @@ const s = [
    'schnöde',  // schnöde:   
    'schnörkelig, Schnörkel', 
    'Schnösel',  // Schnösel:  
-   'schnorren, anschnorren', // duplicated 
+   'schnorren, an-', 
    'Schnulze',  // Schnulze:
    'schnuppern, erschnuppern',  // duplicated 
    'Schnur, schnüren', // 

@@ -9,7 +9,7 @@ export const wordExamples = {
 // Schlamperei, schlampen, schlampig  Der stumme Tod 152
 //   Begriffsstutzigkeit  Marlow 
 // Rename:
-//check   // COMPLETE
+//check   // COMPLETE   check gellen
 zzz: [  
 	'<strong>zzz</strong>: '+
 	'<br>Deutsch:&nbsp;&nbsp;<a href=""target="target1">zz</a>&nbsp;&nbsp;<a href=""target="target2">zz</a>'+
@@ -135,6 +135,22 @@ ausgewechselt: [
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
 	'Unter den Schriftstücken in dieser Mappe.. fand er (<i>Rath</i>) auch eine akribische Beschreibung, die schilderte, wie Hermann Göring.. eine Ration Morphium spritzte, ohne sich die Mühe zu machen, dies vor seinem Personal und seinen Gästen.. zu verbergen.. Unverhohlen voyeuristisch dann die Beschreibung, wie <strong>ausgewechselt</strong> der schwächelnde Göring nach der Injektion war... (<i>Marlow</i>, 308-09)',
+],
+// COMPLETE
+deuteln: [  
+	'<strong>deuteln</strong>: quibble, niggle, split hairs'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/deuteln"target="target1">deuteln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/deuteln"target="target2">deuteln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/deuteln"target="target3">deuteln</a>&nbsp;&nbsp;<a href="https://context.reverso.net/translation/german-english/deuteln"target="target4">deuteln</a>',
+	'<u>Der nasse Fisch</u>',   
+	'   (<i>Der nasse Fisch</i>, 000)',
+	'<u>Der stumme Tod</u>',
+	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'Der Wirt zuckte die Achseln. "Da wünsch ich Ihnen viel Glück. Des macht dann acht Mark bitte.".. Die wollten ihn tatsächlich loswerden hier.. Rath bezahlte, verzichtete auf ein Trinkgeld, das er unter anderen Umständen sicher gegeben hätte... Irgendwie stand er mit der fränkischen Hotellerie auf Kriegsfuß, daran gab es nun nichts mehr zu <strong>deuteln</strong>. (<i>Marlow</i>, 315)',
 ],
 schwächeln: [  
 	'<strong>schwächeln</strong>: '+
@@ -1533,6 +1549,7 @@ reihern: [
 	'Und da saß er (<i>Rath</i>) nun. Saß in einer ruhigen Ecke am Parkrand in seinem Auto und starrte auf den <strong>zerknitterten</strong>, aufgerissenen Umschlag auf seinem Schoß. (<i>Marlow</i>, 38)',
 	'Greta fummelte eine <strong>zerknitterte</strong> grüne Pappschachtel aus ihrem Morgenmantel, klaubte eine Eckstein (<i>eine Zigarette</i>) heraus und zündete sie an. (<i>Marlow</i>, 215)',
 	'Joseph Königsberg.. setzte sich. Dafür, dass der Mann ein wohlhabender Textilunternehmer war, machte sein Anzug einen erstaunlich ungepflegten und <strong>zerknitterten</strong> Eindruck. Ohne Zweifel feinster Zwirn und maßgeschneidert, doch sah es aus, als habe Königsberg mehrere Nächte in seinen Kleidern geschlafen. (<i>Marlow</i>, 288-89)',
+	'Er (<i>Rath</i>) hatte die Gelegenheit genutzt, um seine Reisetasche einmal auszupacken und seine Sachen durchzulüften und die <strong>zerknitterten</strong> Hemden auf den Bügel zu hängen und zu straffen. Sahen schon wieder ganz ordentlich aus. (<i>Marlow</i>, 312)',
 ],
 'verknittern, zerknittern': [
 	'<strong>zerknittern</strong> = <strong>verknittern</strong>: crease, crumble, wrinkle'+
@@ -1557,6 +1574,7 @@ reihern: [
 	'Und da saß er (<i>Rath</i>) nun. Saß in einer ruhigen Ecke am Parkrand in seinem Auto und starrte auf den <strong>zerknitterten</strong>, aufgerissenen Umschlag auf seinem Schoß. (<i>Marlow</i>, 38)',
 	'Greta fummelte eine <strong>zerknitterte</strong> grüne Pappschachtel aus ihrem Morgenmantel, klaubte eine Eckstein (<i>eine Zigarette</i>) heraus und zündete sie an. (<i>Marlow</i>, 215)',
 	'Joseph Königsberg.. setzte sich. Dafür, dass der Mann ein wohlhabender Textilunternehmer war, machte sein Anzug einen erstaunlich ungepflegten und <strong>zerknitterten</strong> Eindruck. Ohne Zweifel feinster Zwirn und maßgeschneidert, doch sah es aus, als habe Königsberg mehrere Nächte in seinen Kleidern geschlafen. (<i>Marlow</i>, 288-89)',
+	'Er (<i>Rath</i>) hatte die Gelegenheit genutzt, um seine Reisetasche einmal auszupacken und seine Sachen durchzulüften und die <strong>zerknitterten</strong> Hemden auf den Bügel zu hängen und zu straffen. Sahen schon wieder ganz ordentlich aus. (<i>Marlow</i>, 312)',
 ],
 knutschen: [
 	'<strong>knutschen</strong>: neck, smooch, kiss, make out'+
@@ -2966,6 +2984,7 @@ anwinkeln: [
 	'Um seinen Fehler auszubügeln, war er (<i>Gräf</i>) in der Burg geblieben bis Gennat ihn fast schon hinauswerfen musste. Ganz im Gegensatz zu Gereon Rath, von dem keiner wusste, wo er sich wieder rumtrieb. Der Mann nahm sich Freiheiten heraus, die auch dem Buddha langsam <strong>gegen den Strich gingen</strong>, obwohl er seine Leute gern an der langen Leine laufen ließ. (<i>Der nasse Fisch</i>, 490)',
 	'<u>Marlow</u>',
 	'<i>Rath</i>: "..die Leichen hier werden nicht zu Grieneisen gebracht, sondern in die Hannoversche Straße." <i>der Schupo</i>: "Wie?" "Schwer von Begriff? In die Gerichtsmedizin. Die Unfallopfer müssen selbstverständlich obduziert werden.. Das hier ist eine Todesfallermittlung!.." Dem Schupo war anzusehen, wie sehr ihm das <strong>gegen den Strich ging</strong>, doch er salutierte brav. (<i>Marlow</i>, 37)',
+	'Allerdings hatte Rath die Akte Lehmann immer noch nicht herbeigeschafft.. Dummerweise war Böhm auf ihn angewiesen. Umso mehr, da die Akte Lehmann nicht vorlag. So musste er sich ganz allein auf die mündlichen Auskünfte und das Erinnerungsvermögen von Gereon Rath stützen, und das <strong>ging</strong> ihm gehörig <strong>gegen den Strich</strong>. (<i>Marlow</i>, 235)',
 ],
 'Strich (gegen den S. gehen)': [
 	'jmdm. <strong>gegen den Strich gehen</strong>: rub so. the wrong way; go against the grain'+
@@ -3051,63 +3070,63 @@ schleudern: [
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Spieß, spießen, aufspießen': [
-'der <strong>Spieß</strong>,-<strong>e</strong>: spear, skewer'+
-'<br><strong>spießen</strong>: spear, skewer, impale'+
-'<br><strong>aufspießen</strong>: gore, impale, spear/skewer sth.'+
-'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spiesz"target="target1">Spieß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spie%C3%9Fen"target="target2">spießen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufspie%C3%9Fen"target="target3">aufspießen</a>'+
-'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spiess?q=Spie%C3%9F"target="target4">Spieß</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spiessen"target="target5">spießen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufspie%C3%9Fen&id=verb%3Aaufspies5en"target="target4">aufspießen</a>',
-'<u>Märzgefallene</u>',
-'Rath durchsuchte die Manteltaschen des Toten, fand aber nur eine leidlich gefüllte Geldbörse, ein gebrauchtes Taschentuch und eine blutbeschmierte Stichwaffe. "Kein Wehrpass, nichts", sagte er und hielt den Dolch ins Licht. Die Klinge, wenn man diesen spitz zulaufenden <strong>Spieß</strong> überhaupt so nennen konnte, war eindeutig dreieckig. (<i>Märzgefallene</i>, 412)',
-'Aus dem Wald der Fahnen und Fackeln ragte eine hohe Stange, auf die ein Kopf <strong>gespießt</strong> war... Als sich der Fackelzug näherte konnte Roddeck erkennen, dass es eine Büste war, die Büste von Magnus Hirschfeld, dem Sexualforscher. Ein Mann, der ernsthaft die Straffreiheit von Homosexualität forderte! Die wenigsten hier hätte wohl etwas dagegen gehabt, den echten Kopf dieser Judenschwuchtel <strong>aufgespießt</strong> zu sehen. (<i>Märzgefallene</i>, 554)',
-'<u>Lunapark</u>',
-'"Wie war denn dein Tag?", fragte Gereon nach einer Weile. <i>Charly</i>: "Anstrengend." Sie <strong>spießte</strong> eine Kartoffel <strong>auf</strong> und betractete sie wie ein Studienobject. "Und deiner?" (<i>Lunapark</i>, 271)',
-'<u>Marlow</u>',
-'"Melde gehorsamst, Oberkommissar, aber glauben Sie mir: Die Sauerei hätten Sie nicht sehen wollen. Der da..." Er wies auf eine der beiden Leichen, deren Leinentuch in der Mitte blutigrot glänzte. ".. ist förmlich <strong>aufgespieß</strong> worden. Von der Lenksäule. Ohne Eisensäge hätten wir den nicht aus dem Wagen bekommen." (<i>Marlow</i>, 27)',
+	'der <strong>Spieß</strong>,-<strong>e</strong>: spear, skewer'+
+	'<br><strong>spießen</strong>: spear, skewer, impale'+
+	'<br><strong>aufspießen</strong>: gore, impale, spear/skewer sth.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spiesz"target="target1">Spieß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spie%C3%9Fen"target="target2">spießen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufspie%C3%9Fen"target="target3">aufspießen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spiess?q=Spie%C3%9F"target="target4">Spieß</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spiessen"target="target5">spießen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufspie%C3%9Fen&id=verb%3Aaufspies5en"target="target4">aufspießen</a>',
+	'<u>Märzgefallene</u>',
+	'Rath durchsuchte die Manteltaschen des Toten, fand aber nur eine leidlich gefüllte Geldbörse, ein gebrauchtes Taschentuch und eine blutbeschmierte Stichwaffe. "Kein Wehrpass, nichts", sagte er und hielt den Dolch ins Licht. Die Klinge, wenn man diesen spitz zulaufenden <strong>Spieß</strong> überhaupt so nennen konnte, war eindeutig dreieckig. (<i>Märzgefallene</i>, 412)',
+	'Aus dem Wald der Fahnen und Fackeln ragte eine hohe Stange, auf die ein Kopf <strong>gespießt</strong> war... Als sich der Fackelzug näherte konnte Roddeck erkennen, dass es eine Büste war, die Büste von Magnus Hirschfeld, dem Sexualforscher. Ein Mann, der ernsthaft die Straffreiheit von Homosexualität forderte! Die wenigsten hier hätte wohl etwas dagegen gehabt, den echten Kopf dieser Judenschwuchtel <strong>aufgespießt</strong> zu sehen. (<i>Märzgefallene</i>, 554)',
+	'<u>Lunapark</u>',
+	'"Wie war denn dein Tag?", fragte Gereon nach einer Weile. <i>Charly</i>: "Anstrengend." Sie <strong>spießte</strong> eine Kartoffel <strong>auf</strong> und betractete sie wie ein Studienobject. "Und deiner?" (<i>Lunapark</i>, 271)',
+	'<u>Marlow</u>',
+	'"Melde gehorsamst, Oberkommissar, aber glauben Sie mir: Die Sauerei hätten Sie nicht sehen wollen. Der da..." Er wies auf eine der beiden Leichen, deren Leinentuch in der Mitte blutigrot glänzte. ".. ist förmlich <strong>aufgespieß</strong> worden. Von der Lenksäule. Ohne Eisensäge hätten wir den nicht aus dem Wagen bekommen." (<i>Marlow</i>, 27)',
 ],
 'aufspießen, spießen, Spieß': [
-'der <strong>Spieß</strong>,-<strong>e</strong>: spear, skewer'+
-'<br><strong>spießen</strong>: spear, skewer, impale'+
-'<br><strong>aufspießen</strong>: gore, impale, spear/skewer sth.'+
-'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spiesz"target="target1">Spieß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spie%C3%9Fen"target="target2">spießen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufspie%C3%9Fen"target="target3">aufspießen</a>'+
-'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spiess?q=Spie%C3%9F"target="target4">Spieß</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spiessen"target="target5">spießen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufspie%C3%9Fen&id=verb%3Aaufspies5en"target="target4">aufspießen</a>',
-'<u>Märzgefallene</u>',
-'Rath durchsuchte die Manteltaschen des Toten, fand aber nur eine leidlich gefüllte Geldbörse, ein gebrauchtes Taschentuch und eine blutbeschmierte Stichwaffe. "Kein Wehrpass, nichts", sagte er und hielt den Dolch ins Licht. Die Klinge, wenn man diesen spitz zulaufenden <strong>Spieß</strong> überhaupt so nennen konnte, war eindeutig dreieckig. (<i>Märzgefallene</i>, 412)',
-'Aus dem Wald der Fahnen und Fackeln ragte eine hohe Stange, auf die ein Kopf <strong>gespießt</strong> war... Als sich der Fackelzug näherte konnte Roddeck erkennen, dass es eine Büste war, die Büste von Magnus Hirschfeld, dem Sexualforscher. Ein Mann, der ernsthaft die Straffreiheit von Homosexualität forderte! Die wenigsten hier hätte wohl etwas dagegen gehabt, den echten Kopf dieser Judenschwuchtel <strong>aufgespießt</strong> zu sehen. (<i>Märzgefallene</i>, 554)',
-'<u>Lunapark</u>',
-'"Wie war denn dein Tag?", fragte Gereon nach einer Weile. <i>Charly</i>: "Anstrengend." Sie <strong>spießte</strong> eine Kartoffel <strong>auf</strong> und betractete sie wie ein Studienobject. "Und deiner?" (<i>Lunapark</i>, 271)',
-'<u>Marlow</u>',
-'"Melde gehorsamst, Oberkommissar, aber glauben Sie mir: Die Sauerei hätten Sie nicht sehen wollen. Der da..." Er wies auf eine der beiden Leichen, deren Leinentuch in der Mitte blutigrot glänzte. ".. ist förmlich <strong>aufgespieß</strong> worden. Von der Lenksäule. Ohne Eisensäge hätten wir den nicht aus dem Wagen bekommen." (<i>Marlow</i>, 27)',
+	'der <strong>Spieß</strong>,-<strong>e</strong>: spear, skewer'+
+	'<br><strong>spießen</strong>: spear, skewer, impale'+
+	'<br><strong>aufspießen</strong>: gore, impale, spear/skewer sth.'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Spiesz"target="target1">Spieß</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/spie%C3%9Fen"target="target2">spießen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/aufspie%C3%9Fen"target="target3">aufspießen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/spiess?q=Spie%C3%9F"target="target4">Spieß</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/spiessen"target="target5">spießen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=aufspie%C3%9Fen&id=verb%3Aaufspies5en"target="target4">aufspießen</a>',
+	'<u>Märzgefallene</u>',
+	'Rath durchsuchte die Manteltaschen des Toten, fand aber nur eine leidlich gefüllte Geldbörse, ein gebrauchtes Taschentuch und eine blutbeschmierte Stichwaffe. "Kein Wehrpass, nichts", sagte er und hielt den Dolch ins Licht. Die Klinge, wenn man diesen spitz zulaufenden <strong>Spieß</strong> überhaupt so nennen konnte, war eindeutig dreieckig. (<i>Märzgefallene</i>, 412)',
+	'Aus dem Wald der Fahnen und Fackeln ragte eine hohe Stange, auf die ein Kopf <strong>gespießt</strong> war... Als sich der Fackelzug näherte konnte Roddeck erkennen, dass es eine Büste war, die Büste von Magnus Hirschfeld, dem Sexualforscher. Ein Mann, der ernsthaft die Straffreiheit von Homosexualität forderte! Die wenigsten hier hätte wohl etwas dagegen gehabt, den echten Kopf dieser Judenschwuchtel <strong>aufgespießt</strong> zu sehen. (<i>Märzgefallene</i>, 554)',
+	'<u>Lunapark</u>',
+	'"Wie war denn dein Tag?", fragte Gereon nach einer Weile. <i>Charly</i>: "Anstrengend." Sie <strong>spießte</strong> eine Kartoffel <strong>auf</strong> und betractete sie wie ein Studienobject. "Und deiner?" (<i>Lunapark</i>, 271)',
+	'<u>Marlow</u>',
+	'"Melde gehorsamst, Oberkommissar, aber glauben Sie mir: Die Sauerei hätten Sie nicht sehen wollen. Der da..." Er wies auf eine der beiden Leichen, deren Leinentuch in der Mitte blutigrot glänzte. ".. ist förmlich <strong>aufgespieß</strong> worden. Von der Lenksäule. Ohne Eisensäge hätten wir den nicht aus dem Wagen bekommen." (<i>Marlow</i>, 27)',
 ],
-	'Strang, Schienen-, Kabel-': [
-		'der <strong>Strang</strong>, die <strong>Stränge</strong>: strand, cable; line/leg (tech)'+
-		'<br>der <strong>Schienenstrang</strong>,-<strong>stränge</strong>: railroad track'+
-		'<br>der <strong>Kabelstrang</strong>,-<strong>stränge</strong>: cable harness'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strang"target="target1">Strang</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/search?k=schienenstrang"target="target2">Schienenstrang</a>&nbsp;&nbsp;<a href="https://www.google.com/search?q=Bilder+Kabelstrang&client=firefox-b-1-d&sca_esv=792560e52f66799b&channel=entpr&ei=1bPQaJXKEOCy5NoP6ICCwAo&ved=0ahUKEwjViKTgqOuPAxVgGVkFHWiAAKgQ4dUDCBA&uact=5&oq=Bilder+Kabelstrang&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkJpbGRlciBLYWJlbHN0cmFuZzIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSMGMAVCSO1ivfXACeACQAQCYAWegAfIHqgEEMTMuMbgBA8gBAPgBAZgCD6AC1gfCAggQABiwAxjvBcICCBAAGIAEGKIEwgIFECEYnwWYAwCIBgGQBgKSBwQxNC4xoAf-HrIHBDEyLjG4B8oHwgcFMC43LjjIByo&sclient=gws-wiz-serp"target="target3">Kabelstrang</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strang"target="target4">Strang</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schienenstrang&id=substantiv%3ASchienenstrang"target="target5">Schienenstrang</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kabelstrang"target="target6">Kabelstrang</a>',
-		'<u>Der stumme Tod</u>',
-		'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der schmächtige Kriminalassistent manövrierte die Kamera mit dem sperrigen <strong>Stativ</strong> hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
-		'Alles hier war vollgestopft mit technischem Gerät. Scheinwerfer auf <strong>Stativen</strong>, dazwischen ein verglaster Kasten, der an einen schmucklosen Beichtstuhl erinnerte. (<i>Der stumme Tod</i>, 22)',
-		'Eine zweite Kamera stand mitsamt <strong>Stativ</strong> auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. (<i>Der stumme Tod</i>, 22)',
-		'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. Der einzige Mensch, der einen zu dieser Umgebung passenden Abendanzug trug, saß etwas abseits auf einem der Klappstühle, die rings um das Parkett zwischen Scheinwerferstativen und Kabel<strong>strängen</strong> standen, ein blonder Mann, der sein Gesicht in den Armen verborgen hatte. (<i>Der stumme Tod</i>, 23)',
-		'<u>Märzgefallene</u>',
-		'"Dann sollten Sie (<i>Charly</i>) Ihre Vorsetllungen überdenken", sagte die Kriminalrätin (<i>Friederike Wieking</i>). "In einer Volksgemeinschaft sollten alle an einem <strong>Strang</strong> ziehen. Das fängt im Kleinen an, in der Familie, am Arbeitsplatz, und setzt sich im Großen fort. Denken Sie einmal darüber nach." (<i>Märzgefallene</i>, 529)',
-		'<u>Marlow</u>',
-		'Die Kraftdroscke (<i>taxi</i>) war frontal gegen die massive Backsteinmauer geprallt.., an jener Stelle, wo die breite Yorckstraße einen Rechtsknick machte und sich verjüngte, um auf den nächsten fünfhunder Metern mehr als vierzig stählerne Stege zu unterqueren, sämtliche <strong>Schienenstränge</strong>, die zum Anhalter und Potsdamer Bahnhof führten. (<i>Marlow</i>, 27)',
-	],
-	'über die Stränge schlagen': [
-		'<strong>über die Stränge schlagen</strong>: get carried away, go overboard, run riot'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Str%C3%A4nge%20schlagen"target="target1">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Str%C3%A4nge+schlagen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über die Stränge schlagen</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Str%C3%A4nge+schlagen"target="target3">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/uber-die-strange-schlagen/"target="target4">über die Stränge schlagen</a>',
-		'<u>Der nasse Fisch</u>',
-		'Wolters Durchwahl konnte er (<i>Rath</i>) im Schlaf runterbeten. Der Onkel nahm ab, und Rath murmelte eine Entschuldigung in die Sprechmuschel. Am anderen Ende der Leitung hörte er ein Lachen. "Du hörst dich nicht gerade gesund an, alter Junge. Wohl ein wenig <strong>über die Stränge geschlagen</strong>!" (<i>Der nasse Fisch</i>, 43)',
-	],
-	'Stränge (über die S. schlagen)': [
-		'<strong>über die Stränge schlagen</strong>: get carried away, go overboard, run riot'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Str%C3%A4nge%20schlagen"target="target1">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Str%C3%A4nge+schlagen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über die Stränge schlagen</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Str%C3%A4nge+schlagen"target="target3">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/uber-die-strange-schlagen/"target="target4">über die Stränge schlagen</a>',
-		'<u>Der nasse Fisch</u>',
-		'Wolters Durchwahl konnte er (<i>Rath</i>) im Schlaf runterbeten. Der Onkel nahm ab, und Rath murmelte eine Entschuldigung in die Sprechmuschel. Am anderen Ende der Leitung hörte er ein Lachen. "Du hörst dich nicht gerade gesund an, alter Junge. Wohl ein wenig <strong>über die Stränge geschlagen</strong>!" (<i>Der nasse Fisch</i>, 43)',
-	],
+'Strang, Schienen-, Kabel-': [
+	'der <strong>Strang</strong>, die <strong>Stränge</strong>: strand, cable; line/leg (tech)'+
+	'<br>der <strong>Schienenstrang</strong>,-<strong>stränge</strong>: railroad track'+
+	'<br>der <strong>Kabelstrang</strong>,-<strong>stränge</strong>: cable harness'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Strang"target="target1">Strang</a>&nbsp;&nbsp;<a href="https://stock.adobe.com/search?k=schienenstrang"target="target2">Schienenstrang</a>&nbsp;&nbsp;<a href="https://www.google.com/search?q=Bilder+Kabelstrang&client=firefox-b-1-d&sca_esv=792560e52f66799b&channel=entpr&ei=1bPQaJXKEOCy5NoP6ICCwAo&ved=0ahUKEwjViKTgqOuPAxVgGVkFHWiAAKgQ4dUDCBA&uact=5&oq=Bilder+Kabelstrang&gs_lp=Egxnd3Mtd2l6LXNlcnAiEkJpbGRlciBLYWJlbHN0cmFuZzIFEAAY7wUyBRAAGO8FMgUQABjvBTIFEAAY7wUyBRAAGO8FSMGMAVCSO1ivfXACeACQAQCYAWegAfIHqgEEMTMuMbgBA8gBAPgBAZgCD6AC1gfCAggQABiwAxjvBcICCBAAGIAEGKIEwgIFECEYnwWYAwCIBgGQBgKSBwQxNC4xoAf-HrIHBDEyLjG4B8oHwgcFMC43LjjIByo&sclient=gws-wiz-serp"target="target3">Kabelstrang</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/strang"target="target4">Strang</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schienenstrang&id=substantiv%3ASchienenstrang"target="target5">Schienenstrang</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/kabelstrang"target="target6">Kabelstrang</a>',
+	'<u>Der stumme Tod</u>',
+	'Henning mühte sich unter dem Fotoapparat ab, den er aus dem Opel gewuchtet hatte. Der Schupo öffnete die Stahltür, und der schmächtige Kriminalassistent manövrierte die Kamera mit dem sperrigen <strong>Stativ</strong> hindurch. Rath und Czerwinski folgten ihm. (<i>Der stumme Tod</i>, 22)',
+	'Alles hier war vollgestopft mit technischem Gerät. Scheinwerfer auf <strong>Stativen</strong>, dazwischen ein verglaster Kasten, der an einen schmucklosen Beichtstuhl erinnerte. (<i>Der stumme Tod</i>, 22)',
+	'Eine zweite Kamera stand mitsamt <strong>Stativ</strong> auf einem Wagen, eingekapselt in ein schweres Metallgehäuse, aus dem nur das Objektiv (<i>lens</i>) herauslugte. (<i>Der stumme Tod</i>, 22)',
+	'Ebenso deplatziert wirkte die Menschentraube inmitten der Eleganz: hemdsärmeliges Räuberzivil neben grauen und weißen Arbeitskitteln. Der einzige Mensch, der einen zu dieser Umgebung passenden Abendanzug trug, saß etwas abseits auf einem der Klappstühle, die rings um das Parkett zwischen Scheinwerferstativen und Kabel<strong>strängen</strong> standen, ein blonder Mann, der sein Gesicht in den Armen verborgen hatte. (<i>Der stumme Tod</i>, 23)',
+	'<u>Märzgefallene</u>',
+	'"Dann sollten Sie (<i>Charly</i>) Ihre Vorsetllungen überdenken", sagte die Kriminalrätin (<i>Friederike Wieking</i>). "In einer Volksgemeinschaft sollten alle an einem <strong>Strang</strong> ziehen. Das fängt im Kleinen an, in der Familie, am Arbeitsplatz, und setzt sich im Großen fort. Denken Sie einmal darüber nach." (<i>Märzgefallene</i>, 529)',
+	'<u>Marlow</u>',
+	'Die Kraftdroscke (<i>taxi</i>) war frontal gegen die massive Backsteinmauer geprallt.., an jener Stelle, wo die breite Yorckstraße einen Rechtsknick machte und sich verjüngte, um auf den nächsten fünfhunder Metern mehr als vierzig stählerne Stege zu unterqueren, sämtliche <strong>Schienenstränge</strong>, die zum Anhalter und Potsdamer Bahnhof führten. (<i>Marlow</i>, 27)',
+],
+'über die Stränge schlagen': [
+	'<strong>über die Stränge schlagen</strong>: get carried away, go overboard, run riot'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Str%C3%A4nge%20schlagen"target="target1">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Str%C3%A4nge+schlagen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über die Stränge schlagen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Str%C3%A4nge+schlagen"target="target3">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/uber-die-strange-schlagen/"target="target4">über die Stränge schlagen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Wolters Durchwahl konnte er (<i>Rath</i>) im Schlaf runterbeten. Der Onkel nahm ab, und Rath murmelte eine Entschuldigung in die Sprechmuschel. Am anderen Ende der Leitung hörte er ein Lachen. "Du hörst dich nicht gerade gesund an, alter Junge. Wohl ein wenig <strong>über die Stränge geschlagen</strong>!" (<i>Der nasse Fisch</i>, 43)',
+],
+'Stränge (über die S. schlagen)': [
+	'<strong>über die Stränge schlagen</strong>: get carried away, go overboard, run riot'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/%C3%BCber%20die%20Str%C3%A4nge%20schlagen"target="target1">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://www.redensarten-index.de/suche.php?suchbegriff=%C3%BCber+die+Str%C3%A4nge+schlagen&bool=relevanz&gawoe=an&sp0=rart_ou&sp1=rart_varianten_ou"target="target2">über die Stränge schlagen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=%C3%BCber+die+Str%C3%A4nge+schlagen"target="target3">über die Stränge schlagen</a>&nbsp;&nbsp;<a href="https://crossidiomas.com/uber-die-strange-schlagen/"target="target4">über die Stränge schlagen</a>',
+	'<u>Der nasse Fisch</u>',
+	'Wolters Durchwahl konnte er (<i>Rath</i>) im Schlaf runterbeten. Der Onkel nahm ab, und Rath murmelte eine Entschuldigung in die Sprechmuschel. Am anderen Ende der Leitung hörte er ein Lachen. "Du hörst dich nicht gerade gesund an, alter Junge. Wohl ein wenig <strong>über die Stränge geschlagen</strong>!" (<i>Der nasse Fisch</i>, 43)',
+],
 Steg: [
 	'der <strong>Steg</strong>,-<strong>e</strong>: footbridge, gangplank, overpass'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Steg"target="target1">Steg</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Steg"target="target2">Steg</a>'+
@@ -3338,51 +3357,49 @@ flackern: [
 	'Juretzka war anzusehen, dass ihn der unerwartete Zwischenfall aus dem Konzept gebracht hatte. Er wusste nicht, wie er damit umgehen sollte, dass ihm da ein Pimpf mit ernstem Gesicht und geladener Pistole gegenüberstand. Seine Miene war zwar immer noch amüsiert, aber in seinen Augen <strong>flackerte</strong> die Unsicherheit auf - in seinem linken Auge. (<i>Lunapark</i>, 529)',
 ],
 // ä Ä ö Ö ü Ü ß  einhaken    ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
-	abservieren: [
-		'<strong>abservieren</strong>: clear the table; throw out, ditch, dump,'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abservieren"target="target1">abservieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abservieren"target="target2">abservieren</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abservieren"target="target3">abservieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abservieren&id=verb%3Aabservieren"target="target4">abservieren</a>',
-		//	'<u>Der nasse Fisch</u>',   
-		'<u>Märzgefallene</u>',
-		'Rath fragte sich immer noch, auf was der altgediente und nun so stillos <strong>abserviert</strong> Gerichtsmedizier hinaus wollte, aber er zügelte seine Ungeduld und hoffte, Schwartz würde bald zum Thema kommen. (<i>Märzgefallene</i>, 507)',
-		//	'<u>Lunapark</u>',   
-	],
+abservieren: [
+	'<strong>abservieren</strong>: clear the table; throw out, ditch, dump,'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/abservieren"target="target1">abservieren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abservieren"target="target2">abservieren</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/abservieren"target="target3">abservieren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=abservieren&id=verb%3Aabservieren"target="target4">abservieren</a>',
+	'<u>Märzgefallene</u>',
+	'Rath fragte sich immer noch, auf was der altgediente und nun so stillos <strong>abserviert</strong> Gerichtsmedizier hinaus wollte, aber er zügelte seine Ungeduld und hoffte, Schwartz würde bald zum Thema kommen. (<i>Märzgefallene</i>, 507)',
+],
 päppeln: [
-'<strong>päppeln</strong>: pamper, coddle; nourish'+
-'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/paeppeln"target="target1">päppeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/p%C3%A4ppeln"target="target2">päppeln</a>'+
-'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pappeln"target="target3">päppeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=p%C3%A4ppeln&id=verb%3Apa3ppeln"target="target4">päppeln</a>',
-'<u>Der nasse Fisch</u>',
-'<i>Rath</i>: "Der Stahlhelm ist ein Frontkämpferbund. Viele Polizisten waren im Krieg." <i>Weinert</i>: "Aber nicht alle bilden für eine paramilitärische Vereinigigung junge Leute an der Waffe aus. Damit die Reichswehr dereinst, wenn sie wieder groß und stark ist, auf genügend ausgebildete Soldaten zurückgreifen kann. Die Reichswehr besteht doch fast nur noch aus Offizieren. Die einfachen Soldaten, die werden bei den rechten Paramilitärs herangezüchtet.. Die werden doch alle von der Reichswehr und ihren Finanziers aus der Rüstungsindustrie <strong>gepäppelt</strong>." (<i>Der nasse Fisch</i>, 539)',
+	'<strong>päppeln</strong>: pamper, coddle; nourish'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/paeppeln"target="target1">päppeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/p%C3%A4ppeln"target="target2">päppeln</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/pappeln"target="target3">päppeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=p%C3%A4ppeln&id=verb%3Apa3ppeln"target="target4">päppeln</a>',
+	'<u>Der nasse Fisch</u>',
+	'<i>Rath</i>: "Der Stahlhelm ist ein Frontkämpferbund. Viele Polizisten waren im Krieg." <i>Weinert</i>: "Aber nicht alle bilden für eine paramilitärische Vereinigigung junge Leute an der Waffe aus. Damit die Reichswehr dereinst, wenn sie wieder groß und stark ist, auf genügend ausgebildete Soldaten zurückgreifen kann. Die Reichswehr besteht doch fast nur noch aus Offizieren. Die einfachen Soldaten, die werden bei den rechten Paramilitärs herangezüchtet.. Die werden doch alle von der Reichswehr und ihren Finanziers aus der Rüstungsindustrie <strong>gepäppelt</strong>." (<i>Der nasse Fisch</i>, 539)',
 ],
 'Zucht, züchten': [
-'die <strong>Zucht</strong>: breeding, rearing, culture; discipline'+
-'<br><strong>züchten</strong>: grow, raise, breed'+
-'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zucht"target="target1">Zucht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCchten"target="target2">züchten</a>'+
-'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zucht"target="target3">Zucht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=z%C3%BCchten&id=verb%3Azu3chten"target="target4">züchten</a>',
-'<u>Der nasse Fisch</u>',
-'Der Mann erinnerte ein wenig an Wilhelm zwo. Der markante Schnurrbart, der stechende Blick. Wie auf dem Porträt, das zu Kaisers Zeiten in der Stube eines jeden guten Deutschen gehangen hatte – und in manch einer immer noch hing, obwohl der Kaiser vor über zehn Jahren abgedankt hatte und seitdem in Holland Tulpen <strong>züchtete</strong>.  (<i>Der nasse Fisch</i>, 13)',
-'<i>Rath</i>: "Der Stahlhelm ist ein Frontkämpferbund. Viele Polizisten waren im Krieg." <i>Weinert</i>: "Aber nicht alle bilden für eine paramilitärische Vereinigigung junge Leute an der Waffe aus. Damit die Reichswehr dereinst, wenn sie wieder groß und stark ist, auf genügend ausgebildete Soldaten zurückgreifen kann.. Die einfachen Soldaten, die werden bei den rechten Paramilitärs heran<strong>gezüchtet</strong>." (<i>Der nasse Fisch</i>, 539)',
-'<u>Märzgefallene</u>',
-'Jedesmal, wenn es einem Trupp wieder gelungen ist, ein Gebäude endgültig zum Einsturz zu bringen, sparen die anderen nicht mit Anerkennung, versuchen gleich darauf, ihren Kameraden einen noch spektakuläreren Akt der Zerstörung zu bieten. Ich lasse sie gewähren, achte nur darauf, daß die Mannes<strong>zucht</strong> keinen Schaden leidet, daß sie nicht in einen regelrechten Rausch der Zerstörung und Vernichtung geraten. (<i>Märzgefallene</i>, 159)',
-'Und dann hatte sie den Platz erreicht, Corpsstudenten in vollem Wichs, andere in den Uniformen von SA und SS, alle in geordneter Marschformation... Das iebte Roddeck an dieser deutschen Revolution: Sie war so gut organisiert, es herrschte <strong>Zucht</strong> und Ordnung!  (<i>Märzgefallene</i>, 555)',
-'Der nächste Student, ebenfalls einen Stapel Bücher unter dem Arm, trat an die Mikrofone. "Gegen Dekadenz und moralischen Verfall. Für <strong>Zucht</strong> und Sitte in Familie und Staat!  Ich übergebe dem Feuer die Schriften von Heinrich Mann, Ernst Glaeser und Erich Kästner."  (<i>Märzgefallene</i>, 561)',
+	'die <strong>Zucht</strong>: breeding, rearing, culture; discipline'+
+	'<br><strong>züchten</strong>: grow, raise, breed'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zucht"target="target1">Zucht</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/z%C3%BCchten"target="target2">züchten</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zucht"target="target3">Zucht</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=z%C3%BCchten&id=verb%3Azu3chten"target="target4">züchten</a>',
+	'<u>Der nasse Fisch</u>',
+	'Der Mann erinnerte ein wenig an Wilhelm zwo. Der markante Schnurrbart, der stechende Blick. Wie auf dem Porträt, das zu Kaisers Zeiten in der Stube eines jeden guten Deutschen gehangen hatte – und in manch einer immer noch hing, obwohl der Kaiser vor über zehn Jahren abgedankt hatte und seitdem in Holland Tulpen <strong>züchtete</strong>.  (<i>Der nasse Fisch</i>, 13)',
+	'<i>Rath</i>: "Der Stahlhelm ist ein Frontkämpferbund. Viele Polizisten waren im Krieg." <i>Weinert</i>: "Aber nicht alle bilden für eine paramilitärische Vereinigigung junge Leute an der Waffe aus. Damit die Reichswehr dereinst, wenn sie wieder groß und stark ist, auf genügend ausgebildete Soldaten zurückgreifen kann.. Die einfachen Soldaten, die werden bei den rechten Paramilitärs heran<strong>gezüchtet</strong>." (<i>Der nasse Fisch</i>, 539)',
+	'<u>Märzgefallene</u>',
+	'Jedesmal, wenn es einem Trupp wieder gelungen ist, ein Gebäude endgültig zum Einsturz zu bringen, sparen die anderen nicht mit Anerkennung, versuchen gleich darauf, ihren Kameraden einen noch spektakuläreren Akt der Zerstörung zu bieten. Ich lasse sie gewähren, achte nur darauf, daß die Mannes<strong>zucht</strong> keinen Schaden leidet, daß sie nicht in einen regelrechten Rausch der Zerstörung und Vernichtung geraten. (<i>Märzgefallene</i>, 159)',
+	'Und dann hatte sie den Platz erreicht, Corpsstudenten in vollem Wichs, andere in den Uniformen von SA und SS, alle in geordneter Marschformation... Das iebte Roddeck an dieser deutschen Revolution: Sie war so gut organisiert, es herrschte <strong>Zucht</strong> und Ordnung!  (<i>Märzgefallene</i>, 555)',
+	'Der nächste Student, ebenfalls einen Stapel Bücher unter dem Arm, trat an die Mikrofone. "Gegen Dekadenz und moralischen Verfall. Für <strong>Zucht</strong> und Sitte in Familie und Staat!  Ich übergebe dem Feuer die Schriften von Heinrich Mann, Ernst Glaeser und Erich Kästner."  (<i>Märzgefallene</i>, 561)',
 ],
-	Seilschaft: [
-		'die <strong>Seilschaft</strong>,-<strong>en</strong>: clique, coterie; roped party of mountain climbers'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Seilschaft"target="target1">Seilschaft</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Seilschaft"target="target2">Seilschaft</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/seilschaft"target="target3">Seilschaft</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Seilschaft&id=substantiv%3ASeilschaft"target="target4">Seilschaft</a>',
-		'<u>Der nasse Fisch</u>',
-		'"Ich muss gestehen, es fällt mir schwer, diese Geschichte zu glauben", meinte Zörgiebel schließlich. "Eine Stahlhelm-<strong>Seilschaft</strong>, ein florierender Waffenhandel aus Polizeibeständen, mit dem auch die Nazis aufgerüstet werden?" (<i>Der nasse Fisch</i>, 505)',
-		'<i>Weinert</i>: ".. Wolter war ein strammer Stahlhelmer, das hat nicht einmal Zörgiebel dementiert. Und er gehörte zu einer <strong>Seilschaft</strong> alter Kriegskameraden. Das weiß ich von der Behnke." (<i>Der nasse Fisch</i>, 539)',
-	],
-	'Dreck am Stecken haben': [
-		'<strong>Dreck am Stecken haben</strong>: one has done something wrong'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dreck%20am%20Stecken%20haben"target="target1">Dreck am Stecken haben</a>&nbsp;&nbsp;<a href="https://deutschlernerblog.de/dreck-am-stecken-haben-illustrierte-redewendungen-mit-beispielen-271/"target="target2">Dreck am Stecken haben</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Dreck+am+Stecken+haben"target="target3">Dreck am Stecken haben</a>&nbsp;&nbsp;<a href="https://hinative.com/questions/19669963"target="target4">Dreck am Stecken haben</a>',
-		'<u>Der nasse Fisch</u>',
-		'Hatte Wolter die richtigen Schlüsse gezogen? Dann waren sie beide gleich schlau: Jeder wusste, dass der andere <strong>Dreck am Stecken hatte</strong>, keiner kannte Details. Aber der Onkel ahnte wohl, dass der Tod von Josef Wilczek einige Ungereimtheiten aufwies, in die ein Kriminalkommissar namens Gereon Rath verwickelt sein musste. (<i>Der nasse Fisch</i>, 387)',
-		'<i>Weinert zu Rath</i>: "Diese Waffenschiebereien sind keine Phantasie. Karabiner und Maschinenpistolen mit Inventarnummern von Polizei und Reichswehr werden bei Stahlhelm-Wehrübungen eingesetzt. Mein Informant ist kein Spinner." <i>Rath</i>: "Seit Wochen gehst du mir mit diesem Mist auf den Wecker." "Ja, weil ihr plötzlich einen Beamten in den Himmel lobt, der mehr <strong>Dreck am Stecken hat</strong> als ein kaschubischer Schweinehirte!" (<i>Der nasse Fisch</i>, 538)',
-	],
+Seilschaft: [
+	'die <strong>Seilschaft</strong>,-<strong>en</strong>: clique, coterie; roped party of mountain climbers'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Seilschaft"target="target1">Seilschaft</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Seilschaft"target="target2">Seilschaft</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/seilschaft"target="target3">Seilschaft</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Seilschaft&id=substantiv%3ASeilschaft"target="target4">Seilschaft</a>',
+	'<u>Der nasse Fisch</u>',
+	'"Ich muss gestehen, es fällt mir schwer, diese Geschichte zu glauben", meinte Zörgiebel schließlich. "Eine Stahlhelm-<strong>Seilschaft</strong>, ein florierender Waffenhandel aus Polizeibeständen, mit dem auch die Nazis aufgerüstet werden?" (<i>Der nasse Fisch</i>, 505)',
+	'<i>Weinert</i>: ".. Wolter war ein strammer Stahlhelmer, das hat nicht einmal Zörgiebel dementiert. Und er gehörte zu einer <strong>Seilschaft</strong> alter Kriegskameraden. Das weiß ich von der Behnke." (<i>Der nasse Fisch</i>, 539)',
+],
+'Dreck am Stecken haben': [
+	'<strong>Dreck am Stecken haben</strong>: one has done something wrong'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Dreck%20am%20Stecken%20haben"target="target1">Dreck am Stecken haben</a>&nbsp;&nbsp;<a href="https://deutschlernerblog.de/dreck-am-stecken-haben-illustrierte-redewendungen-mit-beispielen-271/"target="target2">Dreck am Stecken haben</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=Dreck+am+Stecken+haben"target="target3">Dreck am Stecken haben</a>&nbsp;&nbsp;<a href="https://hinative.com/questions/19669963"target="target4">Dreck am Stecken haben</a>',
+	'<u>Der nasse Fisch</u>',
+	'Hatte Wolter die richtigen Schlüsse gezogen? Dann waren sie beide gleich schlau: Jeder wusste, dass der andere <strong>Dreck am Stecken hatte</strong>, keiner kannte Details. Aber der Onkel ahnte wohl, dass der Tod von Josef Wilczek einige Ungereimtheiten aufwies, in die ein Kriminalkommissar namens Gereon Rath verwickelt sein musste. (<i>Der nasse Fisch</i>, 387)',
+	'<i>Weinert zu Rath</i>: "Diese Waffenschiebereien sind keine Phantasie. Karabiner und Maschinenpistolen mit Inventarnummern von Polizei und Reichswehr werden bei Stahlhelm-Wehrübungen eingesetzt. Mein Informant ist kein Spinner." <i>Rath</i>: "Seit Wochen gehst du mir mit diesem Mist auf den Wecker." "Ja, weil ihr plötzlich einen Beamten in den Himmel lobt, der mehr <strong>Dreck am Stecken hat</strong> als ein kaschubischer Schweinehirte!" (<i>Der nasse Fisch</i>, 538)',
+],
 schlängeln: [
 	'<strong>sich schlängeln</strong>: wriggle, snake, curl, wind, meander'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schlaengeln"target="target1">schlängeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/schl%C3%A4ngeln"target="target2">schlängeln</a>'+
@@ -3555,7 +3572,7 @@ geständig: [
 	'<u>Der nasse Fisch</u>',
 	'Reinhold hatte ganz kleine Brötchen gebacken, weil er die Frau hatte laufen lassen, die den Russen wahrscheinlich in die tödliche Falle gelockt hatte. Nicht einmal richtig beschreiben konnte er sie, weil er sie in dem <strong>dämmrigen</strong> Treppenhaus nur kurz gesehen hatte, und die meiste Zeit davon gegen das Licht. (<i>Der nasse Fisch</i>, 490)',
 	'<u>Der stumme Tod</u>',
-	'Die Tür öffnete sich, das Licht im Flur leuchtete auf. Aus der Sicherheit des <strong>dämmrigen/<strong> Wohnzimmers konnte Rath durch den kleinen Türspalt sehen, wie ein kleiner schlanker Mann einen karamellfabenen Mantel und einen braunen Hut an die Garderobe hängte. (<i>Der stumme Tod</i>, 92)',
+	'Die Tür öffnete sich, das Licht im Flur leuchtete auf. Aus der Sicherheit des <strong>dämmrigen</strong> Wohnzimmers konnte Rath durch den kleinen Türspalt sehen, wie ein kleiner schlanker Mann einen karamellfabenen Mantel und einen braunen Hut an die Garderobe hängte. (<i>Der stumme Tod</i>, 92)',
 ],
 vorführen: [
 	'<strong>vorführen</strong>: present, bring forward, demonstrate; make sb. look silly/ridiculous'+
@@ -3686,8 +3703,8 @@ gellen: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/gellen"target="target3">gellen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=gellen&id=verb%3Agellen"target="target4">gellen</a>',
 	'<u>Der nasse Fisch</u>',
 	'Die Stimme kam von oben. Gräf überlegte noch, ob er sich übers Geländer beugen und nachschauen sollte, wer da oben gerufen, wer den Russen erwartet hatte, da war plötzlich ein Knachen und Krachen zu hören wie von brechendem Holz, gleich darauf ein kurzer, <strong>gellender</strong> Schrei und ein dumpfes Poltern. (<i>Der nasse Fisch</i>, 476)',
-	'<u>Märzgefallene</u>',
-	'<u>Lunapark</u>',
+//	'<u>Märzgefallene</u>',
+//	'<u>Lunapark</u>',
 ],
 ungezogen: [
 	'<strong>ungezogen</strong>: ill-mannered, naughty, rude'+
@@ -4049,7 +4066,7 @@ eintrichtern: [
 	'Ein gutes Dutzend SA-Männer stand ebenfalls da, mit <strong>verschränkten</strong> Armen und neugierigen, skeptischen Blicken. (<i>Märzgefallene</i>, 223)',
 	'Nun brach ein Applaus los... Einige waren aufgestanden, immer mehr folgten, bis der ganze Saal Leutnant von Roddek in stehenden Ovationen schwelgen ließ... Rath ignorierte den misstrauischen Blick seines wild applaudierenden Nachbarn, er sah es gar nicht ein, seine vor der Brust <strong>verschränkten</strong> Arme zu lösen. (<i>Märzgefallene</i>, 478-79)',
 	'<u>Lunapark</u>',
-	'Fritsch <strong>verschränkte</strong> die Hände hinter seinem Rücken, wie ein General, der seine Truppen inspizierte, und näherte sich dem Tatort, an dem Doktor Karthaus immer noch mit der Leiche beschäftigt war. (<i>Lunapark</i>, 174-5)',
+	'Fritsch <strong>verschränkte</strong> die Hände hinter seinem Rücken, wie ein General, der seine Truppen inspizierte, und näherte sich dem Tatort, an dem Doktor Karthaus immer noch mit der Leiche beschäftigt war. (<i>Lunapark</i>, 174-75)',
 	'"Aber...", sagte Landvogt, und seine Augen wanderten von Gennat zu Lange und wieder zurück.. "Nix da", sagte Wilhelm Landvogt schließlich und <strong>verschränkte</strong> die Arme. "Ick verpfeif doch keenen!"  (<i>Lunapark</i>, 232)',
 	'Reinhold Gräf saß am Vernehmungstisch und stellte seine Fragen. Und hoffte, dass Gereon Rath, der neben der Tür stand, mit <strong>verschränkten</strong> Armen, ihm bei dieser Vernehmung nicht in die Parade fahren würde. (<i>Lunapark</i>, 333)',
 	'Er (<i>Gräf</i>) warf Rath einen Blick zu und zuckte kurz mit dem Kinn. Rath löste die <strong>Verschränkung</strong> seiner Arme und öffnete die Tür, Gräf folgte ihm auf den Gang. (<i>Lunapark</i>, 334)',
@@ -12105,6 +12122,8 @@ Gage: [
 	'<u>Lunapark</u>',
 	'Nichts erinnerte an die unerwartete Pracht, die Rath mit eigenen Augen gesehen hatte, an die holz<strong>getäfelte</strong> Inneneinrichtung, die Marlows Zentrale das Flair eines englischen Herrenhauses gegeben hatte. Stattdessen nachte Backsteinwände. (<i>Lunapark</i>, 120)',
 	'Der Makler verließ den holz<strong>getäfelten</strong> Raum durch eine Tür, die weiter nach hinter führte. (<i>Lunapark</i>, 457)',
+	'<u>Marlow</u>',
+	'Er (<i>Rath</i>) wartete bis neun, dann betrat er das kleine Postamt und meldete ein Ferngespräch nach Berlin an. Der Mann am Schalter, der Ärmelschoner trug, etwas, das Rath ewig nicht gesehen hatte, wies ihm eine holz<strong>getäfelte</strong> Kabine zu. (<i>Marlow</i>, 312)',
 ],
 'täfeln, getäfelt': [
 	'<strong>täfeln</strong>: to panel, line with wooden panels'+
@@ -12120,6 +12139,8 @@ Gage: [
 	'<u>Lunapark</u>',
 	'Nichts erinnerte an die unerwartete Pracht, die Rath mit eigenen Augen gesehen hatte, an die holz<strong>getäfelte</strong> Inneneinrichtung, die Marlows Zentrale das Flair eines englischen Herrenhauses gegeben hatte. Stattdessen nachte Backsteinwände. (<i>Lunapark</i>, 120)',
 	'Der Makler verließ den holz<strong>getäfelten</strong> Raum durch eine Tür, die weiter nach hinter führte. (<i>Lunapark</i>, 457)',
+	'<u>Marlow</u>',
+	'Er (<i>Rath</i>) wartete bis neun, dann betrat er das kleine Postamt und meldete ein Ferngespräch nach Berlin an. Der Mann am Schalter, der Ärmelschoner trug, etwas, das Rath ewig nicht gesehen hatte, wies ihm eine holz<strong>getäfelte</strong> Kabine zu. (<i>Marlow</i>, 312)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 gesittet: [
@@ -12163,41 +12184,38 @@ gesittet: [
 	'<u>Lunapark</u>',
 	'Rath beschloss, die Gegend noch ein bisschen zu erkunden, und folgte der namenlosen Straße. Die teilte sich bald, ein <strong>Ast</strong> führte auf den Rangierbahnhof Grunewald, der andere unter einer weiteren Eisenbahnbrücke hindurch wieder nach oben. (<i>Lunapark</i>, 305)',
 ],
+gerädert: [
+	'<strong>gerädert</strong>: be knocked out, feel absolutely whacked'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geraedert"target="target1">gerädert</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ger%C3%A4dert"target="target2">gerädert</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/geradert?q=ger%C3%A4dert"target="target3">gerädert</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geradert"target="target4">gerädert</a>',
+	'<u>Märzgefallene</u>',
+	'Als er (<i>Rath</i>) gegen halb sieben, die aufgehende Sonne im Rücken, das Bergische Land erreichte, fühlte er sich wie <strong>gerädert</strong>.  Er hielt an, um zu pinkeln, viel dringender aber noch hätte er jetzt einen Kaffee gebrauchen können, doch das war hier, in dieser ländlichen Einöde, ein unerfüllbarer Wunsch. (<i>Märzgefallene</i>, 439)',
+],
+Gekrächz: [
+	'das <strong>Gekrächz</strong> or <strong>Gekrächze</strong>: croaking, cawing'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gekraechz"target="target1">Gekrächz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gekr%C3%A4chz"target="target2">Gekrächz</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Gekr%C3%A4chz"target="target3">Gekrächz</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/gekraechz"target="target4">Gekrächz</a>',
+	'<u>Märzgefallene</u>',
+	'"Fritze", sagte Hannah und wusste selber nicht, wie dieses Wort auf ihre Lippen gelangt war. Es war das erste Wort, das sie seit vier Tagen gesprochen hatte, entsprechend kratzig klang es. Als habe ihr jemand die Stimme gestohlen und ihr nur den heiseren Teil wieder zurückgegeben. Aber die Frau (<i>Charly</i>) schien sich über ihr <strong>Gekrächze</strong> zu freuen. (<i>Märzgefallene</i>, 436)',
+],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-	gerädert: [
-		'<strong>gerädert</strong>: be knocked out, feel absolutely whacked'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/geraedert"target="target1">gerädert</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ger%C3%A4dert"target="target2">gerädert</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/geradert?q=ger%C3%A4dert"target="target3">gerädert</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geradert"target="target4">gerädert</a>',
-		//	'<u>Der nasse Fisch</u>',
-		'<u>Märzgefallene</u>',
-		'Als er (<i>Rath</i>) gegen halb sieben, die aufgehende Sonne im Rücken, das Bergische Land erreichte, fühlte er sich wie <strong>gerädert</strong>.  Er hielt an, um zu pinkeln, viel dringender aber noch hätte er jetzt einen Kaffee gebrauchen können, doch das war hier, in dieser ländlichen Einöde, ein unerfüllbarer Wunsch. (<i>Märzgefallene</i>, 439)',
-	],
-	Gekrächz: [
-		'das <strong>Gekrächz</strong> or <strong>Gekrächze</strong>: croaking, cawing'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Gekraechz"target="target1">Gekrächz</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Gekr%C3%A4chz"target="target2">Gekrächz</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.wordreference.com/deen/Gekr%C3%A4chz"target="target3">Gekrächz</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/gekraechz"target="target4">Gekrächz</a>',
-		'<u>Märzgefallene</u>',
-		'"Fritze", sagte Hannah und wusste selber nicht, wie dieses Wort auf ihre Lippen gelangt war. Es war das erste Wort, das sie seit vier Tagen gesprochen hatte, entsprechend kratzig klang es. Als habe ihr jemand die Stimme gestohlen und ihr nur den heiseren Teil wieder zurückgegeben. Aber die Frau (<i>Charly</i>) schien sich über ihr <strong>Gekrächze</strong> zu freuen. (<i>Märzgefallene</i>, 436)',
-	],
-	glimpflich: [
-		'<strong>glimpflich</strong>: mild, light, lenient'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/glimpflich"target="target1">glimpflich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/glimpflich"target="target2">glimpflich</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/glimpflich"target="target3">glimpflich</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=glimpflich"target="target4">glimpflich</a>',
-		//	'<u>Der nasse Fisch</u>',
-		'<u>Märzgefallene</u>',
-		'<i>Rath</i>: "Wir werden ein Auge auf dich haben, Herr Schürmann (<i>Ede</i>). Also pass auf, dass sich deine Hand so bald nicht wieder in fremde Taschen verirrt. Das nächste Mal kommst du nicht so <strong>glimplich</strong> davon. (<i>Märzgefallene</i>, 24)',
-		'Rath war froh, dass er Charly für eine Weile los war und unter vier Augen mit Johann Marlow sprechen konnte. Und erleichtert, das Charlys erste Begegnung mit Doktor M. so <strong>glimpflich</strong> verlaufen war. (<i>Märzgefallene</i>, 429)',
-		'<u>Lunapark</u>',
-		'Schon bei der eher knapp und sachlich gehaltenen Schilderung der willkürlichen Razzi und der SA-Haft hatte Gennat aufgehorcht, dann aber hatte Charly ihm noch einen Zettel hingelegt. "Das hat Rechtsanwalt Scherer aus dem Keller schmuggeln können", hatte sie gesagt. "Wir sind noch <strong>glimpflich</strong> davongekommen, dieser Herr sitzt schon seit Wochen in SA-Haft Offensichtlich, weil er sich weigert, für seine Freilassung zu zahlen." (<i>Lunapark</i>, 212-13)',
-	],
-	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-	Geschwafel: [
-		'das <strong>Geschwafel</strong>: gibberish, drivel, blather'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschwafel"target="target1">Geschwafel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geschwafel"target="target2">Geschwafel</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geschwafel"target="target3">Geschwafel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschwafel"target="target4">Geschwafel</a>',
-		'<u>Märzgefallene</u>',
-		'<i>Rath</i>: "Es tut mir leid wenn ich Sie enttäuscht habe, Herr Polizeipräsident, aber ich habe guten Grund anzunehmen, dass dieser Engel... abgetaucht ist." <i>von Levetzow</i>: "Wie kommen Sie zu dieser Ansicht?..." <i>Rath</i>: "Nur so ein Gefühl... Nicht die kleinste Spur ist von ihm zu finden...." <i>von Levetzow</i>: "Ihre Wischiwaschi-Aussagen, ihr <strong>Geschwafel</strong> über Instinkt und Gefühl... bestärken mich nur in meiner Entscheidung!... Herr Komissar, dieser Fall ist Ihnen mit sofortiger Wirkung entzogen...." (<i>Märzgefallene</i>, 420-21)',
-	],
+glimpflich: [
+	'<strong>glimpflich</strong>: mild, light, lenient'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/glimpflich"target="target1">glimpflich</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/glimpflich"target="target2">glimpflich</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/glimpflich"target="target3">glimpflich</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=glimpflich"target="target4">glimpflich</a>',
+	'<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Wir werden ein Auge auf dich haben, Herr Schürmann (<i>Ede</i>). Also pass auf, dass sich deine Hand so bald nicht wieder in fremde Taschen verirrt. Das nächste Mal kommst du nicht so <strong>glimplich</strong> davon. (<i>Märzgefallene</i>, 24)',
+	'Rath war froh, dass er Charly für eine Weile los war und unter vier Augen mit Johann Marlow sprechen konnte. Und erleichtert, das Charlys erste Begegnung mit Doktor M. so <strong>glimpflich</strong> verlaufen war. (<i>Märzgefallene</i>, 429)',
+	'<u>Lunapark</u>',
+	'Schon bei der eher knapp und sachlich gehaltenen Schilderung der willkürlichen Razzi und der SA-Haft hatte Gennat aufgehorcht, dann aber hatte Charly ihm noch einen Zettel hingelegt. "Das hat Rechtsanwalt Scherer aus dem Keller schmuggeln können", hatte sie gesagt. "Wir sind noch <strong>glimpflich</strong> davongekommen, dieser Herr sitzt schon seit Wochen in SA-Haft Offensichtlich, weil er sich weigert, für seine Freilassung zu zahlen." (<i>Lunapark</i>, 212-13)',
+],
+Geschwafel: [
+	'das <strong>Geschwafel</strong>: gibberish, drivel, blather'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geschwafel"target="target1">Geschwafel</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geschwafel"target="target2">Geschwafel</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/geschwafel"target="target3">Geschwafel</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/geschwafel"target="target4">Geschwafel</a>',
+	'<u>Märzgefallene</u>',
+	'<i>Rath</i>: "Es tut mir leid wenn ich Sie enttäuscht habe, Herr Polizeipräsident, aber ich habe guten Grund anzunehmen, dass dieser Engel... abgetaucht ist." <i>von Levetzow</i>: "Wie kommen Sie zu dieser Ansicht?..." <i>Rath</i>: "Nur so ein Gefühl... Nicht die kleinste Spur ist von ihm zu finden...." <i>von Levetzow</i>: "Ihre Wischiwaschi-Aussagen, ihr <strong>Geschwafel</strong> über Instinkt und Gefühl... bestärken mich nur in meiner Entscheidung!... Herr Komissar, dieser Fall ist Ihnen mit sofortiger Wirkung entzogen...." (<i>Märzgefallene</i>, 420-21)',
+],
 	'gewunden, winden': [
 		'<strong>winden</strong>: wind, twist; meander'+
 		'<br><strong>gewunden</strong>: winding, twisting; convoluted, tortuous'+
@@ -12224,6 +12242,7 @@ gesittet: [
 		'<u>Lunapark</u>',
 		'Hermann Lapke. Der Nordpiratenchef. Und obwohl Lapke sie (<i>Charly</i>) wie den letzten Dreck behandelt hatte und ohne jede Frage ein Schweinehund der übelsten Sorte war, empfand sie Mitleid mit ihm, wie er <strong>sich</strong> da auf Marlows Rasen <strong>wand</strong>. (<i>Lunapark</i>, 504)',
 	],
+	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 	Geplapper: [
 		'das <strong>Geplapper</strong>: babble, chatter'+
 		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Geplapper"target="target1">Geplapper</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Geplapper"target="target2">Geplapper</a>'+
@@ -19087,16 +19106,15 @@ schmettern: [
 		'<i>Von Roddeck</i>: "Obdachlos, sagen Sie?" <i>Rath</i>: "Ich habe nichts dergleichen gesagt." <i>Von Roddeck</i>: "Aber in der Zeitung hat es gestanden. Als wäre das eine Schande. Als wäre es überflüssig, Wosniaks Tod überhaupt zu ermitteln. Das schreiben diese <strong>Schmierfinken</strong> über einen Mann, der für ihresgleichen seine Knochen hingehalten hat!" (<i>Märzgefallene</i>, 132)',
 		'"Sie sind sich doch darüber im Klaren, dass die Polizei sich solche Schlagzeilen nicht erlauben kann", hatte Magnus von Levetzow ihn angeschnauzt.... <i>Böhm</i>: "Mit Verlaub, Herr Polizeipräsident, aber ich habe diese Schlagzeilen nicht zu verantworten. Ich weiß nicht, wie diese <strong>Schmierfinken</strong> an meinen Namen gekommen sind." (<i>Märzgefallene</i>, 139)',
 	],
-	Schminke: [
-		'die <strong>Schminke</strong>,-<strong>n</strong>: make-up'+
-		'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schminke"target="target1">Schminke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schminke"target="target2">Schminke</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schminke?q=Schminke"target="target3">Schminke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schminke"target="target4">Schminke</a>',
-		'<u>Märzgefallene</u>',
-		'Das Bündel auf dem Sofa seufzte und drehte sich auf die andere Seite. Eine junge Frau, in deren Gesicht schwarze und weiße <strong>Schminke</strong> zu einem abstrakten Kunstwerk verschmiert war. (<i>Märzgefallene</i>, 71)',
-		'"Was ist das?", fragte Rath, als sie sich setzte. Die verschmierte Karnevals<strong>schminke</strong> war verschwunden, die wilde Hilde hatte ihr Gesicht wieder auf zivil umgestellt, die Augenbrauen nachgezogen und Lippenstift aufgetragen. (<i>Märzgefallene</i>, 75)',
-	],
-	// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
-	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+Schminke: [
+	'die <strong>Schminke</strong>,-<strong>n</strong>: make-up'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Schminke"target="target1">Schminke</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Schminke"target="target2">Schminke</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/schminke?q=Schminke"target="target3">Schminke</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Schminke"target="target4">Schminke</a>',
+	'<u>Märzgefallene</u>',
+	'Das Bündel auf dem Sofa seufzte und drehte sich auf die andere Seite. Eine junge Frau, in deren Gesicht schwarze und weiße <strong>Schminke</strong> zu einem abstrakten Kunstwerk verschmiert war. (<i>Märzgefallene</i>, 71)',
+	'"Was ist das?", fragte Rath, als sie sich setzte. Die verschmierte Karnevals<strong>schminke</strong> war verschwunden, die wilde Hilde hatte ihr Gesicht wieder auf zivil umgestellt, die Augenbrauen nachgezogen und Lippenstift aufgetragen. (<i>Märzgefallene</i>, 75)',
+],
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 schmoren: [
 	'<strong>schmoren</strong>: braise (cooking), roast; swelter'+
 	'<br>in der Hölle <strong>schmoren</strong>: roast in hell'+
@@ -19119,7 +19137,6 @@ schmoren: [
 	'<i>Rath</i>: "Das ist also der Dank dafür, dass ich Sie aus der SA-Haft befreit habe." <i>Leo Juretzka</i>: "Das ist der Dank dafür, dass Sie mich eine Woche lang da haben <strong>schmoren</strong> lassen, bevor Sie sich endlich dazu herabgelassen haben, mir zu helfen. Wissen Sie, was die SA in einer Woche mit einem Menschen anstellen kann?" (<i>Lunapark</i>, 527-28)',
 	'Er konnte sich nicht erinnern, irgendwann mal an den lieben Gott geglaubt zu haben. Fritze betete sogar dafür, es möge keinen Gott geben, weil einer wie er dann sowieso in der Hölle <strong>schmoren</strong> müsste. (<i>Lunapark</i>, 541)',
 ],
-	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Schmuck, schmuck': [
 	'der <strong>Schmuck</strong>,-<strong>e</strong>: ornament, jewelry, embellishment'+
 	'<br><strong>schmuck</strong>: neat, tidy, smart'+
@@ -19129,6 +19146,8 @@ schmoren: [
 	'Zum zweiten Mal, seit sie den Raum betreten hatte, hob Hannah Singer ihr Gesicht. Immer noch wich sie möglichst allen Blicken aus, ihre Augen schauten zum Boden, zur Wand, zur Decke.... Immer wieder aber kehrten sie zurück zu dem Foto auf dem Tisch, das Bild von dem <strong>schmucken</strong> Weltkriegssoldaten. (<i>Märzgefallene</i>, 46)',
 	'Auf die Kaufhausidee hatte sie (<i>Hannah</i>) eine Geschichte aus der Märchenbrunnenclique gebracht. Von einem Mädchen hatten sie da erzählt, das sich in Kaufhäusern hatte einschließen lassen, um dort dann allen <strong>Schmuck</strong> mitgehen zu lassen und andere Dinge. Hannah wollte nichts rauben, keinen <strong>Schmuck</strong> jedenfalls, höchstens etwas zu beißen und vielleicht etwas Warmes gegen die Kälte.... (<i>Märzgefallene</i>, 152)',
 	'Etwas abseits des Dorfes liegt ein stattliches Anwesen, an dem der Krieg wie durch ein Wunder noch keinerlei Spuren hinterlassen hat, eine <strong>schmucke</strong> Villa mitsamt Dienstbotenunterkünften und einem kleinen Park. (<i>Märzgefallene</i>, 160)',
+	'<u>Marlow</u>',
+	'Pegnitz hatte einen <strong>schmucken</strong> Marktplatz, in dessen Mitte ein kleines historisches Rathaus stand (natürlich Fachwerk), ein neobarockes Kirchlein und vor allem eine landschaftlich reizvolle Umgebung. (<i>Marlow</i>, 312)',
 ],
 'Schmunzeln, schmunzeln': [
 	'das <strong>Schmunzeln</strong>: smirk, amused smile'+
@@ -19141,7 +19160,6 @@ schmoren: [
 	'<u>Marlow</u>',
 	'Wilhelm Böhm musste <strong>schmunzeln</strong>, als er Charlys Protokoll las. Der große Milchflaschenraub von Wilmersdorf. Ihre Schilderung der Ereignisse las sich so spannend wie ein bewaffneter Banküberfall. (<i>Marlow</i>, 233)',
 ],
-// '<u>Der nasse Fisch</u>', '<u>Der Stumme Tod</u>', '<u>Märzgefallene</u>', '<u>Lunapark</u>',
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Schnalle, schnallen': [
 	'die <strong>Schnalle</strong>,-<strong>n</strong>: buckle, clasp'+
@@ -19204,7 +19222,7 @@ schneidig: [
 	'<u>Märzgefallene</u>',
 	'"Sie sind sich doch darüber im Klaren, dass die Polizei sich solche Schlagzeilen nicht erlauben kann", hatte Magnus von Levetzow (<i>Nazi Polizeipräsident</i>)  ihn (<i>Böhm</i>) angeschnauzt, im <strong>schneidigen</strong> Ton des ehemaligen Marineoffiziers. (<i>Märzgefallene</i>, 139)',
 	'<u>Lunapark</u>',
-	'Drei Feldjäger saßen in dem Hanomag Rekord (<i>ein Fahrzeug</i>), und einen davon kannte Rath. Walter Fritsch, SA-Standartenführer und Chef des SA-Feldjägerkorps. Der Mann, der ihn in der Papestraße aus Sperlings Büro geworfen hatte.. Der Mann trat genauso <strong>schneidig</strong> auf wie damals. (<i>Lunapark</i>, 139)',
+	'Drei Feldjäger saßen in dem Hanomag Rekord (<i>ein Fahrzeug</i>), und einen davon kannte Rath. Walter Fritsch, SA-Standartenführer und Chef des SA-Feldjägerkorps. Der Mann, der ihn in der Papestraße aus Sperlings Büro geworfen hatte.. Der Mann trat genauso <strong>schneidig</strong> auf wie damals. (<i>Lunapark</i>, 174)',
 	'Den hartnäckigen Gerüchten, er sei ebenso wie SA-Stabschef Röhm homosexuell, versuchte Karl Ernst mit besonders <strong>schneidigem</strong> Auftreten entgegenzuwirken. (<i>Lunapark</i>, 258)',
 	'<u>Marlow</u>',
 	'Als er (<i>Rath</i>) in der Bahn saß, holte er die Fotos aus der Tasche und schaute sie lange an, als könnten sie allein durch Anstarren dazu bewegt werden, Antworten zu geben. Gerhard Brunner, einmal als <strong>schneidiger</strong> SS-Offizier, das andere Mal tot und im Sommeranzug. (<i>Marlow</i>, 156)',
@@ -19231,21 +19249,7 @@ schnippisch: [
 	'<u>Lunapark</u>',
 	'Genauer war die Beschreibung der Mordwaffe, Isolde Jäger hatte sogar eine Zeichnung angefertigt. Ein seltsamer Gegenstand, eine eigentümlich geschwungene Keule, die ein wenig an eine langgezogene und von allen <strong>Schnökeln</strong> befreite Pfeffermühle erinnerte. (<i>Lunapark</i>, 236)',
 ],
-'schnorren, anschnorren': [
-	'<strong>schnorren, anschnorren</strong>: mooch, bum sth. off so.'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnorren"target="target1">schnorren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschnorren"target="target2">anschnorren</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnorren"target="target3">schnorren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnorren"target="target4">anschnorren</a>',
-	'<u>Der nasse Fisch</u>',
-	'Skeptisch war er (<i>Wolter</i>) zu dem Treffen gefahren, fest davon überzeugt, der Mann (<i>Krajewski, der Pornokaiser</i>) wolle sich nur wichtigmachen, womögmlich seine Knarre zurück oder Geld <strong>schnorren</strong>. (<i>Der nasse Fisch</i>, 516)',
-	'<u>Märzgefallene</u>',
-	'"Warten Se mal!" Breitzke hörte sich mit einem Mal deutlich weniger gelangweilt an und zeigte auf die vernarbte Haut, die unterhalb der Mütze der Leiche zu sehen war. "Vielleicht könnte det Kartoffel (<i>Spitzname</i>) sein.  Der steht mal am Nolle rum, drüben bei der U-Bahn, und <strong>schnorrt</strong> die Leute <strong>an</strong>". (<i>Märzgefallene</i>, 12)',
-	'Aber findig war er (<i>Fritze</i>), nicht nur in Sachen Frühstück, auch Schlafgelegenheiten wusste er aufzutreiben. In einer klammen Sandkiste hatte Hannah nicht mehr bibbern müssen, seit sie Fritze über den Weg gelaufen war. Und Geld <strong>schnorren</strong> konnte er wie kein Zweiter. (<i>Märzgefallene</i>, 253)',
-	'Und so war sie (<i>Hannah</i>) nach Neuköln gegangen, das erschien ihr am sichersten.... Inzwischen kannte sie die Kneipen und Cafes und Wärmehallen hier ganz gut, sie wusste, wo man <strong>schnorren</strong> konnte und wo nicht.... (<i>Märzgefallene</i>, 320)',
-	'Als er (<i>Fritze</i>) sich gestern Mittag von den zusammen<strong>geschnorrten</strong> Groschen... eine heiße Bouilon geleistet hatte, hörte er, wie sie am Nebentisch von einem erzählten, der ein Mädchen suchte und für entsprechende Tipps Geld versprochen hatte. (<i>Märzgefallene</i>, 396)',
-	'Vor Kurzem hatte sie (<i>Charly</i>) ihn (<i>Fritze</i>) erwischt, wie er vom Spaziergang mit dem Hund zurückgekommen war und an seinem Mund noch Spuren von Brausepulver klebten. "Oh!, Haste dir Brause gekauft?... Ich kann mich nicht erinnern, dir \'n Groschen mitgegeben zu haben." "Haste ooch nich, Tantchen." "Sag bloß, du hast wieder <strong>geschnorrt</strong>?" Diesmal hatte sein Grinsen und das ewige <i>Tantchen</i> Charly auf die Palme gebracht. (<i>Märzgefallene</i>, 484)',
-	'Und als der Mann im Soldatenmantel (<i>Wosniak</i>), der die Fahrgäste viel zu deutlich an den Krieg erinnerte und daran, dass man ihn verloren hatte,..als der arme Kerl plötzlich die Augen aufgerissen hatte und aufgestanden war, auf ihn, Friedrich Grimberg, zugewankt war, hatte der Sprengmeister gedacht, der Kerl wolle ihn <strong>anschnorren</strong>. Kurz darauf hatten sich die beiden Männer in den Armen gelegen, misstrauisch beäugt von den übrigen Fahrgästen. (<i>Märzgefallene</i>, 548)',
-],
-'anschnorren, schnorren': [
+'schnorren, an-': [
 	'<strong>schnorren, anschnorren</strong>: mooch, bum sth. off so.'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/schnorren"target="target1">schnorren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/anschnorren"target="target2">anschnorren</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/schnorren"target="target3">schnorren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=anschnorren"target="target4">anschnorren</a>',
@@ -20946,11 +20950,12 @@ verkriechen: [
 	'<u>Märzgefallene</u>',
 	'An der Glastür, die zum Büro des Chefs vom Dienst führte, waren wie immer die Jalousien heruntergelassen, doch es brannte Licht. Wenn <strong>sich</strong> Hefner so in seinem Büro <strong>verkroch</strong>, war seine Laune meist nicht die beste. Weinert holte tief Luft und klopfte gegen das Glas. (<i>Märzgefallene</i>, 532)',
 ],
-'versehren, Unversehrtheit': [
+'versehren, Unversehrtheit, unversehrt': [  
 	'<strong>versehren</strong>: injure, damage, disable'+
 	'<br>die <strong>Unversehrtheit</strong>,-<strong>en</strong>: freedom from injury; intactness, integrity'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/versehren"target=target3">versehren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target4">Unversehrtheit</a>',
+	'<br><strong>unversehrt</strong>: intact, unscathed, undamaged'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unversehrt"target=target3">unversehrt</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/versehren"target=target4">versehren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target5">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/unversehrt"target=target6">unversehrt</a>',
 	'<u>Der nasse Fisch</u>',
 	'Der Opel stand <strong>unversehrt</strong> vor Zörgiebels Gartentor. (<i>Der nasse Fisch</i>, 506)',
 	'<u>Der stumme Tod</u>',
@@ -20959,6 +20964,7 @@ verkriechen: [
 	'Die Ummauerung des Parks hat einige Treffer abbekommen, das Haupthaus jedoch ist gänzlich <strong>unversehrt</strong> geblieben, jetzt allerdings sind auch seine Tage gezählt. (<i>Märzgefallene</i>, 160)',
 	'Und dann erzählte sie (<i>Charly</i>) ihm (<i>Gereon</i>), wie sie ruhe- und restlos mit dem Hund die Uhlandstraße hinuntergegangen war, weil sie einfach noch nicht nach Hause konnte.. Wie sie dann einen Mann und eine Frau aus einem Hauseingang hatte kommen sehen, deren Gesichter sie kannte. Wie erleichtert und gleichzeitig erschrocken sie war, ihn (<i>Bernhard Weiß</i>) hier zu sehen, <strong>unversehrt</strong> und mit seiner Frau. (<i>Märzgefallene</i>, 213)',
 	'Was Hannah beim Anblick des toten Heinrich Wosniak empfunden haben mochte? Und beim Anblick ihres <strong>unversehrten</strong> Vaters, einem Blick in Zeiten, in denen alles noch in Ordnung war? (<i>Märzgefallene</i>, 290)',
+	'...der Kerl im Spiegel erinnerte an jemanden, der sich für einen Faschingsball als scheiß Pirat verkleidet hatte und das Kostüm schon unter Hut und Mantel trug. Oder an einen beschissenen Kriegs<strong>versehrten</strong>. War er deshalb heil durch den Krieg gekommen, um den Rest seines Lebens nun doch als Krüppel zu verbringen?  (<i>Märzgefallene</i>, 386)',
 	'Erst gegen Mitternacht waren sie (<i>Charly und Gereon</i>) an die Köpenicker Straße zurückgekehrt, ganz in Schwarz gekleidet, Handschuhe übergezogen, um keine Fingerabdrücke zu hinterlassen. Sie hatten sich eine Geschichte zurechtgelegt für den Fall der Fälle. Für den Fall, dass die Mordinspektion inzwischen doch noch aufgetaucht war... und sie den Kollegen genau in die Arme liefen. Doch der Faden, den Rath als unsichtbares Siegel an der Tür angebracht hatte, war <strong>unversehrt</strong>, der Tote lag noch genau da, wo sie ihn zurückgelassen hatten. (<i>Märzgefallene</i>, 418)',
 	'<i>Doktor Schwartz</i>: "Es geht um diese Leiche, die gestern in der Spree gefunden wurde, dieser fürchterlich entstellte Kriegs<strong>versehrte</strong>. (<i>Märzgefallene</i>, 506)',
 	'<u>Lunapark</u>',
@@ -20971,12 +20977,14 @@ verkriechen: [
 	'Das Taxi, eigentlich ein stabiler Wagen, war durch den Aufprall auf wenig mehr als die Hälfte seiner Größe gestaucht, die Kühlerhaube eingedrückt, die Vorderachse verbogen und derart unter die Karosserie geschoben, dass von den Vorderrädern kaum noch etwas zu sehen war. Umso unheimlicher wirkte das Heck, das einen völlig <strong>unversehrten</strong> Eindruck machte. Bis auf die Tatsache, dass sämtliche Fenster zu Bruch gegangen waren. (<i>Marlow</i>, 34)',
 	'Der Fahrersitz bot keinen schönen Anblick, er war voller Blut und voller Scherben. Auf dem Gehweg neben dem Auto lag eine blutbeschmierte Metallstange, die eine frische Sägekante aufwies. Rath spürte ein flaues Gefühl in der Magengegend, als er realisierte, dass dies das Stück der Lenkstange sein musste, das die Supos aus dem Brustkorb von Otto Lehmann gezogen hatten. Er wandte sich lieber dem Wagenfond zu, der nahezu <strong>unversehrt</strong> wirkte. Von außem jedenfalls. (<i>Marlow</i>, 34)',
 	'Im Fußraum entdeckte er (<i>Rath</i>) eine schwarzlederne Aktentasche, die unter den Sitz gerutscht sein musste und dort festklemmte. Rath musste kräftig ziehen, um sie zu befreien. Sie sah so gut wie <strong>unversehrt</strong> aus. (<i>Marlow</i>, 34)',
+	'Sie (<i>Charly</i>) hatte lange gebraucht, um Guido zu überzeugen, quälend lange. Natürlich war er noch ein wenig verschnupft wegen des Autos. Nicht aller Staub, den sie aus Marlow mitgebracht hatte, war auf der RÜckfahrt nach Berlin verflogen. Ansonsten aber war der Mercedes <strong>unversehrt</strong>. (<i>Marlow</i>, 316)',
 ],
-'Unversehrtheit, versehren': [
+'Unversehrtheit, unversehrt, versehren': [
 	'<strong>versehren</strong>: injure, damage, disable'+
 	'<br>die <strong>Unversehrtheit</strong>,-<strong>en</strong>: freedom from injury; intactness, integrity'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/versehren"target=target3">versehren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target4">Unversehrtheit</a>',
+	'<br><strong>unversehrt</strong>: intact, unscathed, undamaged'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehren"target=target1">versehren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Unversehrtheit"target=target2">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/unversehrt"target=target3">unversehrt</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/versehren"target=target4">versehren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Unversehrtheit&id=substantiv%3AUnversehrtheit"target=target5">Unversehrtheit</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/unversehrt"target=target6">unversehrt</a>',
 	'<u>Der nasse Fisch</u>',
 	'Der Opel stand <strong>unversehrt</strong> vor Zörgiebels Gartentor. (<i>Der nasse Fisch</i>, 506)',
 	'<u>Der stumme Tod</u>',
@@ -20985,6 +20993,7 @@ verkriechen: [
 	'Die Ummauerung des Parks hat einige Treffer abbekommen, das Haupthaus jedoch ist gänzlich <strong>unversehrt</strong> geblieben, jetzt allerdings sind auch seine Tage gezählt. (<i>Märzgefallene</i>, 160)',
 	'Und dann erzählte sie (<i>Charly</i>) ihm (<i>Gereon</i>), wie sie ruhe- und restlos mit dem Hund die Uhlandstraße hinuntergegangen war, weil sie einfach noch nicht nach Hause konnte.. Wie sie dann einen Mann und eine Frau aus einem Hauseingang hatte kommen sehen, deren Gesichter sie kannte. Wie erleichtert und gleichzeitig erschrocken sie war, ihn (<i>Bernhard Weiß</i>) hier zu sehen, <strong>unversehrt</strong> und mit seiner Frau. (<i>Märzgefallene</i>, 213)',
 	'Was Hannah beim Anblick des toten Heinrich Wosniak empfunden haben mochte? Und beim Anblick ihres <strong>unversehrten</strong> Vaters, einem Blick in Zeiten, in denen alles noch in Ordnung war? (<i>Märzgefallene</i>, 290)',
+	'...der Kerl im Spiegel erinnerte an jemanden, der sich für einen Faschingsball als scheiß Pirat verkleidet hatte und das Kostüm schon unter Hut und Mantel trug. Oder an einen beschissenen Kriegs<strong>versehrten</strong>. War er deshalb heil durch den Krieg gekommen, um den Rest seines Lebens nun doch als Krüppel zu verbringen?  (<i>Märzgefallene</i>, 386)',
 	'Erst gegen Mitternacht waren sie (<i>Charly und Gereon</i>) an die Köpenicker Straße zurückgekehrt, ganz in Schwarz gekleidet, Handschuhe übergezogen, um keine Fingerabdrücke zu hinterlassen. Sie hatten sich eine Geschichte zurechtgelegt für den Fall der Fälle. Für den Fall, dass die Mordinspektion inzwischen doch noch aufgetaucht war... und sie den Kollegen genau in die Arme liefen. Doch der Faden, den Rath als unsichtbares Siegel an der Tür angebracht hatte, war <strong>unversehrt</strong>, der Tote lag noch genau da, wo sie ihn zurückgelassen hatten. (<i>Märzgefallene</i>, 418)',
 	'<i>Doktor Schwartz</i>: "Es geht um diese Leiche, die gestern in der Spree gefunden wurde, dieser fürchterlich entstellte Kriegs<strong>versehrte</strong>. (<i>Märzgefallene</i>, 506)',
 	'<u>Lunapark</u>',
@@ -20997,6 +21006,7 @@ verkriechen: [
 	'Das Taxi, eigentlich ein stabiler Wagen, war durch den Aufprall auf wenig mehr als die Hälfte seiner Größe gestaucht, die Kühlerhaube eingedrückt, die Vorderachse verbogen und derart unter die Karosserie geschoben, dass von den Vorderrädern kaum noch etwas zu sehen war. Umso unheimlicher wirkte das Heck, das einen völlig <strong>unversehrten</strong> Eindruck machte. Bis auf die Tatsache, dass sämtliche Fenster zu Bruch gegangen waren. (<i>Marlow</i>, 34)',
 	'Der Fahrersitz bot keinen schönen Anblick, er war voller Blut und voller Scherben. Auf dem Gehweg neben dem Auto lag eine blutbeschmierte Metallstange, die eine frische Sägekante aufwies. Rath spürte ein flaues Gefühl in der Magengegend, als er realisierte, dass dies das Stück der Lenkstange sein musste, das die Supos aus dem Brustkorb von Otto Lehmann gezogen hatten. Er wandte sich lieber dem Wagenfond zu, der nahezu <strong>unversehrt</strong> wirkte. Von außem jedenfalls. (<i>Marlow</i>, 34)',
 	'Im Fußraum entdeckte er (<i>Rath</i>) eine schwarzlederne Aktentasche, die unter den Sitz gerutscht sein musste und dort festklemmte. Rath musste kräftig ziehen, um sie zu befreien. Sie sah so gut wie <strong>unversehrt</strong> aus. (<i>Marlow</i>, 34)',
+	'Sie (<i>Charly</i>) hatte lange gebraucht, um Guido zu überzeugen, quälend lange. Natürlich war er noch ein wenig verschnupft wegen des Autos. Nicht aller Staub, den sie aus Marlow mitgebracht hatte, war auf der RÜckfahrt nach Berlin verflogen. Ansonsten aber war der Mercedes <strong>unversehrt</strong>. (<i>Marlow</i>, 316)',
 ],
 'ver­grau­len, Vergraulung': [
 	'<strong>ver­grau­len</strong>: drive away, scare off'+
@@ -21197,8 +21207,6 @@ verflixt: [
 	'<strong>verflixt</strong> (<strong>verdammt</strong>): damned, blasted, confounded'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verflixt"target="target1">verflixt</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verflixt"target="target2">verflixt</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verflixt&id=adjektiv%3Averflixt%23verflixt"target="target3">verflixt</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/verflixt"target="target4">verflixt</a>',
-//	'<u>Der stumme Tod</u>',
-//	'    (<i>Der stumme Tod</i>, 517)',
 	'<u>Märzgefallene</u>',
 	'Ihre (<i>Hannahs</i>) Augen huschten hin und her. Wenn sie es nur an ihm vorbeischaffte, dann hätte sie eine Chance. Diese <strong>verflixte</strong> Sackgasse! (<i>Märzgefallene</i>, 399)',
 ],
@@ -21221,13 +21229,6 @@ verfrachten: [
 	'<u>Lunapark</u>',
 	'Draußen auf der Antonstraße standen zwei Pritschenwagen, auf die sie <strong>verfrachtet</strong> wurden, auf den einen die Männer, auf den anderen die Frauen. Selbst die Garderoben- und Serviermädchen hatte die SA aus der Kanzlei geholt. (<i>Lunapark</i>, 166)',
 	'Während Lange und Gennat zu einem der befreiten Gefangenen in den Krankenwagen stiegen, holte Rath sein Zigarettenetui aus dem Mantel und schaute den Bereitschaftspolizisten zu, wie sie die Braunhemden, die inzwischen allesamt Handfesseln trugen, nach und nach auf die Lastwagen <strong>verfrachteten</strong>. (<i>Lunapark</i>, 222)',
-],
-versehren: [
-	'<strong>versehren</strong>: injure, damage, disable, maim'+  
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/versehren"target="target1">versehren</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/versehren"target="target2">versehren</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/versehren"target="target3">versehren</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=versehren"target="target4">versehren</a>',
-	'<u>Märzgefallene</u>',
-	'...der Kerl im Spiegel erinnerte an jemanden, der sich für einen Faschingsball als scheiß Pirat verkleidet hatte und das Kostüm schon unter Hut und Mantel trug. Oder an einen beschissenen Kriegs<strong>versehrten</strong>. War er deshalb heil durch den Krieg gekommen, um den Rest seines Lebens nun doch als Krüppel zu verbringen?  (<i>Märzgefallene</i>, 386)',
 ],
 verrufen: [
 	'<strong>verrufen</strong>: disreputable, louche'+
@@ -21486,6 +21487,7 @@ verhexen: [
 	'Er (<i>Rath</i>) war todmüde. Hatte die ganze Nacht in der Hütte gehockt, bis ihm alle Knochen wehtaten.. Hatte <strong>sich</strong> das Rauchen <strong>verkniffen</strong>, weil es ihn hätte verraten können. (<i>Lunapark</i>, 495)',
 	'<u>Marlow</u>',
 	'Die meisten Leute nahmen seltsamerwise gar nicht wahr, wenn in einem parkenden Auto jemand saß. Nur rauchen durfte man nicht, das sah jeder sofort, den Rauch, die Glut. Also <strong>verkniff sich</strong> Charly seit einer halben Stunde schon die Juno, auf die sie solch große Lust verspürte. (<i>Marlow</i>, 219)',
+	'Aber dass er (<i>Guido</i>) sich so anstellte wegen der Unterschrift, dass er sich erst nach einem quälenden Disput dazu bereit eklärte, dass er es <strong>sich</strong> selbst dann nicht <strong>verkneifen</strong> konnte zu betonen, dass er das nicht gerne mache, sondern nur, weil es Charly so wichtig sei - so etwas hatte es früher nicht gegeben. (<i>Marlow</i>, 316)',
 ],
 verknicken: [
 	'<strong>verknicken</strong>: get bent, creased'+
@@ -21671,6 +21673,8 @@ verschnupft: [
 	'<i>Charly</i>: "Kann man denn davon leben? Vom Tanzen, meine ich?" Diesmal schaffte Bertrand es nicht einmal, säuerlich zu lächeln. Er guckte reichlich <strong>verschnupft</strong>. "Ich tanze mit Ihnen, weil ich nichts auf der Welt mehr liebe als tanzen", sagte er. (<i>Märzgefallene</i>, 307)',
 	'<u>Lunapark</u>',
 	'<i>Doktor Karthaus</i>: "Könnten Sie (<i>Rath</i>) es einrichten, in die Hannoversche Straße zu kommen? So gegen elf?" <i>Rath</i>: "Sind Sie etwa schon durch mit dem toten SA-Mann?" <i>Karthaus</i>: "Sie wissen doch, dass solche Fälle Vorrang haben." <i>Rath</i>: "Klar, wenn einem die Staatspolizei im Nacken sitzt. Haben Sie sich selbst zuzuschreiben, Doktor." "Mir sitzt niemand im Nacken." Karthaus klang <strong>verschnupft</strong>. (<i>Lunapark</i>, 88)',
+	'<u>Marlow</u>',
+	'Sie (<i>Charly</i>) hatte lange gebraucht, um Guido zu überzeugen, quälend lange. Natürlich war er noch ein wenig <strong>verschnupft</strong> wegen des Autos. Nicht aller Staub, den sie aus Marlow mitgebracht hatte, war auf der RÜckfahrt nach Berlin verflogen. Ansonsten aber war der Mercedes unversehrt. (<i>Marlow</i>, 316)',
 ],
 verschollen: [
 	'<strong>verschollen</strong>: missing, lost, forgotten <br>Kafkas erster Roman: <strong>Der Verschollene</strong>'+
@@ -21818,7 +21822,7 @@ verunzieren: [
 	'Er (<i>Andreas Lange</i>) konnte sich nicht erinnern, jemals eine <strong>verwahrlostere</strong> Junggesellenbude betreten zu haben als die von Horst Kaczmarek... (<i>Lunapark</i>, 42)',
 	'Aber es brach ihr (<i>Charly</i>) nun einmal das Herz, wenn sie sehen musste, wie mittellose, obdachlose Kinder, die eigentlich zur Schule hätten gehen sollen, die etwas aus ihrem Leben machen sollten, auf der Straße <strong>verwahrlosten</strong>. Nur deshalb hatte sie Fritze seinerzeit aufgenommen. Weil er ein heller Bursche war, dem man eine Chance geben musste. (<i>Lunapark</i>, 98)',
 ],
-'verwaisen, verwaist': [
+'verwaisen, verwaist': [  //110 149 210 281 306 327-28 397 236 56 535 537 66 120 181 250 390 445 481 482-83 154 146 247
 	'<strong>verwaisen</strong>: become an orphan; be deserted'+
 	'<br><strong>verwaist</strong>: orphaned; deserted, abandoned'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwaisen"target="target1">verwaisen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verwaist"target="target2">verwaist</a>'+
@@ -21852,7 +21856,7 @@ verunzieren: [
 	'Das Teilstück zwischen Leipzig und Halle, das sie (<i>Gereon und seine Schwiegermutter</i>) querten, war sogar schon fertig, die Autobahn allerdings so leer wie der Flughafen Tempelhof bei Windstärke zehn. Kein einziges Fahrzeug weit und breit. "Der Führer scheint seiner Zeit ja verdammt weit voraus zu sein", kommentierte Rath die <strong>verwaiste</strong> Betonpiste. (<i>Marlow</i>, 247)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-verwegen: [
+verwegen: [  // 152-52 256 262
 	'<strong>verwegen</strong>: daring, bold, dashing'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/verwegen"target="target1">verwegen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/verwegen"target="target2">verwegen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/verwegen"target="target3">verwegen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=verwegen"target="target4">verwegen</a>',
@@ -22028,7 +22032,7 @@ waghalsig: [
 	'<u>Märzgefallene</u>',
 	'Harald Hefner hatte seinen langen hageren Körper hinter einem Schreibtisch zusammengefaltet, der viel zu klein wirkte - einmal angesichts seines Besitzers, aber auch angesichts der Papierberge, die sich, teils äußerst <strong>waghalsig</strong> gestapelt, darauf türmten. (<i>Märzgefallene</i>, 532)',
 ],
-	// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'wuchten, Wucht': [
 	'<strong>wuchten</strong>: heave, drag, haul'+
 	'<br>die <strong>Wucht</strong>: force, impact, weight, power'+
@@ -22216,7 +22220,7 @@ Wappen: [
 	'.. es waren fast durchweg Hakenkreuzfahnen, die hier hingen und eine seltsame Atmospháre schafften. Es gab nur wenige Ausnahmen, Fahnen, die irgendwelche Stadt<strong>wappen</strong> zeigten. (<i>Marlow</i>, 271)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-wedeln: [
+wedeln: [ // xxx
 	'<strong>wedeln</strong>: wag, wave'+
 	'<br><strong>auswedeln</strong>: wave out (eg, a match)'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wedeln"target="target1">wedeln</a> &nbsp;<a href="https://www.dwds.de/wb/wedeln"target="target2">wedeln</a>'+
@@ -22251,10 +22255,13 @@ wedeln: [
 	'"Pssst", zischte Charly, als Gereon ins Wohnzimmer kam und so etwas wie "Guten Abend" sagte. Sie <strong>wedelte</strong> mit den Armen und hoffte, er möge sie verstehen, und er verstand. Jedenfalls grinste er, legte den Finger an die Lippen und stakste so übertrieben auf Zehenspitzen zu seinem Sessel, dass es sie schon wieder ärgerte.  (<i>Märzgefallene</i>, 210)',
 	'Kirie hatte mit dem Schwanz <strong>gewedelt</strong>, als sie merkte, dass es nach einer guten Stunde schon wieder nach draußen ging. (<i>Märzgefallene</i>, 292)',
 	'Bevor sie (<i>Charly</i>) etwas sagen konnte, kam Kirie aus der Küche, tapste an die Wohnungstür und betrachtete die drei Störenfriede. "Hallo, Bello", sagte der Junge (<i>Fritze</i>) und wuschelte Kirie durchs Fell und durch die Sclappohren, was der Hund mit Schwanz<strong>wedeln</strong> und liebevollem Gesichtsablecken beantwortete. (<i>Märzgefallene</i>, 352)',
+
 	'<i>Schupo zu Charly</i>: "Entschuldigen Se nochmals die Störung, Gnädigste. Sagen Se Ihrer Schwester bitte, se soll demnächst besser auf den kleinen Rabauken aufpassen!" Er wandte sich an den Jungen (<i>Fritze</i>) und <strong>wedelte</strong> mit dem Finger vor dessen Nase. "Dass du dich ja nie wieder beim Betteln erwischen lässt!" (<i>Märzgefallene</i>, 353)',
 	'Erst als das Türschloss einschnappte, ließ Charly den Jungen (<i>Fritze</i>) los.... Kirie beschnupperte den unerwarteten Gast immer noch und <strong>wedelte</strong> mit dem Schwanz. (<i>Märzgefallene</i>, 353)',
+
 	'Charly erwiderte seinen Kuss, entzog sich ihm aber, als er sie umarmen wollte. "Nicht jetzt, Gereon", sagte sie und <strong>wedelte</strong> mit der Mappe. "Keine Zeit." (<i>Märzgefallene</i>, 363)',
 	'"Hannah Singer, Fritze Fragmichnich, damals diese Alex...." Rath seufzte. "Kann es sein, dass du ein Faible für Straßenkinder hast?" Charly zuckte nur die Schultern, "Jede Frau hat ihre Geheimnisse," sagte sie, <strong>wedelte</strong> noch einmal mit der Akte und verschwand. (<i>Märzgefallene</i>, 363)',
+
 	'"Hier", sagte er (<i>Rath</i>), für dich!" Fritze schaute den Zehner zögerlich an, als traue er dem Braten nicht. Rath <strong>wedelte</strong> mit dem Schein. "Nimm", sagte er, "für deine Hilfe." (<i>Märzgefallene</i>, 370)',
 	'Er (<i>Fritze</i>) kraulte Kirie durchs Fell, der Hund <strong>wedelte</strong> mit dem Schwanz. Hoffte wahrscheinlich auf einen Spaziergang mit dem Jungen und tapste mit zur Wohnungstür. (<i>Märzgefallene</i>, 371)',
 	'...dann ging er (<i>Rath</i>) zur Wohnungstür, an der Kirie schon stand und erwartugsvoll mit dem Schwanz <strong>wedelte</strong>. (<i>Märzgefallene</i>, 402)',
@@ -22345,6 +22352,8 @@ weichkochen: [
 	'<u>Der nasse Fisch</u>',
 	'Nachdem er den Alten Fritz im Vernehmungsraum <strong>weichgekocht</strong> hatte, hatte Rath dem Onkel (<i>Wolter</i>) die Liste mit den Namen gestern auf den Tisch gelegt.. Der erste Durchbruch in ihren Ermittlungen. (<i>Der nasse Fisch</i>, 50)',
 	'Stephan Jänicke saß mit einem derart eingefrorenen Gesicht auf der Rückbank, wie es wohl nur Ostpreußen zustande bekamen. Nicht die kleinste Gemütsregung war ihm anzusehen.. Jänicke war genau der richtige Mann für so eine Aufgabe, nichts machte einen Ganoven dieses Kalibers nervöser als ein Bulle, der kein Wort sprach. Wilfried Johnny Johnen würde <strong>weichgekocht</strong> sein, befor er das Präsidium überhaupt erreicht hatte.  (<i>Der nasse Fisch</i>, 246)',
+	'<u>Marlow</u>',
+	'Sollten sie (<i>die Nazis</i>) am Ende nicht nur ihrem (<i>Charlys</i>) Jungen, sondern auch ihrem Mann den Verstand mit ihrem Brimborium <strong>weichgekocht</strong> haben? Gereon war kein Nazi, nein, das bestimmt nicht. Aber dass er der Regierung und der Partei ausgesprochen kritisch gegenüberstand, das konnte man auch nicht gerade behaupten. (<i>Marlow</i>, 317)',
 ],
 weichklopfen: [
 	'<strong>weichklopfen</strong>: tenderize, soften up'+
@@ -22574,6 +22583,8 @@ wüten: [
 	'<u>Lunapark</u>',
 	'<i>Charly</i>: "Habt ihr (<i>Guido und seine Kanzlei</i>) ja gut hingekriegt zum Eröffnungstag", sagte sie, "die ganze Kanzlei wie aus dem gepellt." <i>Guido</i>: "Gestern Abend sah es hier wüster aus." Er grinste. "Ich weiß allerdings nicht, ob unsere Gäste oder die SA schlimmer <strong>gewütet</strong> haben..." (<i>Lunapark</i>, 207)',
 	'Die Regierung Hitler hatte ihr wahres Gesicht gezeigt und <strong>gewütet</strong> wie eine Gangsterbande, die sich ihrer Gegner entledigt. (<i>Lunapark</i>, 501)',
+	'<u>Marlow</u>',
+	'Viel hilfreicher hingegen war die Information, dass es Japaner waren, die nachdem Abzug der deutschen Kolonialherren im Gouverneurspalast <strong>gewütet</strong> und dort wichtige Papiere verbrannt hatten. Charly hoffte, dass diese Erklärung die chinesische Botschaft überzeugen würde, auch wenn Liang nicht alle nötigen Dokumente beibringen konnte. (<i>Marlow</i>, 315)',
 ],
 // <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Zinne: [
@@ -22584,8 +22595,6 @@ Zinne: [
 	'Marlows Refugium lag am Ende einer von zahlreichen Villen gesäumten Straße, die sich einen kleinen Hang hinaufwand. Wie ein kleines Schloss thronte der von Efeu bewachsene Bau über der Straße, neugotisch-britisch, mit vielen <strong>Zinnen</strong> und Türmchen. (<i>Lunapark</i>, 120)',
 	'Für einen kurzen Moment fragte sich Rath, ob er so dämlich gewesen war, sich in der Tür zu irren, doch das war unmöglich. Ein Anwesen mit solchen Türmen und <strong>Zinnen</strong> gab es kein zweites Mal in Freienwalde. (<i>Lunapark</i>, 124)',
 ],
-// ä Ä ö Ö ü Ü ß   Marlows        ä Ä ö Ö ü Ü ß            ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß           ä Ä ö Ö ü Ü ß          ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß         ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>)  Tür Straße für über überhaupt schön zurück können würde <strong>  für Tür über überhaupt schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön zurück können würde Straße <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) <strong> (<i>Charly</i>) (<i>Gereon</i>)            
 zerschießen: [
 	'<strong>zerschießen</strong>: wreck, destroy, shoot to pieces'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zerschieszen"target="target1">zerschießen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerschie%C3%9Fen"target="target2">zerschießen</a>'+
@@ -22980,13 +22989,12 @@ zerren: [
 	'<u>Lunapark</u>',
 	'Sie (<i>Charly</i>) <strong>zerrte</strong> den Hund von der Straßenlaterne weg, an der er gerade schnupperte, und betrat die Mietskaserne. (<i>Lunapark</i>, 114)',
 	'Die ganze Zeit schon hatte Kirie an der Leine <strong>gezerrt</strong>, und Charly wandte sich dem Hund zu. (<i>Lunapark</i>, 117)',
-	'Conny war aufgestanden und stand nun hinter ihm. Bevor Gräf wusste, wie ihm geschah, hatte der Mann ihn vom Stuhl <strong>gezerrt</strong> und ihn von hinten gepackt, eine Hand um die Brust gelegt, die andere um sein Gemächt. (<i>Lunapark</i>,191)',
-	'"Jetzt verstehe ich, Kommissar", sagte Lapke und schaute Rath an, als wünsche er ihm den sofortigen Tod. "Jetzt verstehe ich alles. Aber freuen Sie sich nicht zu früh. Sie..." Was Lapke noch sagte, verstand Rath nicht, denn die Schupos, die den Sturmführer in die Mitte genommen hatten, <strong>zerrten</strong> ihn fort und ließen ihn zu seinen Leuten in den Lastwagen steigen. (<i>Lunapark</i>,222)',
+	'Conny war aufgestanden und stand nun hinter ihm. Bevor Gräf wusste, wie ihm geschah, hatte der Mann ihn vom Stuhl <strong>gezerrt</strong> und ihn von hinten gepackt, eine Hand um die Brust gelegt, die andere um sein Gemächt. (<i>Lunapark</i>, 191)',
+	'"Jetzt verstehe ich, Kommissar", sagte Lapke und schaute Rath an, als wünsche er ihm den sofortigen Tod. "Jetzt verstehe ich alles. Aber freuen Sie sich nicht zu früh. Sie..." Was Lapke noch sagte, verstand Rath nicht, denn die Schupos, die den Sturmführer in die Mitte genommen hatten, <strong>zerrten</strong> ihn fort und ließen ihn zu seinen Leuten in den Lastwagen steigen. (<i>Lunapark</i>, 222)',
 	'Schweinebacke kam zum Auto zurück, stieg aber nicht wieder ein, sondern öffnete die Tür auf Karls Seite und <strong>zerrte</strong> ihn mit einem brutalen Griff aus dem Wagen. Karl landete unsanft auf dem Waldboden. (<i>Lunapark</i>, 493)',
 	'Der Gangster (<i>Leo</i>) hatte den Jungen (<i>Fritze</i>), der kein Wort mehr sagte, sondern nur noch angststarr guckte, im Klammergriff gepackt, hielt ihm die Pistole an den Kopf und <strong>zerrte</strong> ihn hinüber zur Achterbahn. (<i>Lunapark</i>, 531)',
 	'Und Juretzka stand mit Fritze, den er im Würgegriff hielt, an der Eingangsrampe zur Achterbahn... Dann aber <strong>zerrte</strong> der Gangster den Jungen ins Innere des Holzgebirges. (<i>Lunapark</i>, 531)',
 ],
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 zerschunden: [
 	'<strong>zerschunden</strong>: be cut, damaged, wounded'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zerschunden"target="target1">zerschunden</a> &nbsp;<a href="https://www.dwds.de/wb/zerschunden"target="target2">zerschunden</a>'+
@@ -23012,6 +23020,7 @@ zerzausen: [
 	'<u>Marlow</u>',
 	'Greta Overbeck stand da, im Morgenmantel und mit <strong>zerzaustem</strong> Haar, und schaute ihn verwundert an. "Gereon!" (<i>Marlow</i>, 213)',
 ],
+// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Zicke, Zicken machen': [
 	'die <strong>Zicke</strong>,-<strong>n</strong>: nanny goat; silly girl'+
 	'<br><strong>Zicken machen</strong>: make trouble'+
@@ -23023,7 +23032,6 @@ zerzausen: [
 	'<u>Lunapark</u>',
 	'Der Mann an der Pforte, ebenfalls ein Uniformierter mit Blechkragen, <strong>machte</strong> weniger <strong>Zicken</strong>, als Rath - nach Auftritt der nervösen Wachmannschaft - befürchtet hatte. (<i>Lunapark</i>, 93)',
 ],
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <strong> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Ziegelwand: [
 	'der <strong>Ziegel</strong>,-: brick <br>die <strong>Ziegelwand</strong>,-<strong>wände</strong>: brick wall'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Ziegel"target="target1">Ziegel</a> &nbsp;<a href ="https://www.dwds.de/wb/Ziegelwand?o=Zigelwand"target="target2">Ziegelwand</a>'+
@@ -23135,9 +23143,9 @@ zücken: [
 	'Als die Männer die Laderampe erreichten, trat Fred unten aus dem Schatten. "Guten Abend", sagte er. "Sie betreten gerade Privatgelände. Darf ich fragen, was Sie hier suchen?" Der Anfürer <strong>zückte</strong> einen Ausweis. "Kriminalpolizei", sagte er." (<i>Der nasse Fisch</i>, 519)',
 	'<u>Märzgefallene</u>',
 	'"Sie erlauben?", fragte Achim von Roddeck und entnahm einem silbernen wappengeschmückten Zigarettenetui eine Manoli. Rath nickte, schob einen Aschenbecher über den Tisch und <strong>zückte</strong> sein Feuerzeug. (<i>Märzgefallene</i>, 131)',
-	'Er (<i>Rath</i>) <strong>zückte</strong> einen Stift und unterschrieb den Presseaufruf, der eine genaue Beschreibung Wosniaks enthielt und nach Zeugen fragte, denen zwischen dem 21. und 25. Februar am Nollendorfplatz etwas Ungewöhnliches aufgefallen war.  (<i>Märzgefallene</i>, 148)',
+	'Er (<i>Rath</i>) <strong>zückte</strong> einen Stift und unterschrieb den Presseaufruf, der eine genaue Beschreibung Wosniaks enthielt und nach Zeugen fragte, denen zwischen dem 21. und 25. Februar am Nollendorfplatz etwas Ungewöhnliches aufgefallen war. (<i>Märzgefallene</i>, 148)',
 	'Er (<i>Weinert</i>) wollte noch etwas sagen, aber schon klingelte das Telefon wieder, und der Landkreis Strehlen meldete sich. Weinert seufzte und <strong>zückte</strong> den Bleistift. (<i>Märzgefallene</i>, 210)',
-	'Als Rath den Gang hinunterkam, sah er einen SA-Mann vor der Tür sitzen.... "Hier können Se nich rin", sagte der Braune und stand auf, kaum hatte Rath sich der Tür genähert. Der Kommissar <strong>zückte</strong> seinen Dienstausweis. "Ich kann", sagte er.  (<i>Märzgefallene</i>, 241)',
+	'Als Rath den Gang hinunterkam, sah er einen SA-Mann vor der Tür sitzen.... "Hier können Se nich rin", sagte der Braune und stand auf, kaum hatte Rath sich der Tür genähert. Der Kommissar <strong>zückte</strong> seinen Dienstausweis. "Ich kann", sagte er. (<i>Märzgefallene</i>, 241)',
 	'Charly ging zu den beiden Schupos hinüber, die das Treiben vor der Bahnhofshalle aus einigem Abstand beobachteten.... Sie sprach einen der Blauen an und <strong>zückte</strong> ihren Dienstausweis.  (<i>Märzgefallene</i>, 295)',
 	'"Achim von Roddeck also", sagte die Gräfin.... "Was ist denn so interessant an dem?" "Nun..." Charly <strong>zückte</strong> ihren Reporterblock. "....unsere Zeitung möchte gerne den Menschen hinter dem unnahbaren Schriftsteller zum Vorschein bringen." (<i>Märzgefallene</i>, 336)',
 	'<i>Eva Heinen</i>: "Sie nehmen ganz schöne Mühen auf sich, nur um mich zu sprechen, Kommissar Rath." "Vielleicht lohnen sich diese Mühen ja." Er <strong>zückte</strong> sein Etui... "Darf man rauchen?"    (<i>Märzgefallene</i>, 452)',
@@ -23161,8 +23169,8 @@ zücken: [
 	'Er (<i>Rath</i>) <strong>zückte</strong> den Tintenkuli (<i>stylographic pen </i>), den Charly ihm zu Weihnachten geschenkt hatte, legte den neuen auf den alten Umschlag und wollte gerade ansetzen und die Anschrift kopieren, da nahm ihm ein Schatten das Licht, und der Schreck fuhr ihm in alle Glieder. (<i>Marlow</i>, 39)',
 	'<i>Rath zu Lieske, der Firma Hertling</i>: "Man verdient eben immer gerne mit, auch bei einer Zwangsräumung, nicht wahr?" Sie schaute ihn verständnislos an. "Zwangsräumung? Wer erzählt denn so was? Das war doch keine Zwangsräumung! Der Anruf kam von Frau Lehmann selbst."... "Also keine Zwangsräumung, wie auch immer", sagte er (<i>Rath</i>) und <strong>zückte</strong> Stift und Notizblock. "Ich höre." (<i>Marlow</i>, 159)',
 	'Rath hatte sich kaum auf dem Gelände umgeschaut, da wurde er auch schon zurückgepfiffen. "Hey, Sie! Für Unbefugte verboten! Was wollen\'s hier?" Er drehte sich um. Da stand ein SA-Mann, der einen Karabiner auf den Eindringling gerichtet hatte. "Heil Hitler." Rath machte brav Männchen und <strong>zückte</strong> seinen neuen Dienstausweis. "Preußisches Landeskriminalamt." (<i>Marlow</i>, 258)',
-	],
-// <strong> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <strong>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <strong> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <strong>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+	'Der Wirt zuckte die Achseln. "Da wünsch ich Ihnen viel Glück. Das macht dann acht Mark bitte." Rath <strong>zückte</strong> sein Portemonnaie. (<i>Marlow</i>, 314)',
+],
 Zugehfrau: [
 	'die <strong>Zugehfrau</strong>,-<strong>en</strong>: maid, cook, cleaning lady'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/Zugehfrau"target="target1">Zugehfrau</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Zugehfrau"target="target2">Zugehfrau</a>'+
@@ -23205,7 +23213,7 @@ Zuspruch: [
 	'<u>Märzgefallene</u>',
 	'"Unter alten Freunden ist so etwas doch selbstverständlich, nicht wahr, Leo", sagte der Nordpiratenchef (<i>Hermann Lapke</i>). "Da legt man gern mal ein gutes Wort ein." Leo spuckte aus. "Auf so einen <strong>Zuspruch</strong> kann ich verzichten. Dann bleibe ich lieber hier." .... <i>Lapke</i>: "Du wirst auf diesen <strong>Zuspruch</strong> nicht verzichten, glaube mir. Wenn du hier jemals wieder rauskommen willst, bin ich der Einzige, der deinen Arsch retten kann." (<i>Märzgefallene</i>, 221-22)',
 ],
-'zwinkern, -an, zu-': [
+'zwinkern, an-, zu-': [
 	'<strong>zwinkern</strong>: blink, wink'+
 	'<br><strong>anzwinkern</strong>, <strong>zuzwinkern</strong>: wink at'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zwinkern"target="target1">zwinkern</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zwinkern"target="target2">zwinkern</a>'+

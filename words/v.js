@@ -35,7 +35,7 @@ const v = [
    'verhunzen',  // verhunzen: 
    'verkatert, Kater',  //  duplicated 
    'verklemmt',  // verklemmt:
-   'verkneifen, verkniffen',  // 
+   'verkneifen, verkniffen',   
    'verknicken',  // verknicken:
    'verknittern, zerknittern',  // duplicated 
    'verknoten',  // verknoten: 
@@ -97,8 +97,8 @@ const v = [
    'verschwägert, verschwägern',
    'verschwimmen',  // verschwimmen: 
    'versehen',  // versehen: 
-   'versehentlich',  // versehentlich:  
-   'versehren',   // versehren:  
+   'versehentlich',  // versehentlich:
+   'versehren, Unversehrtheit, unversehrt',  // duplicated
    'versemmeln',  // versemmeln:
    'versengen',  // versengen:  
    'verseuchen', // verseuchen:

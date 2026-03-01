@@ -241,7 +241,7 @@ const s = [
    'stöbern, auf-',    
    'stochern',  // stochern:  
    'stöckeln, Stöckelschuh',  
-   'stöhnen, aufstöhnen', //   duplicated 
+   'stöhnen, auf-',  
    'stopfen, Stopfen',  
    'Stöpsel',   // Stöpsel: 
    'stolzieren', // stolzieren: 

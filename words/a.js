@@ -161,7 +161,6 @@ const a = [
 	'aufschichten',   // aufschichten: 
 	'aufspießen, spießen, Spieß',  // duplicated 
 	'aufstieben',    // aufstieben:  
-	'aufstöhnen, stöhnen', //  duplicated 
 	'auftakeln',     // auftakeln: 
 	'auftischen',    // auftischen:  
 	'Aufwartung machen',  

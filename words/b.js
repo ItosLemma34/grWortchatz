@@ -36,6 +36,7 @@ const b = [
     'Bengel',     // Bengel:  
     'benommen',   // benommen: 
     'bepinseln, pinseln', //  duplicated 
+    'bequemen, herbequemen', // duplicate
     'berappen',   // berappen:  
     'beredt',     // beredt:  
     'Beritt, beritten',     

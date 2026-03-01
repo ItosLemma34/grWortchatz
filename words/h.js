@@ -49,7 +49,6 @@ const h = [
    'hereinlegen, reinlegen',  // duplicated 
    'herrisch',  // herrisch: 
    'herumärgern, rumärgern', //  duplicated 
-   'herumdrucksen, drucksen', // duplicated 
    'herumfuhrwerken',  // herumfuhrwerken: 
    'herumlungern', // herumlungern:  
    'hetzen, gehetzt',  //  duplicated 

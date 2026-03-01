@@ -37,10 +37,10 @@ jmdn. achtkantig rausschmeißen = jmdn. achtkanig hinauswerfen, given as usage e
 'wie bestellt und nicht abgeholt' listed only under "wie"; 'wie aus dem Ei gepellt' under 'wie' and 'Ei'
 'Wohlgefallen (sich in W. auflösen) doesn't fit in any of the schemes
 'Gräfin Swetlana Sorokina
-if you don't find a Redewendung by its first word, look for it under one of its main words; eg, "sich ins Hemd machen" can be found under "Hemd (sich ins H. machen)"
-for anzwinkern or zuzwinkern look under zwinkern
 Quoting words/phrases within a relatively short context may be inadequate for understanding it within the broader
-story. But quoting entire pages would be vast overkill. If you're reading along in the book, no problem. If not, just concentrate on understanding
+story. But quoting entire pages would be vast overkill. If you're reading along in the book, no problem. If no
+if you don't find a Redewendung by its first word, look for it under one of its main words; eg, "sich ins Hemd machen" can be found under "Hemd (sich ins H. machen)"
+for anzwinkern or zuzwinkern look under zwinkernt, just concentrate on understanding
 the word/phrase as such with the quoted context. For example, the following quote is taken from the novel 
 "Der stumme Tod": 
 (Kriminalkommissar Brenner zu Rath): "Man munkelt, sie (Charly) hätte dich mal rangelassen." Brenner legte es offisichtlich darauf an, ihn zu provozieren. "Wie war sie denn so? Hat sie auch deinen Schwanz in den Mund genommen?" Blitzschnell hatte Rath den Dicken an seinem Sträflingskragen gepackt, das Bierglass fiel zu Boden und zerplatzte mit einem feuchten Klirren, Bier und Scherben spritzten nach allen Seiten...".
@@ -51,10 +51,24 @@ that larger context, just assume it does make sense and concentrate on "munkeln"
 
 looking for 'sich die Kante geben', or "die Kante geben" (Der stumme Tod, 234), look under "Kante": 'Kante (sich die K. geben)'
 If you can't find a word with a common prefix, such as an-, auf-, etc, search for the base word. And vice-versa. They may appear as one entry. For example, "schnorren" and "anschnorren" are listed as one entry, under "s": "schnorren, anschnorren". Or it could be the other way around. (Imposing consistency would be tedious.) Zum Beispiel:   Seek and you shall find! If they are there.
-'schleichen, an-, um- herum- nach- etc.' ALL under schleichen!
+'schleichen, an-, um-, herum-, nach-, hinaus-,  etc.' ALL under schleichen!
 'heulen, aus-, ver-, voll-'
 'klirren, an-, Geklirr' and 'Geklirr, klirren, an-'
+'Beule, beulen, ver-, zer-'
+'mühen, ab-'
+'Rempler, rempeln, an-'
+'stöbern, auf-'
+schaukeln, auf-
+'schaben, ab-'
+'plappern, nach-, Geplapper'  and  'Geplapper, plappern, nach-'
+'heulen, aus-, ver-, voll-'
+'fächern, auf-'
+'schnorren, an-'
+'zwinkern, an-, zu-'
+'Winkel, winkeln, an-'
+'drucksen, herum-'
 false friends:  Prämisse
+'an den Pranger' listed just as such, not "Pranger, an den"
 // '<u>Marlow</u>' Säure pg 224
                                                                                                                                                                                                                                             
 ä  Ä  ö  Ö  ü  Ü   ß            Köter                 an die große Glocke hängen                                                                                   
@@ -87,7 +101,7 @@ anbetteln  Marlow 141
  'anfauchen'  ;   Nworte++;    'Brett, Bretterwand, Bretterverschlag'Märzgefallene   87
  'anfunkeln'  ;   Nworte++;    Märzgefallene   118
  angeln  Lunapark 38
-
+anglotzen  Märzgefallene  512
  ankuppeln  Der nasse Fisch 529
 
  anschleichen Lunapark 78
@@ -117,6 +131,8 @@ Aushorcherei  Marlow 46
  'auskosten'  ;   Nworte++;    Nasse Fisch 12
  ausmerzen Lunapark 259
 ausreizen Märzgefallene   357
+ausrotten Marlow 311
+ausschmücken  Marlow 311
 aussortieren  Marlow  148
 auswischen  Der nasse Fisch 358
 auswringen  Der nasse Fisch 234  included in "Lappen"
@@ -171,6 +187,7 @@ entgleisen  Der nasse Fisch 404
  erlösen Marlow 59
  erstehen  Märzgefallene   436
  Essig Der nass Fisch 499
+ fahle Marlow 284
  Fahrtwind        Märzgefallene   519
  Fallbeil  Der nasse Fisch 300
  Federn Bettfedern Lunapark 33  in "copied"
@@ -206,7 +223,9 @@ Geheiß:   Lunapark 57
  gelitten  Der stumme Tod 123
  gelost,  losen  Lunapark 18
  Gemaule Der nasse Fisch 508
+ gepresst Der stumme Tod 260
  geraten  Der nasse Fisch 448
+ Gerufe  Marlow 279  Durcheinandergerufe
  Gesäß    Märzgefallene  508
  Geschleiche Marlow 16
  geständig Der nasse Fisch 494  included in verbuddeln
@@ -279,6 +298,7 @@ Geheiß:   Lunapark 57
  Knöchel  Der nasse Fisch 117   
  knutschen  Der stumme Tod  99
  'Kommissköppe'  ;   Nworte++;    Märzgefallene   139
+ Kopfsteinpflaster  Marlow 281
  Koppel Der nasse Fisch 481
  koten  Lunapark 490
  Köter  Lunapark 359
@@ -335,9 +355,11 @@ nölen Der nasse Fisch 465
  'Pelle'  ;   Nworte++;  auf die Pelle      Märzgefallene   15
  pikiert  Lunapark 27
  Platte Marlow 46
+ Prokurist  Marlow 276
  proper Der stumme Tod 44
  protegieren Marlow 133
  Puff Der nasse Fisch 455 
+ Raserei  Marlow 305
  rasten Marlow 231 
  Rumballerei  Der nasse Fisch 470
  rutschen  Marlow 34  together with klemmen
@@ -346,6 +368,7 @@ nölen Der nasse Fisch 465
  Schale (combine with schälen) Der stumme Tod 121
  schleichen (nach) Lunapark 542 
  Schleier  Marlow 20  
+ Scheitel Marlow 266
  Splint  Der stumme Tod  32 
  Spritze (syringe?) Der stumme Tod 106
  schnöde Marlow 25
@@ -363,7 +386,10 @@ schwanken  Der stumme Tod 32
 schwuchtel Märzgefallene  554
 Stäbchen (chopsticks) Marlow 252
 stampfen  Marlow 119
+stempeln Der stumme Tod 258
 stornieren Marlow 241
+stranden  Marlow 280
+Strohhalm  Der stumme Tod 261
 Tattergreis  Der stumme Tod 32
 taumeln  Der stumme Tod 233  contained in tröpfeln
 Trakt  Der stumme Tod  221 54Ks
@@ -376,8 +402,9 @@ unentgeltlich Marlow 218
  verfliegen verflog  Der stumme Tod 113
  verhökert  Der nasse Fisch 517
  verkohlen Der stumme Tod 23
+ vermoost  Marlow  282
  verscheuchen  Der stumme Tod 250
- Vorsehung  Marlow 119
+  Vorsehung  Marlow 119
  verziehen (sich) Der stumme Tod 115
  währen  Marlow 165
  wacklig Der stumme Tod 29

@@ -36,15 +36,16 @@ zzz: [
 
 //recommence here:   
 //reißen  ausreißen  abreißen losreißen  zusammenreißen  reißt  riss  gerissen  ausgerissen  abgerissen losgerissen zusammengerissen losreißen
-'reißen, ab-, aus-, ein-, los-, zer-, zusammen-': [ 
+'reißen, ab-, aus-, ein-, ent-, los-, zer-, zusammen-': [ 
 	'<b>reißen</b>: tear, pull'+
-	'<b>gerissen</b>: <i>adj</i>: shrewd, cunning, crafty, clever'+
+	'<br><b>gerissen</b>: shrewd, cunning, crafty, clever'+
 	'<br><b>an etwas reißen</b>: pull, strain at sth., trying to break/damage it'+
 	'<br><b>sich um etwas reißen</b>: be eager to do/have sth.'+
 	'<br><b>abreißen</b>: sever; rip, tear, pull; dismantle'+
 	'<br><b>abgerissen</b>: ragged, down-and-out, tattered; broken, disrupted'+
 	'<br><b>ausreißen</b>: run away; root/pull sth. out, eradicate'+
 	'<br><b>einreißen</b>: demolish, tear down'+
+	'<br><b>entreißen</b>: wrest, snatch sth. from so.'+
 	'<br><b>losreißen</b>: tear off, break free/loose from'+
 	'<br><b>zerreißen</b>: tear, rend, rip apart'+
 	'<br><b>sich die Mäuler (das Maul) zerreißen</b>: badmouth/disparage so.; trash so./sth.'+
@@ -54,17 +55,19 @@ zzz: [
 			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/abrei%C3%9Fen"target="target3">abreißen</a>'+
 			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/ausrei%C3%9Fen"target="target4">ausreißen</a>'+
 			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/einrei%C3%9Fen"target="target5">einreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/losrei%C3%9Fen"target="target6">losreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerrei%C3%9Fen"target="target7">zerreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zusammenreiszen"target="target8">zusammenreißen</a>'+
-		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/reissen#rei%C3%9Fen"target="target9">reißen</a>'+
-			'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=gerissen&id=adjektiv%3Agerissen%23gerissen"target="target10">gerissen</a>'+
-			'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abreissen#abrei%C3%9Fen"target="target11">abreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausreissen"target="target12">ausreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einreissen#einrei%C3%9Fen"target="target13">einreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/losreissen"target="target14">losreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zerreissen"target="target15">zerreißen</a>'+
-			'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zusammenrei%C3%9Fen&id=verb%3Azusammenreis5en"target="target16">zusammenreißen</a>',
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/entrei%C3%9Fen"target="target6">entreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/losrei%C3%9Fen"target="target7">losreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.dwds.de/wb/zerrei%C3%9Fen"target="target8">zerreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/zusammenreiszen"target="target9">zusammenreißen</a>'+
+		'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/reissen#rei%C3%9Fen"target="target10">reißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=gerissen&id=adjektiv%3Agerissen%23gerissen"target="target11">gerissen</a>'+
+			'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/abreissen#abrei%C3%9Fen"target="target12">abreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/ausreissen"target="target13">ausreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://en.langenscheidt.com/german-english/einreissen#einrei%C3%9Fen"target="target14">einreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=entrei%C3%9Fen&id=verb%3Aentreis5en"target="target15">entreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/losreissen"target="target16">losreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/zerreissen"target="target17">zerreißen</a>'+
+			'&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=zusammenrei%C3%9Fen&id=verb%3Azusammenreis5en"target="target18">zusammenreißen</a>',
 	'<u>Der nasse Fisch</u>',
 	'In der Dunkelheit geriet jedes kleinste Geräusch zu einem Höllenlärm, jedes Flüstern wuchs zu einem Brüllen heran, die Stille selbst lärmte in seinen Ohren. Ein immerwährendes Dröhnen und Rauschen. Der Schmerz machte ihn halb wahsinnig, er musste <b>sich zusammenreißen</b>. (<i>Der nasse Fisch</i>, 9)',
 	'Hatte sie (<i>Swetlana</i>) nicht dasselbe gewollt? Die Verbrecher verjagen, die dort die Macht an sich <b>gerissen</b> hatten. (<i>Der nasse Fisch</i>, 10)',
@@ -210,6 +213,8 @@ zzz: [
 	'Ja, sie (<i>Charly</i>) hatte Liangs Umschlag schließlich doch geöffnet. Weil sie sich gedacht hatte: Wieso nicht?... Vielleicth hatte sie sich auch einfach nur gelangweilt und das Kuvert deshalb <b>aufgerissen</b>. (<i>Marlow</i>, 250)',
 	'Kuen-Yao (<i>Liang</i>) war der einzige Mensch auf dieser Welt der ihm am Herzen lag.., und deshalbe würde Marlow, trotzt der rassistischen Bemerkungen, die in den Kreisen, in denen er neuerdings verkehrte, bei jeder Gelegenheit über seinen chinesischen Chauffeur und Assistenten fallengelassen wurde, immer an ihm festhalten, ganz gleich wie sehr die Meute <b>sich die Mäuler zerriss</b>... Kuen-Yao jedoch schienen sie auf diese Weise zu vergraulen, längst vergrault zu haben, und diese Erkenntnis <b>zerriss</b> ihm das Herz. (<i>Marlow</i>, 410)',
 	'Fritze war sich nicht sicher, was die Wochen der Abwesenheit für seine und Atzes Freundschaft bedeuteten, aber er hatte das Gefühl, dass der Junge, den er in Berlin wiedergetroffen hatte, ein anderer war als der, den er vor der Abreise gekannt hatte. Solange Herr Rademann dabei war, ging es, da <b>riss</b> Atze <b>sich zusammen</b>, aber in der letzten Woche hatten sie sich außerhalb der Schule kein einziges Mal getroffen... (<i>Marlow</i>, 421)',
+	'<i>SS-Mann zu Böhm</i>: "Hat Rath Ihnen etwas mitgegeben? Was haben wird denn da Schönes?" Und ehe Böhm wusste, wie ihm geschah, hatte der Lange ihm die Ermittlungsakten <b>entrissen</b>. (<i>Marlow</i>, 439)',
+
 ],
 
 //Finish:  
@@ -246,6 +251,22 @@ abstrampeln: [
 	'   (<i>Lunapark</i>, 000)',	
 	'<u>Marlow</u>',  
 	'Marlow hatte mächtige Freunde. Und mit seinem Hinweis auf die Ohnmacht es Rechtsstaates leider recht. Böhm und Charly mochten <b>sich</b> noch so <b>abstrampeln</b>, noch soviele Beweise sammeln und finden - letzten Endes waren sie machtlos, zahnlos und machtlos. (<i>Marlow</i>, 437)',
+],
+// Finish:
+Stempelkissen: [  
+	'das <b>Stempelkissen</b>: ink pad'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href=" Adblocker ausschalten "target="target1">Stempelkissen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Stempelkissen"target="target2">Stempelkissen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/stempelkissen"target="target3">Stempelkissen</a>&nbsp;&nbsp;<a href="https://www.mydict.io/translation/german-english/Stempelkissen"target="target4">Stempelkissen</a>',
+	'<u>Der nasse Fisch</u>',   
+	'   (<i>Der nasse Fisch</i>, 000)',
+	'<u>Der stumme Tod</u>',
+	'   (<i>Der stumme Tod</i>, 000)',	
+	'<u>Märzgefallene</u>',    
+	'   (<i>Märzgefallene</i>, 000)',
+	'<u>Lunapark</u>',   
+	'   (<i>Lunapark</i>, 000)',	
+	'<u>Marlow</u>',  
+	'   page 443, perhaps auch woanders  (<i>Marlow</i>, 000)',
 ],
 'bescheren, Bescherung': [  
 	'<b>bescheren</b>: bring, bestow, grant so. sth.'+
@@ -1545,7 +1566,7 @@ Walze: [
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/walze?q=Walze"target="target3">Walze</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Walze&id=substantiv%3AWalze"target="target4">Walze</a>',
 	'<u>Marlow</u>',
 	'Während die Fotos trockneten, tippte sie (<i>Charly</i>) ihren Bericht in Böhms Schreibmaschine.. Als sie das Blatt aus der <b>Walze</b> nahm, fiel ihr Blick auf die Schreibtischschublade. (<i>Marlow</i>, 221)',
-	//Marlow pg 445
+	'<i>Rath</i>: "Würde es Ihnen etwas ausmachen, diese Umschläge zu beschriften? Frankiert habe ich sie bereits." Warszawski zuckte die Achseln, zog die Hülle von der Schreibmaschine und spannte den ersten Umschlag ein. Während er dem Pastor die Adresse diktierte, sortierte Rath die vier Protokolle in die Akten ein. Warszawski zog den ersten Umschlag aus der <b>Walze</b>. (<i>Marlow</i>, 445)',
 ],
 hantieren: [
 	'<b>hantieren</b>: handle, be  busy with sth.'+
@@ -2754,6 +2775,7 @@ hangeln: [
 	'Sie (<i>Elisabeth Spindler</i>) warf einen Blick auf ihren Sohn, bevor sie weitersprach. "Es war vor seches, sieben Wochen ungefähr. Pastor Lichtenberg war ungewohnt <b>kurz angebunden</b>. Er bat mich, nach der Beichte ins Hedwigkrankenhaus zu kommen. Unverzüglich. (<i>Lunapark</i>, 435)',
 	'<u>Marlow</u>',
 	'Vor dem Stallgebäude hingegen sind Pferde <b>angebunden</b>, die ihre Hafersäcke (<i>Hafer: oats</i>) leerfressen... (<i>Marlow</i>, 350)',
+	'"Wie kann ich Ihnen helfen, meine Herren?", fragte er (<i>Böhm</i>) freundlich. "Den Weg zum Bahnhof Zoo? Ist nicht weit." "Wir kennen uns aus", sagte der Größere der beiden Männer, der, der ihm auch den Hitlergruß aufgenötigt hatte... "Schön. Dann kann ich ja weitergehen." "Moment! Warum dann so <b>kurz angebunden</b>? Sie kommen von Gereon Rath?" (<i>Marlow</i>, 439)',
 ],
 'kurz angebunden, anbinden': [
 	'<b>anbinden</b>: tether, fasten, fix, bind, tie'+
@@ -4673,6 +4695,7 @@ ungezogen: [
 	'"Wie Sie meinen", meinte der Beamte (<i>in der Ermittlungsaktenregistratur</i>).., und verschwand im Labyrinth der Regale. Keine zwei Minuten später kehrte er mit zwei dicken Aktenmappen zurück... "Nur zwei?", fragte Rath. "Waren doch drei Aktenzeichen." Der Beamte pustete den restlichen Staub von der Pappe. "Die Preußen haben schon immer gespart", sagte er und zeigte auf den Aktendeckel.. "Da hat der Kolleje Böhm dem Staatsanwalt gleich zwei Ermittlungen rinjeheftet (<i>rein<b>geheftet</b></i>). Hängen wohl auch zusammen." (<i>Marlow</i>, 190)',
 	'Anton Bruck.., ein strafrechtlich bis dahin unbeschriebenes Blatt, war in die Mühlen des preußischen Strafvollzugs geraten, weil er einen Gerichtsvollzieher, der seine Familie vor die Tür setzen wollte, tätlich angegriffen hatte. Böhm hatte auch Protokolle dieser Ermittlungen seiner Akte <b>beigeheftet</b>. (<i>Marlow</i>, 192)',
 	'Als erstes öffnete Rath den Umschlag, den er selbst beschriftet hatte. Wie alte Bekannte rutschten ihm die beiden dunkelgrünen <b>Hefter</b> mit den <i>Geheime-Reichssache</i>-Stempeln entgegen. (<i>Marlow</i>, 307)',
+	'Er (<i>Rath</i>) spannte den ersten Bogen Papier (<i>in die Schreibmaschine</i>) ein und legte los. Den Text hatte er sich zuhause schon zurechtgelegt. Er musste die Geheimakte Göring gar nicht großartig ergänzen; vier maschinengeschriebene Protokolle, an die richtigen Stellen in die Aktenmappen <b>geheftet</b>, sollten ausreichen. (<i>Marlow</i>, 442)',
 ],
 // ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß   <b>   ä Ä ö Ö ü Ü ß herumärgern    ä Ä ö Ö ü Ü ß    ä Ä ö Ö  <b>    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß      ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß        ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß       ä Ä ö Ö ü Ü ß     ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß    ä Ä ö Ö ü Ü ß  
 nölen: [
@@ -6466,6 +6489,8 @@ vermaledeit: [
 	'Die Soko-Akten lagen auf seinem Schreibisch... Den ganzen Nachmittage..hatte er (<i>Rath</i>) sie durchgeblättert, hatte Erika Voss, die sich ehrlich über seine Rückkehr gefreut hatte, nur zum Kaffeekochen <b>eingespannt</b> und ihre Neugier mit der bewährten Ausrede "streng geheim, Gestapamaterial" abgewehrt. (<i>Lunapark</i>, 467)',
 	'<u>Marlow</u>',
 	'Dann legte er (<i>den Telefonhörer</i>) auf... "Der Buddha?", fragte Henning. Rath nickte. ".. Da gibt es noch ein paar Dinge zu klären." <i>Henning</i>: "Lass die Mordinspektion so viel klären, wie sie will, aber lass dich da bloß nicht <b>einspannen</b>, das sieht Nebe gar nicht gerne." (<i>Marlow</i>, 184)',
+	'Er (<i>Rath</i>) <b>spannte</b> den ersten Bogen Papier (<i>in die Schreibmaschine</i>) <b>ein</b> und legte los. Den Text hatte er sich zuhause schon zurechtgelegt. (<i>Marlow</i>, 442)',
+	'<i>Rath</i>: "Würde es Ihnen etwas ausmachen, diese Umschläge zu beschriften? Frankiert habe ich sie bereits." Warszawski zuckte die Achseln, zog die Hülle von der Schreibmaschine und <b>spannte</b> den ersten Umschlag <b>ein</b>. (<i>Marlow</i>, 445)',
 ],
 'ausspannen, einspannen': [
 	'<b>einspannen</b>: clamp, fit, hitch, mount; harness; involve, rope in'+
@@ -6504,6 +6529,8 @@ vermaledeit: [
 	'Die Soko-Akten lagen auf seinem Schreibisch... Den ganzen Nachmittage..hatte er (<i>Rath</i>) sie durchgeblättert, hatte Erika Voss, die sich ehrlich über seine Rückkehr gefreut hatte, nur zum Kaffeekochen <b>eingespannt</b> und ihre Neugier mit der bewährten Ausrede "streng geheim, Gestapamaterial" abgewehrt. (<i>Lunapark</i>, 467)',
 	'<u>Marlow</u>',
 	'Dann legte er (<i>den Telefonhörer</i>) auf... "Der Buddha?", fragte Henning. Rath nickte. ".. Da gibt es noch ein paar Dinge zu klären." <i>Henning</i>: "Lass die Mordinspektion so viel klären, wie sie will, aber lass dich da bloß nicht <b>einspannen</b>, das sieht Nebe gar nicht gerne." (<i>Marlow</i>, 184)',
+	'Er (<i>Rath</i>) <b>spannte</b> den ersten Bogen Papier (<i>in die Schreibmaschine</i>) <b>ein</b> und legte los. Den Text hatte er sich zuhause schon zurechtgelegt. (<i>Marlow</i>, 442)',
+	'<i>Rath</i>: "Würde es Ihnen etwas ausmachen, diese Umschläge zu beschriften? Frankiert habe ich sie bereits." Warszawski zuckte die Achseln, zog die Hülle von der Schreibmaschine und <b>spannte</b> den ersten Umschlag <b>ein</b>. (<i>Marlow</i>, 445)',
 ],
 'behelligen, unbehelligt': [
 	'<b>behelligen</b>: bother, pester'+
@@ -6769,6 +6796,7 @@ schlüpfen: [
 	'Brunner genoss dieses Gefühl. Ein anderer zu sein.. Weil er es liebte, in die Haut eines anderen zu <b>schlüpfen</b>, weil er es so glaubhaft erscheinen ließ, ein anderer zu sein. (<i>Marlow</i>, 15)',
 	'Das Hoftor hatte er (<i>Rath</i>) mit Hilfe der Sperrhaken schnell überwunden; er zog es sofort wieder zu, nachdem er hindurch<b>geschlüpft</b> war, und hatte nun - vor Blicken geschützt durch die Mauer des Firmengeländes - alle Zeit der Welt, um in das Verwaltungsgebäude zu gelangen. (<i>Marlow</i>, 270)',
 	'Auch jetzt bewegte er (<i>Rath</i>) sich ganz langsam und vorsichtig, öffnete die Tür nur so weit, dass er gerade hindurch<b>schlüpfen</b> konnte, dann ließ er sie langsam wieder ins Schloss fallen. (<i>Marlow</i>, 274)',
+	'Während die anderen das Kirchenschiff betraten, wandte er (<i>Rath</i>) sich in der Vorhalle nach rechts und <b>schlüpfte</b> durch eine unscheinbare Tür ins Treppenhaus, das im Südturm untergebracht war und zum Wohnungs- und Bürotrakt hinaufführte. (<i>Marlow</i>, 441)',
 ],
 Schaukasten: [
 	'der <b>Schaukasten</b>,-<b>kästen</b>: display, showcase'+
@@ -7725,6 +7753,7 @@ knistern: [
 	'Das Papier unter seiner Weste <b>knisterte</b> so laut, dass er (<i>Rath</i>) glaubte, jeder müsse es hören. (<i>Marlow</i>, 38)',
 	'Der weiße Umschlag enthielt auch keinerlei Beschriftung, jedoch <b>knisterte</b> er leise, wenn man ihn bog. (<i>Marlow</i>, 211)',
 	'<i>Charly telefoniert nach China</i>: Es klickte in der Leitung. Und dann ratterte es. "Hallo", rief Charly in den Hörer. Wieder ratterte es. "Hallo", wiederholte sie, noch lauter als zuvor. "Ni hao", hörte sie es aus dem Telefon <b>knistern</b>. Die Stimme klang ertaunlich nah, und Charly schämte sich, so gebrüllt zu haben. (<i>Marlow</i>, 262)',
+	'Er kam genau zur rechten Zeit, denn gerade ging es zur Kommunion. Rath ging mit, die Papiere unter seinem Hemd <b>knisterten</b>, als er sich hinkniete und aus der Hand von Pastor Warszawski die Hostie entgegennahm. (<i>Marlow</i>, 443)',
 ],
 kneifen: [
 	'<b>kneifen (sich)</b>: pinch; chicken out'+
@@ -9003,7 +9032,7 @@ anpumpen: [
 	'Du hast neue Morphinampullen mitgebracht, hast die ganze Tasche vollgepackt, wie nur irgend hineinpasst, weil du dachtest, du müsstest ihr soviel Morphin dalassen wie möglich, bevor sie dir im Lazarett <b>auf die Schliche kommen</b> und der Nachschub versiegt. (<i>Marlow</i>, 163)',
 	'Rath hörte überhaupt nicht mehr hin, was Böhm und Charly besprachen, über Marlow und Doktor Wrede und wie man den beiden <b>auf die Schliche kommen</b> könnte. Das war alles doch völlig witzlos, das interessierte ihn nicht, das würde zu nichts führen. (<i>Marlow</i>, 437)',
 ],
-// <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'angeben, Angeber': [
 	'<b>angeben</b>: boast, brag, show off'+
 	'<br>der <b>Angeber</b>,-: show-off, braggart; informer'+
@@ -9018,6 +9047,8 @@ anpumpen: [
 	'<u>Lunapark</u>',
 	'"Kannst du mich in die Prinz-Albrecht-Straße fahren?", hatte Gräf ihn (<i>Rath</i>) gebeten, als sie von ihrem Besuch im Sturmlokal zurückgekehrt waren und niemanden mehr am Tatort antrafen.. "Ich wollte dir da ohnehin noch was zeigen." <i>Rath</i>: "Willst du mit deinem neuen Büro <b>angeben</b>?" (<i>Lunapark</i>, 51)',
 	'Fritze war sich nicht sicher, was die Wochen der Abwesenheit für seine und Atzes Freundschaft bedeuteten, aber er hatte das Gefühl, dass der Junge, den er in Berlin wiedergetroffen hatte, ein anderer war als der, den er vor der Abreise gekannt hatte. Solange Herr Rademann dabei war, ging es, da riss Atze sich zusammen, aber in der letzten Woche hatten sie sich außerhalb der Schule kein einziges Mal getroffen, und auch auf dem Schulhof hatte Atze lieber mit Bubach und den anderen <b>Angebern</b> heimlich hinter der Turnhalle geraucht, als mit seinem alten Freund zu reden oder Fußball zu spielen. (<i>Marlow</i>, 421)',
+	'<u>Marlow</u>',
+	'<i>Böhm</i>: "Wollte nur behilflichsein. Bin schließlich ein ehemaliger Kollege. Kripo, Inspektion A." <i>Gestapobeamte</i>: "Und nun sind Sie Privatdetektiv. Wir wissen Bescheid, Herr Böhm. Oberkommissar a.D...." Diese <b>Angeber</b>. Konnten es nicht lassen, mit ihrem Wissen zu prahlen. (<i>Marlow</i>, 440)',
 ],
 'Attest, attestieren': [
 	'das <b>Attest</b>,-<b>e</b>: (medical) certificate'+
@@ -11831,6 +11862,7 @@ eintüten: [
 	'<u>Marlow</u>',
 	'"Überlassen Sie das Vermuten mal lieber der Kripo", sagte Rath (<i>zum Hauptwachtmeister</i>). "Und sorgen Sie dafür, dass die Asservate ordentlich <b>eingetütet</b> und beschriftet werden." (<i>Marlow</i>, 29)',
 	'Sobald Rath diese Papiere in der Hand hielt, hatte er das Gefühl, mit seinem Leben zu spielen. Als  wären sie irgendwie verflucht. Als er sie damals wieder eintütete, mit einem gewissen Gefühl der Erleichterung, hatte er nicht gedacht, sie jemals wiederzusehen. (<i>Marlow</i>, 307)',
+	'<i>Rath</i>: "Würde es Ihnen etwas ausmachen, diese Umschläge zu beschriften?..." Warszawski zuckte die Achseln, zog die Hülle von der Schreibmaschine und spannte den ersten Umschlag ein. Während er dem Pastor die Adresse diktierte, sortierte Rath die vier Protokolle in die Akten ein. Warszawski zog den ersten Umschlag aus der Walze. "Welcher Absender?", fragte er. "Brauchen wir keinen", sagte Rath und <b>tütete</b> die erste Akte <b>ein</b>. (<i>Marlow</i>, 445)',
 ],
 erdreisten: [
 	'<b>sich erdreisten</b>: presume, dare to do something'+
@@ -12069,7 +12101,7 @@ feilbieten: [
 	'Der SA-Mann studierte den Dienstausweis, den sein Kollege aus Raths Westentasche gefischt hatte. "Was wollen Sie von Sturmbannführer Sperling?".. <i>Rath</i>: "Sturm<i>bann</i>führer? Da hat der Mann es aber in wenigen Monaten weit gebracht", sagte er. "Ich habe Herrn Sperling zuletzt vor einem Jahr gesehen... Bei der Feldpolizei. Aber ist ja noch dieselbe Truppe, oder? Nur die Uniformen sind schicker." Der Brüllaffe zog die Augenbrauen hoch, und für einen Moment befürchtete Rath, mit seiner <b>Flapsigkeit</b> zu weit gegangen zu sein. (<i>Lunapark</i>, 92)',
 ],
 filzen: [
-	'<b>filzen</b>: frisk, shake so. down; to felt (textiles)'+
+	'<b>filzen</b>: frisk, search,shake so. down; to felt (textiles)'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/filzen_kontrollieren_stehlen"target="target1">filzen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/filzen"target="target2">filzen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/filzen"target="target3">filzen</a>&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/filzen"target="target4">filzen</a> ',
 	'<u>Der nasse Fisch</u>',
@@ -12077,8 +12109,10 @@ filzen: [
 	'Auf dem Hof wartete der Gorilla von der Eingangstür mit Raths Hut und Mantel. Er drückte ihm die Sachen in den Arm und begann ihn zu <b>filzen</b>. (<i>Der nasse Fisch</i>, 204-5)',
 	'<u>Lunapark</u>',
 	'Und am alten Ostbahnhof, wo Marlow direkt hinter dem Varietè <i>Plaza</i> Hof gehalten hatte, kam Rath sich vor wie in einer anderen Welt. Früher hatten bullige Wächter jeden Besucher bereits auf der Straße abgefangen und <b>gefilzt</b>, doch diesmal hatte er den Komplex ungehindert betreten können. (<i>Lunapark</i>, 120)',
+	'<u>Marlow</u>',
+	'"Was wollen Sie jetzt damit tun? Sie verbrennen?",fragte der Pastor... Rath schüttelte den Kopf. "Nein", sagte er. "Das sind Beweismittel. Die müssen an den richtigen Adressaten." "Hm. Wie wollen Sie das denn bewerkstelligen? Sie können die Akten jetzt nicht mitnehmen, wenn draußen der SD steht. Womöglich <b>filzen</b> die Sie." (<i>Marlow</i>, 444)',
 ],
-//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 flott: [
 	'<b>flott</b>: brisk, jaunty, lively, perky'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/flott"target="target1">flott</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/flott"target="target2">flott</a>'+
@@ -12796,11 +12830,12 @@ Gage: [
 	'<i>Bellmann</i>: "Mehrsprachigkeit ist eine der vielen Vorzüge, die Eva (<i>Kröger</i>) mit sich bringt." <i>Rath</i>: "Und waahrscheinlich bekommt sie als Debütantin auch noch weniger <b>Gage</b> als die große Winter. Da haben Sie ja wirklich ein gutes Geschäft gemacht!" (<i>Der stumme Tod</i>, 154)',
 	'<i>Bellmann</i>: "Aber wenn Sie mir hier irgendwas unterstellen wollen, sollten Sie sich in Acht nehmen. Ich habe gute Anwälte.".. <i>Rath</i>: "Niemand möchte Ihnen etwas unterstellen. Es geht mir um Tatsachen. Sollte ich die Höhe der <b>Gage</b> falsch eingeschätzt haben, können Sie mir die Verträge gerne zeigen." (<i>Der stumme Tod</i>, 155)',
 ],
-'getäfelt, täfeln': [
+'täfeln, getäfelt, Vertäfelung': [
 	'<b>täfeln</b>: to panel, line with wooden panels'+
 	'<br><b>getäfelt</b>: boarded, paneled'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/t%C3%A4feln"target="target2">täfeln</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%A4feln"target="target4">täfeln</a>',
+	'<br>die <b>Vertäfelung</b>,-<b>en</b>: wood paneling'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
 	'<u>Der stumme Tod</u>',
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<b>getäfelten</b> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
 	'Das Pschorr-Haus stand direkt am Potsdamer Platz, schon oft war er (<i>Rath</i>) hier vorbeigefahren, hatte den Bau aber noch nie betreten. Zigarettenrauch und Bierdunst empfingen ihn in der dunkel holz<b>getäfelten</b> Gaststube. (<i>Der stumme Tod</i>, 140)',
@@ -12812,12 +12847,14 @@ Gage: [
 	'Der Makler verließ den holz<b>getäfelten</b> Raum durch eine Tür, die weiter nach hinter führte. (<i>Lunapark</i>, 457)',
 	'<u>Marlow</u>',
 	'Er (<i>Rath</i>) wartete bis neun, dann betrat er das kleine Postamt und meldete ein Ferngespräch nach Berlin an. Der Mann am Schalter, der Ärmelschoner trug, etwas, das Rath ewig nicht gesehen hatte, wies ihm eine holz<b>getäfelte</b> Kabine zu. (<i>Marlow</i>, 312)',
+	'Der Pastor hatte inzwischen eine Klappe in der Holz<b>vertäfelung</b> geöffnet, hinter der sich ein kleiner Safe befand. "Ich habe Ihre Papiere aus der Laube geholt. Waren noch unter dem Bierkasten, wie Sie gesagt haben." (<i>Marlow</i>, 444)',
 ],
-'täfeln, getäfelt': [
+'Vertäfelung, täfeln, getäfelt': [
 	'<b>täfeln</b>: to panel, line with wooden panels'+
 	'<br><b>getäfelt</b>: boarded, paneled'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/t%C3%A4feln"target="target2">täfeln</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%A4feln"target="target4">täfeln</a>',
+	'<br>die <b>Vertäfelung</b>,-<b>en</b>: wood paneling'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/taefeln"target="target1">täfeln</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/Vert%C3%A4felung"target="target2">Vertäfelung</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%A4feln"target="target3">täfeln</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=Vert%C3%A4felung&id=substantiv%3AVerta3felung"target="target4">Vertäfelung</a>',
 	'<u>Der stumme Tod</u>',
 	'Das Hotel Kaiserhof und seine Gastronomie waren beliebt bei Politikern.., genau das Passende also für Engelbert Rath, der seinen Sohn zielstrebig in das Restaurant im Erdgeschoss führte. Sogar das Stimmengewirr klang in dem eichen<b>getäfelten</b> Saal gesitteter als anderswo, das Gläserklirren gedämpfter... (<i>Der stumme Tod</i>, 46)',
 	'Das Pschorr-Haus stand direkt am Potsdamer Platz, schon oft war er (<i>Rath</i>) hier vorbeigefahren, hatte den Bau aber noch nie betreten. Zigarettenrauch und Bierdunst empfingen ihn in der dunkel holz<b>getäfelten</b> Gaststube. (<i>Der stumme Tod</i>, 140)',
@@ -12829,8 +12866,9 @@ Gage: [
 	'Der Makler verließ den holz<b>getäfelten</b> Raum durch eine Tür, die weiter nach hinter führte. (<i>Lunapark</i>, 457)',
 	'<u>Marlow</u>',
 	'Er (<i>Rath</i>) wartete bis neun, dann betrat er das kleine Postamt und meldete ein Ferngespräch nach Berlin an. Der Mann am Schalter, der Ärmelschoner trug, etwas, das Rath ewig nicht gesehen hatte, wies ihm eine holz<b>getäfelte</b> Kabine zu. (<i>Marlow</i>, 312)',
+	'Der Pastor hatte inzwischen eine Klappe in der Holz<b>vertäfelung</b> geöffnet, hinter der sich ein kleiner Safe befand. "Ich habe Ihre Papiere aus der Laube geholt. Waren noch unter dem Bierkasten, wie Sie gesagt haben." (<i>Marlow</i>, 444)',
 ],
-// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+	// (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä  Ä  ö  Ö  ü  Ü   ß Böhm Tür Straße  für über überhaupt  schön  zurück können   würde   <b>  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  Böhm   für Tür über überhaupt  schön  zurück können  würde Straße Böhm  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Böhm   ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 gesittet: [
 	'<b>gesittet</b>: civilized, courteous, well-mannered'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/gesittet"target="target1">gesittet</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/gesittet"target=target2>gesittet</a>'+
@@ -14467,6 +14505,8 @@ Klappe: [
 	'Rath lächelte Charly an. Sie hatten alles richtig gemacht heute. Der einziger Fehler war,.. dass sie Charlys Mutter in der Nähe des Telefunken-Musikschranks plaziert hatten. "Das is ja... Ihr habt Radio?", rief Luise Ritter aus und öffnete die <b>Klappe</b>. "Ich darf doch?", fragte sie, und noch bevor irgendjemand antworten konnte, hatte sie das Gerät auch schon eingeschaltet. (<i>Märzgefallene</i>, 589)',
 	'<u>Lunapark</u>',
 	'Der Kommunist (<i>Walter Spindler</i>) öffnete die Dose und holte ein in Watte gepacktes Glasauge heraus, das er eine Weile prüfend betrachtete, bevor er die Augen<b>klappe</b> abnahm, sodass Rath die gespenstisch leere Augenhöhle sehen konnte, und die Prothese einsetzte. Sah fast aus wie echt. (<i>Lunapark</i>, 418)',
+	'<u>Marlow</u>',
+	'Der Pastor hatte inzwischen eine <b>Klappe</b> in der Holzvertäfelung geöffnet, hinter der sich ein kleiner Safe befand. "Ich habe Ihre Papiere aus der Laube geholt. Waren noch unter dem Bierkasten, wie Sie gesagt haben." (<i>Marlow</i>, 444)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 Kinkerlitzchen: [
@@ -15955,6 +15995,7 @@ Lache: [
 	'Rath parkte in der Elmshorner Straße.. Obwohl er schon ein paarmal hiergewesen war, dauerte es etwas, bis er die <b>Laube</b> gefunden hatte. Der Schlüssel, den Pastor Warszawski ihm mitgegeben hatte, passte. (<i>Marlow</i>, 376)',
 	'<i>Rath</i>: "Die Brunnersache jedenfalls muss <u>außen vor bleiben</u>, die geht Böhm nichts an, die geht niemanden etwas an. Da sollten wir uns höchstens Gedanken machen, wie wir an die Akten kommen, ohne dass der SD das spitzkriegt." <i>Charly</i>: "Die liegen immer noch in der <b>Laube</b>?" Rath nickte. (<i>Marlow</i>, 417)'+
 	'<br>(<u>außen vor bleiben</u> = <i>must be kept out of this</i>)',
+	'Der Pastor hatte inzwischen eine Klappe in der Holzvertäfelung geöffnet, hinter der sich ein kleiner Safe befand. "Ich habe Ihre Papiere aus der <b>Laube</b> geholt. Waren noch unter dem Bierkasten, wie Sie gesagt haben." (<i>Marlow</i>, 444)',
 ],
 'Lappen, durch die L. gehen': [
 	'der <b>Lappen</b>,-: rag, cloth'+
@@ -16831,6 +16872,7 @@ nuscheln: [
 	'<i>Rath</i>: "Wenn sie mich entschuldigen wollen, Fräulein Peters (<i>die Jugendamtsfrau</i>), aber ich muss jetzt wirklich los. Kommen Sie doch ein andermal wieder. Am besten, Sie rufen vorher an." "Anders scheint es bei Ihnen ja auch kaum möglich zu sein!" Fräulein Peters klang nun sehr schnippisch. "Sie hören dann von mir", sagte sie. "Heil Hitler!" Und damit drehte sie sich um und ließ Rath stehen. Bevor er den rechten Arm heben und sein <i>Hei\'tler</i> <b>nuscheln</b> konnte, war sie schon im Treppenhaus verschwunden. (<i>Marlow</i>, 47)',
 	'Die Sekretärinnen standen von ihren Stühlen auf, die Brünette eine Idee zackiger als die Blondine. "Heil Hitler, Oberkommissar", sagten beide unisono und ließen, beinahe synchron, ihren rechten Arm hochschnellen. "Hei\'", <b>nuschelte</b> Rath wie üblich und winkelte seine Rechte kurz an. (<i>Marlow</i>, 179)',
 	'"Gut", sagte Gräf, "lass uns morgen weiterrreden; ich muss wieder los. Heil Hitler!" Die Kollegen rissen die Arme hoch und erwiderten den Deutschen Gruß; Rath beließ es beim Anwinkeln und seinem <b>genuschelten</b> "Hei\'tler." <i>Marlow</i>, 375)',
+	'Unwillig machte Böhm den Hitlergruß und <b>nuschelte</b> ein Heil. Bloß keinen unnötigen Ärger riskieren. <i>Marlow</i>, 439)',
 ],
 // (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 'Nase (lange N. zeigen/machen)': [
@@ -17245,14 +17287,18 @@ paktieren: [
 	'Luise Ritter stand auf. Sie war nun ganz die kämpferische Protestantin, als die Rath sie auch schon erlebt hatte, als das Gespräch einmal auf seine Konfession gekommen war. "Habt mit den Roten <b>paktiert</b>, die Sozen an die Regierung gebracht! Euer Erzberger ist doch der schlimmste aller Novemberverbrecher gewesen!" (<i>Märzgefallene</i>, 592)',
 ],
 //   (<i>Charly</i>)  (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Osterberg</i>) ä  Ä  ö  Ö  ü  Ü   ß  Tür Straße  für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für Tür über überhaupt  schön  zurück können  würde Straße   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß  <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
-plumpsen: [
-	'<b>plumpsen</b>: flop, plop, tumble'+
-	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plumpsen"target="target1">plumpsen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/plumpsen"target="target2">plumpsen</a>'+
-	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/plumpsen"target="target3">plumpsen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=plumpsen"target="target4">plumpsen</a>',
+'plump, plumpsen': [
+	'<b>plump</b>: awkward, clumsy, crude, ungraceful'+
+	'<br><b>plumpsen</b>: flop, plop, tumble'+
+	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/plump"target="target1">plump</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/plumpsen"target="target2">plumpsen</a>'+
+	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.collinsdictionary.com/dictionary/german-english/plump"target="target3">plump</a>&nbsp;&nbsp;<a href="https://de.bab.la/woerterbuch/deutsch-englisch/plumpsen"target="target4">plumpsen</a>',
 	'<u>Der nasse Fisch</u>',
 	'<i>Böhm</i>: "Wann ist er gestorben? Und wie?" <i>Doktor Schwartz</i>: "Der genaue Todeszeitpunkt ist nicht festzustellen..." <i>Böhm</i>: "Also war er in jedem Fall bereits tot, als er gestern in den Landwehrkanal <b>plumpste</b>?" (<i>Der nasse Fisch</i>, 87)',
 	'<u>Märzgefallene</u>',
 	'Katsche ließ ihn wieder auf den Stuhl <b>plumpsen</b>, und Leo (<i>Juretzka</i>) unterdrückte den Würgereiz. "Wir stellen hier die Fragen", sagte der Scharführer, "von dir wollen wir nur Antworten hören. Kapiert?" (<i>Märzgefallene</i>, 113)',
+	'Rath suchte sich einen Platz in der vorletzten Reihe... Am leiser werdenden Geplapper konnte er erkennen, dass es losging. Ein Streichquartett machte den Auftakt. <i>Ich hatt\' einen Kameraden</i>, dezent vorgetragen und ohne Gesang. Roddeck verstand es, seiner Buchpremiere den Anstrich des Besonderen zu geben, keine <b>plumpe</b> Blasmusik oder laut geschmetterten vaterländischen Gesänge, wie sie sonst üblich waren. (<i>Märzgefallene</i>, 476-77)',
+	'<u>Marlow</u>',
+	'Erstaunlich, wie gefasst Charly darüber reden konnte. Wo es doch um den Mörder ihres Vaters ging... Während Gereon Rath sich seltsam teilnahmslos gezeigt hatte. Böhm wurde aus seinem ehemaligen Mitarbeiter einfach nicht schlau. War es Unvermögen oder Absicht, dass Rath diesen Gehrke so <b>plump</b> befragt hatte? Und so einen möglichen Zeugen vergrault hatte? (<i>Marlow</i>, 438)',
 ],
 Pranke: [
 	'die <b>Pranke</b>,-<b>n</b>: paw'+
@@ -17388,6 +17434,7 @@ postieren: [
 	'Greta fummelte eine zerknitterte grüne <b>Pappschachtel</b> aus ihrem Morgenmantel, klaubte eine Eckstein (<i>eine Zigarette</i>) heraus und zündete sie an. (<i>Marlow</i>, 215)',
 	'Rath schloss die Schublade wieder und nahm das Hochzeitsfoto in die Hand. Ein einfacher, schlichter Rahmen, Stahlspangen und ein <b>Pappdeckel</b> hielten das Bild an seinem Platz. (<i>Marlow</i>, 285)',
 	'Fritzes Zimmer war vorbildlich aufgeräumt. Fräulein Peters schaute kurz hinein, warf auch hier einen Blick ins Bücherregal,..und studierte dann die Bilder, die der Junge an die Wände <b>gepappt</b> hatte. Unter anderem eines von Adolf Hitler, das er zur bestandenen Pimpfenprobe bekommen hatte. (<i>Marlow</i>, 332)',
+	'Die Mappen sahen halbwegs sauber und akkurat aus, wenn man bedachte, dass sie anderthalb Wochen unter einer Bierkiste in einem Erdloch gelegen hatten. An einigen Stellen allerdings hatte sich die <b>Pappe</b> ein wenig gewellt, außerdem rochen sie ein wenig muffig. (<i>Marlow</i>, 444)',
 ],
 //  (<i>Charly</i>) (<i>Gereon</i>) (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 petzen: [
@@ -19690,6 +19737,7 @@ schmettern: [
 	'<u>Märzgefallene</u>',
 	'<i>Es war einmal ein treuer Husar</i> <b>schmetterte</b> aus den Lautsprechern. (<i>Märzgefallene</i>, 19)',
 	'Er (<i>Gereon</i>) konnte sich noch an das Lied der Monacos erinnern, das gerade aus dem Lautsprecher <b>schmetterte</b>, als er die Kneipe mit dem Mädchen verließ. (<i>Märzgefallene</i>, 72)',
+	'Rath suchte sich einen Platz in der vorletzten Reihe... Am leiser werdenden Geplapper konnte er erkennen, dass es losging. Ein Streichquartett machte den Auftakt. <i>Ich hatt\' einen Kameraden</i>, dezent vorgetragen und ohne Gesang. Roddeck verstand es, seiner Buchpremiere den Anstrich des Besonderen zu geben, keine plumpe Blasmusik oder laut <b>geschmetterten</b> vaterländischen Gesänge, wie sie sonst üblich waren. (<i>Märzgefallene</i>, 476-77)',
 	'<u>Marlow</u>',
 	'Er (<i>Rath</i>) drängte sich durch die fanatisierte Menge, die gerade die ersten Zeilen des HJ-Liedes anstimmte - <i>Vorwärts! Vorwárts, <b>schmettern</b> die hellen Fanfaren (fanfares)!</i>... (<i>Marlow</i>, 321)',
 ],
@@ -20149,6 +20197,8 @@ Seil: [
 	'"Schön, Herr Krieg." Rath zeigte auf die Konstruktion an der Wand. "Vielleicht können Sie mir erst einmal diesen Hebel erklären", sagte er. "Ist das der Draht?" "Genau genommen ein dünnes Draht<b>seil</b>." Krieg zeigte auf einen <b>Seil</b>zug, der mit dem Hebel verbunden war und sich, durch kleine Ösen und Rollen geführt, oben im Atelierhimmel verlor, doch Rath konnte nicht erkennen, wohin, er sah nur das bekannte Labyrinth aus stählernen Laufstegen und schweren Stoffbahnen. (<i>Der stumme Tod</i>, 157)',
 	'<u>Märzgefallene</u>',
 	'Der Balken ächzt wie unter einer schweren Last, als das Draht<b>seil</b> an ihm zerrt, doch bewegen will er sich nicht. Erst als wir ein viertes Pferd anspannen, gibt er schlußendlich nach, und das Haus verliert seine letzte Stütze. (<i>Märzgefallene</i>, 159)',
+	'<u>Marlow</u>',
+	'Das Glockengeläut übertönte jedes andere Geräusch, und Rath musste grinsen bei der Vorstellung, dass Pastor Warszawski sich persönlich mit seinem ganzen nicht unbeträchtlichen Körpergewicht ans Glocken<b>seil</b> hängte, um seine Gemeinde herbeizurufen. (<i>Marlow</i>, 441)'
 ],
 sickern: [
 	'<b>sickern</b>: ooze, trickle, drip'+
@@ -20230,6 +20280,7 @@ Sperrhaken: [
 	'<u>Marlow</u>',
 	'Das Hoftor hatte er (<i>Rath</i>) mit Hilfe der <b>Sperrhaken</b> schnell überwunden; er zog es sofort wieder zu, nachdem er hindurchgeschlüpft war, und hatte nun - vor Blicken geschützt durch die Mauer des Firmengeländes - alle Zeit der Welt, um in das Verwaltungsgebäude zu gelangen. (<i>Marlow</i>, 270)',
 	'Die Haustür war verschlossen, und der Hauptwachtmeister (<i>Hans Draxler</i>) hatte seinem Gast keinen Schlüssel anvertraut, so weit ging die Gastfreundschaft dann doch nicht, doch war das Schloss kein Problem für Raths <b>Sperrhaken</b>. Die schwere hölzerne Tür knarrte nur reichlich laut beim Öffnen... (<i>Marlow</i>, 273)',
+	'Rath hatte die <b>Sperrhaken</b> griffbereit, doch die Tür war nicht einmal abgeschlossen. (<i>Marlow</i>, 442)',
 ],
 //  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können   würde   <b>     ä  Ä  ö  Ö  ü  Ü   ß     für über überhaupt  schön  zurück können  würde    <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß   für über überhaupt  schön  zurück können Polizeipräsident  würde   <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß      <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)     ä  Ä  ö  Ö  ü  Ü   ß           
 spicken: [
@@ -20709,13 +20760,14 @@ Theke: [
 	'Die enge Gaststube (<i>Das Nasse Dreieck</i>), die tatsächlich die Form eines Dreiecks hatte, war gedrängt voll, und hinter der <b>Theke</b> stand der Wirt und zapfte in stoischer Unerschütterlickkeit ein Bier nach dem anderen. (<i>Marlow</i>, 382)',
 	'Gräf saß bereits an der <b>Theke</b>, als Rath das Dreieck betrat.  (<i>Marlow</i>, 382)',
 ],
-//  (<i>Charly</i>) (<i>Gereon</i>)  (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
+//  (<i>Charly</i>) (<i>Gereon</i>)  (<i>Rath</i>) (<i>Hannah</i>) (<i>Gräf</i>) (<i>Fritze</i>) ä Ä ö Ö ü Ü ß Böhm Tür Straße für über überhaupt schön zurück können würde <b> Böhm ä Ä ö Ö ü Ü ß Böhm für Tür über überhaupt schön zurück können würde traße Böhm <b> (<i>Charly</i>) (<i>Gereon</i>) (<i>Hannah</i>) Böhm ä Ä ö Ö ü Ü ß <b> für über überhaupt Tür schön  zurück können Polizeipräsident  würde Straße  <b>  (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>) Böhm    ä  Ä  ö  Ö  ü  Ü   ß   (<i>Charly</i>)  (<i>Gereon</i>)  (<i>Hannah</i>)  Straße   ä  Ä  ö  Ö  ü  Ü   ß           
 türken: [
 	'<b>türken</b>: fake, falsify'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/tuerken"target="target1">türken</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/t%C3%BCrken"target="target2">türken</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://www.dict.cc/?s=t%C3%BCrken"target="target3">türken</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=t%C3%BCrken"target="target4">türken</a>',
 	'<u>Der nasse Fisch</u>',
 	'Sollte der geschickt <b>getürkte</b> Bericht wieder einmal so etwas wie eine Lektion gewesen sein? Schon mehrmals hatte er (<i>Rath</i>) das Gefühl gehabt, Bruno (<i>Wolter</i>) versuche, ihm etwas beizubringen, den Provinzbullen Gereon Rath mit den Berliner Gepflogenheiten vertraut zu machen. (<i>Der nasse Fisch</i>, 101-02)',
+	'<i>Rath</i>: "Das sind Beweismittel. Die müssen an den richtigen Adressaten." <i>Warzawski</i>: "Hm. Wie wollen Sie das denn bewerkstelligen? Sie können die Akten jetzt nicht mitnehmen, wenn draußen der SD steht. Womöglich filzen die Sie." "Da haben Sie völlig recht, das habe ich auch nicht vor.. Sie müssen mir noch einen Gefallen tun, Pastor." Warszawski hob die Augenbrauen. Rath zog sein Hemd aus der Hose und holte erst die <b>getürkten</b> Protokolle aus dem Hosenbund und dann einen Packen großformatiger Briefumschläge. (<i>Marlow</i>, 444)',
 ],
 tuckern: [
 	'<b>tuckern</b>: put-put, chug along'+
@@ -21674,6 +21726,7 @@ verkriechen: [
 	'<u>Marlow</u>',
 	'Als sie (<i>Charly</i>) die Detektei erreichte, fand sie die Bürotür verschlossen. <i>Bin im Gespräch</i>, informierte ein kleines gerahmtes Schild. <i>Haben Sie bitte etwas Geduld oder vereinbaren Sie telefonisch einen Termin unter Bismarck 5734. W. Böhm, private Ermittlungen aller Art</i>. Das hängte Böhm immer auf, wenn er Klientenbesuch hatte und potentielle Kundschaft nicht <b>ver­grau­len</b> wollte. (<i>Marlow</i>, 135)',
 	'Kuen-Yao (<i>Liang</i>) war der einzige Mensch auf dieser Welt der ihm am Herzen lag.., und deshalbe würde Marlow, trotzt der rassistischen Bemerkungen, die in den Kreisen, in denen er neuerdings verkehrte, bei jeder Gelegenheit über seinen chinesischen Chauffeur und Assistenten fallengelassen wurde, immer an ihm festhalten, ganz gleich wie sehr die Meute sich die Mäuler zerriss... Kuen-Yao jedoch schienen sie auf diese Weise zu <b>vergraulen</b>, längst <b>vergrault</b> zu haben, und diese Erkenntnis zerriss ihm das Herz. (<i>Marlow</i>, 410)',
+	'Erstaunlich, wie gefasst Charly darüber reden konnte. Wo es doch um den Mörder ihres Vaters ging... Während Gereon Rath sich seltsam teilnahmslos gezeigt hatte. Böhm wurde aus seinem ehemaligen Mitarbeiter einfach nicht schlau. War es Unvermögen oder Absicht, dass Rath diesen Gehrke so plump befragt hatte? Und so einen möglichen Zeugen <b>vergrault</b> hatte? (<i>Marlow</i>, 438)',
 ],
 'vertun, vertan': [
 	'<b>vertun</b>: waste, squander'+
@@ -22812,7 +22865,7 @@ wuseln: [
 	'Selbst auf dem Nürnberger Bahnhofsplatz, wo Hunderte Menschen wild durcheinander<b>wuselten</b>, an diesem Tage sogar Tausende, weil die Züge, die sie vom Reichsparteitag wieder nach Hause brachten, nahezu im Minutentakt fuhren, hielt die Hitlerjugend ihre Marschordnung ein. (<i>Marlow</i>, 359)',
 ],
 'wellen, Welle': [
-	'(sich) <b>wellen</b>: corrugate; to wave, undulate'+
+	'(sich) <b>wellen</b>: corrugate; wave, undulate'+
 	'<br>die <b>Welle</b>,-<b>n</b> wave'+
 	'<br>Deutsch:&nbsp;&nbsp;<a href="https://www.duden.de/rechtschreibung/wellen"target="target1">wellen</a>&nbsp;&nbsp;<a href="https://www.dwds.de/wb/wellen"target="target2">wellen</a>'+
 	'<br>English:&nbsp;&nbsp;&nbsp;<a href="https://dictionary.cambridge.org/dictionary/german-english/wellen"target="target3">wellen</a>&nbsp;&nbsp;<a href="https://www.verbformen.com/?w=wellen"target="target4">wellen</a>',
@@ -22820,6 +22873,7 @@ wuseln: [
 	'Ganz oben, vor der letzten Tür, blieben sie stehen. <i>Johann König, Photograph</i> stand dort angeschlagen, diesmal allerdings nicht in Messing graviert, sondern auf ein vergilbtes Pappschild gedruckt, das <b>sich</b> bereits <b>wellte</b>. (<i>Der nasse Fisch</i>, 18)',
 	'<u>Märzgefallene</u>',
 	'<i>Rath</i>: "Bitte um Verzeihung, Herr Kriminalrat. Ich hatte keine Ahnung, dass der Fall solche <b>Wellen</b> schlagen würde." (<i>Märzgefallene</i>, 248)',
+	'Die Mappen sahen halbwegs sauber und akkurat aus, wenn man bedachte, dass sie anderthalb Wochen unter einer Bierkiste in einem Erdloch gelegen hatten. An einigen Stellen allerdings hatte <b>sich</b> die Pappe ein wenig <b>gewellt</b>, außerdem rochen sie ein wenig muffig. (<i>Marlow</i>, 444)',
 ],
 'Wassern (mit allen W. gewaschen)': [
 	'<b>mit allen Wassern gewaschen</b>: know every trick in the book'+
@@ -24064,6 +24118,7 @@ verscheuchen: [  // verscheucht, verscheuchte, hat verscheucht
 	// Schränker  Der stumme Tod 329
 	// Kai  Der stumme Tod 253
 	// kess Der stumme Tod 283
+	// lochen Marlow  443
 	// vermengen  Marlow 410
 	// dolle Der stumme Tod  218  appears in verschachteln  can't find definition
 	// geizig  Der stumme Tod geizig 475

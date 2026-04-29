@@ -75,7 +75,6 @@ const g = [
    'Gestöber',   // Gestöber: 
    'Gesträuch, Strauch',  // duplicated  
    'Gestrüpp',  // Gestrüpp: 
-   'getäfelt, täfeln', // duplicated 
    'Getümmel',  // Getümmel: 
    'Geturtel',  // Geturtel:    duplicate, if found with turteln
    'Gewebe',    // Gewebe: 

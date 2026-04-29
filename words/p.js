@@ -46,7 +46,7 @@ const p = [
    'plätschern', // plätschern: 
    'Platzhirsch', // Platzhirsch: 
    'ploppen',  // ploppen: 
-   'plumpsen',  // plumpsen: 
+   'plump, plumpsen', 
    'plüschig',  // plüschig:
    'Pobacke',  // Pobacke: 
    'pöbeln, Pöbel', 

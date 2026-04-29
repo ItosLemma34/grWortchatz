@@ -115,7 +115,8 @@ const v = [
    'Verstellung',  // Verstellung:   combine with verstellen if verstellen found
    'verstockt' ,  // verstockt:  
    'verstohlen',   // verstohlen: 
-   'verstümmeln, Verstümmelung', // 
+   'verstümmeln, Verstümmelung', 
+   'Vertäfelung, täfeln, getäfelt',  // duplicated 
    'vertäuen',  // vertäuen: 
    'vertilgen',  // vertilgen: 
    'vertrackt',   // vertrackt:     combine with Vertrackt if found

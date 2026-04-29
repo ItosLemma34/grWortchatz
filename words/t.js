@@ -1,6 +1,6 @@
 const t = [
    'Tacheles reden', // 
-   'täfeln, getäfelt', //  duplicated  
+   'täfeln, getäfelt, Vertäfelung',  // duplicated
    'Tantieme',  // Tantieme: 
    'tapsen' ,  // tapsen: 
    'tätscheln', // tätscheln: 

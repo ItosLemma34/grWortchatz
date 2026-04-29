@@ -19255,7 +19255,7 @@ Stulle: [
 	'<u>Marlow</u>',
 	'Brunner steuerte den ersten Wagen in der Reihe an, doch dessen Fahrer winkte ab, der zweite ebenso, der dritte wickelte gerade eine <b>Stulle</b> aus dem Butterbrotpapier und bedachte den an die Scheibe klopfenden Fahrgast mit einem Achselzucken. (<i>Marlow</i>, 16)',
 	'Schon auf der AVUS (<i>Automobil-Verkehrs- und Übungsstraße</i>) packte sie (<i>Raths Schwiegermutter</i>) die erste <b>Stulle</b> aus, dabei hatten sie vor nicht einmal einer Stunde erst gefrühstückt. (<i>Marlow</i>, 245)',
-	'Inzwischen waren alle Vorräte aufgebraucht. Rath hatte sich zwei Käse<b>stullen<b>, einen Apfel und ein gekochtes Ei andrehen lassen, an dem er beinah erstickt wäre; die Kekse hatte Luisse Ritter alleine gegessen. Seine Schwiegermutter verfügte über einen gesunden Appetit. (<i>Marlow</i>, 254)',
+	'Inzwischen waren alle Vorräte aufgebraucht. Rath hatte sich zwei Käse<b>stullen</b>, einen Apfel und ein gekochtes Ei andrehen lassen, an dem er beinah erstickt wäre; die Kekse hatte Luisse Ritter alleine gegessen. Seine Schwiegermutter verfügte über einen gesunden Appetit. (<i>Marlow</i>, 254)',
 	'Auf der anderen Straßenseite fand er (<i>Rath</i>) ein kleines Lokal, in dem er sich einen Fensterplatz suchte und eine Portion Schweineschäuferla bestellte und dazu ein Bier. Nach dem <b>Stullen</b> und hartgekochten Eiern seiner Schwiegermutter brauchte er was Richtiges zwischen die Zähne. (<i>Marlow</i>, 256)',
 ],
 schnieke: [

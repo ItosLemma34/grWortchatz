@@ -22407,6 +22407,8 @@ verschollen: [
 	'Leutnant Achim von Roddeck litt nicht unter Verfolgungswahn, seine Befürchtungen trafen zu. Da war jemand unterwegs, der die Männer aus Roddecks alter Truppe meuchelte.... Ob dieser Jemand wirklich der <b>verschollene</b> Hauptmann war?  (<i>Märzgefallene</i>, 268)',
 	'<u>Lunapark</u>',
 	'<i>Gräf</i>: "..Du bist wegen Karl Reinhold hier.".. <i>Charly</i>: "Seine Familie hat mich darum gebeten", lautete ihre Antwort, was ja sogar irgendwie der Wahrheit entsprach. Gleichwohl hatte sie gebetet, er möge nicht nachfragen, wer aus der Familie Reinhold sie beauftragt hatte. Denn die <b>verschollene</b> Schwester Alexandra stand ebenso auf den Fahndungslisten der Polizei wie ihr inhaftierter Bruder. (<i>Lunapark</i>, 408)',
+	'<u>Marlow</u>',
+	'"Es geht um einen Vermisstenfall", log Charly.. "Es ist auch ein wenig kompliziert. Ich bin Juristin und arbeite in einem Detektivbüro, und unser Auftraggeber sucht einen lange <b>verschollenen</b> Freund." (<i>Marlow</i>, 446)',
 ],
 'verschorft, verschorfen': [
 	'der <b>Schorf</b>,-<b>e</b>: scab'+

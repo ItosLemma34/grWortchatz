@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="de">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,13 +8,15 @@
     <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <header>
         <div class="main-header">
             <span class="return">
                 <a href="help.html" onclick="saveCurrentWord()">Help/Info</a>
             </span>
-            <h3>Gereon-Rath-Krimis: Wortschatz</h3>
+            <!--    <h3>Gereon-Rath-Krimis: Wortschatz</h3>-->
+            <a id="title"><b>Gereon-Rath-Krimis: Wortschatz</b></a>
             <span class="return">
                 <a href="personen.html" onclick="saveCurrentWord()">Personen</a>
             </span>
@@ -22,7 +25,7 @@
 
     <main class="main-container">
         <div class="selection-container">
-            <button id="randomSelectButton"><b>Random Word/Phrase</b></button> 
+            <button id="randomSelectButton"><b>Random Word/Phrase</b></button>
             <label for="find-as-you-type" class="sizeOfLabels"><strong>Enter Word/Phrase:</strong></label>
             <input id="find-as-you-type" autocomplete="off">
             <label for="wordDropdown" class="sizeOfLabels" id="Click"><strong>or Click on Word/Phrase:</strong></label>
@@ -41,4 +44,5 @@
         }
     </script>
 </body>
+
 </html>
